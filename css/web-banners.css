@@ -1,12 +1,12 @@
 .version.web_banners /* version checker */
 {
-	color: #0000F7;
-	background-color: #3D85C1;
+	color: #000016;
+	background-color: #D99124;
 }
 
 .html
 {
-	background-color: #EAEAEA;
+	background-color: #EEEEEE;
 }
 
 #page
@@ -68,10 +68,10 @@
 	width: 74px;
 	min-height: 23px;
 	background-color: transparent;
+	color: #949295;
 	line-height: 24px;
 	text-align: right;
 	font-size: 20px;
-	color: #939495;
 	font-family: josefin-slab, serif;
 	font-weight: 700;
 	position: fixed;
@@ -86,10 +86,10 @@
 	width: 72px;
 	min-height: 23px;
 	background-color: transparent;
+	color: #949295;
 	line-height: 24px;
 	text-align: left;
 	font-size: 20px;
-	color: #939495;
 	font-family: josefin-slab, serif;
 	font-weight: 700;
 	position: fixed;
@@ -112,7 +112,7 @@
 #u1486_img
 {
 	padding-right: 381px;
-	padding-bottom: 8px;
+	padding-bottom: 11px;
 }
 
 #u1484
@@ -183,11 +183,11 @@
 {
 	z-index: 10;
 	width: 730px;
-	background: -webkit-gradient(linear, center top, center bottom, from(#EAEAEA),color-stop(100%, #C8C8C8));
-	background: -webkit-linear-gradient(top,#EAEAEA ,#C8C8C8 100%);
-	background: linear-gradient(to bottom,#EAEAEA ,#C8C8C8 100%);
-	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#FFEAEAEA, endColorstr=#FFC8C8C8, GradientType=0);
-	-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr='#FFEAEAEA', endColorstr='#FFC8C8C8', GradientType=0)";
+	background: -webkit-gradient(linear, center top, center bottom, from(#EEEEEE),color-stop(100%, #C8C8C8));
+	background: -webkit-linear-gradient(top,#EEEEEE ,#C8C8C8 100%);
+	background: linear-gradient(to bottom,#EEEEEE ,#C8C8C8 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#FFEEEEEE, endColorstr=#FFC8C8C8, GradientType=0);
+	-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr='#FFEEEEEE', endColorstr='#FFC8C8C8', GradientType=0)";
 	border-width: 1px;
 	border-style: solid;
 	border-color: #C8C8C8;
@@ -210,7 +210,7 @@
 {
 	border-width: 1px;
 	border-style: solid;
-	border-color: #939495;
+	border-color: #949295;
 	background-color: transparent;
 }
 

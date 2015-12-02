@@ -1,12 +1,12 @@
 .version.index /* version checker */
 {
-	color: #00001D;
-	background-color: #1F04EA;
+	color: #000012;
+	background-color: #FFB972;
 }
 
 .html
 {
-	background-color: #EAEAEA;
+	background-color: #EEEEEE;
 }
 
 #page
@@ -41,21 +41,21 @@
 
 #u105
 {
-	z-index: 172;
+	z-index: 182;
 	height: 66px;
-	background-color: #EAEAEA;
+	background-color: #EEEEEE;
 	position: fixed;
 	top: 0px;
 }
 
 #u105-bw
 {
-	z-index: 172;
+	z-index: 182;
 }
 
 #u130
 {
-	z-index: 173;
+	z-index: 183;
 	width: 47px;
 	background-color: transparent;
 	position: fixed;
@@ -79,14 +79,14 @@
 
 #u2130-4
 {
-	z-index: 179;
+	z-index: 189;
 	width: 60px;
 	min-height: 23px;
 	background-color: transparent;
+	color: #949295;
 	line-height: 22px;
 	text-align: right;
 	font-size: 18px;
-	color: #939495;
 	font-family: josefin-sans, sans-serif;
 	font-weight: 600;
 	position: fixed;
@@ -106,24 +106,21 @@
 
 #u2130-4:hover p
 {
-	color: #007C97;
+	color: #9563B7;
 	visibility: inherit;
 	text-decoration: none;
-	font-family: josefin-sans, sans-serif;
-	font-weight: 700;
-	font-style: normal;
 }
 
 #u136-4
 {
-	z-index: 175;
+	z-index: 185;
 	width: 44px;
 	min-height: 23px;
 	background-color: transparent;
+	color: #949295;
 	line-height: 22px;
 	text-align: right;
 	font-size: 18px;
-	color: #939495;
 	font-family: josefin-sans, sans-serif;
 	font-weight: 700;
 	position: fixed;
@@ -143,14 +140,14 @@
 
 #u138-4
 {
-	z-index: 183;
+	z-index: 193;
 	width: 56px;
 	min-height: 23px;
 	background-color: transparent;
+	color: #949295;
 	line-height: 22px;
 	text-align: left;
 	font-size: 18px;
-	color: #939495;
 	font-family: josefin-sans, sans-serif;
 	font-weight: 600;
 	position: fixed;
@@ -170,14 +167,14 @@
 
 #u2129-4
 {
-	z-index: 187;
+	z-index: 197;
 	width: 67px;
 	min-height: 23px;
 	background-color: transparent;
+	color: #949295;
 	line-height: 22px;
 	text-align: left;
 	font-size: 18px;
-	color: #939495;
 	font-family: josefin-sans, sans-serif;
 	font-weight: 600;
 	position: fixed;
@@ -197,11 +194,8 @@
 
 #u136-4:hover p,#u138-4:hover p,#u2129-4:hover p
 {
-	color: #007C97;
+	color: #9563B7;
 	visibility: inherit;
-	font-family: josefin-sans, sans-serif;
-	font-weight: 700;
-	font-style: normal;
 }
 
 #u817-3
@@ -217,7 +211,7 @@
 
 #u2306
 {
-	z-index: 191;
+	z-index: 201;
 	width: 1024px;
 	background-color: transparent;
 	position: fixed;
@@ -232,11 +226,11 @@
 	width: 426px;
 	min-height: 54px;
 	background-color: transparent;
+	color: #733D97;
 	line-height: 50px;
 	text-align: center;
-	font-size: 50px;
-	color: #007C97;
 	letter-spacing: 0px;
+	font-size: 50px;
 	font-family: josefin-sans, sans-serif;
 	font-weight: 300;
 	margin-left: 299px;
@@ -265,14 +259,14 @@
 	width: 217px;
 	min-height: 22px;
 	background-color: transparent;
-	text-transform: none;
+	color: #C54874;
 	line-height: 28px;
 	text-align: center;
-	font-size: 28px;
 	letter-spacing: 2px;
-	color: #939495;
+	text-transform: none;
+	font-size: 28px;
 	font-family: josefin-sans, sans-serif;
-	font-weight: 400;
+	font-weight: 300;
 	position: relative;
 	margin-right: -10000px;
 	left: 498px;
@@ -304,8 +298,8 @@
 	position: relative;
 	margin-right: -10000px;
 	left: -2px;
-	background: #FCFDFD url("../images/eye-icon-u2874-fr2.png") no-repeat center top;
-	background-color: rgba(0,99,122,0.01);
+	background: #FDFCFD url("../images/eye-icon-u2874-fr2.png") no-repeat center top;
+	background-color: rgba(140,18,61,0.01);
 }
 
 #u2874:hover
@@ -313,8 +307,8 @@
 	width: 310px;
 	min-height: 0px;
 	margin: 0px -10000px -2px 0px;
-	background: #5999A8 url("../images/eye-icon-u2874-r-fr.png") no-repeat center center;
-	background-color: rgba(0,99,122,0.65);
+	background: #BA708A url("../images/eye-icon-u2874-r-fr.png") no-repeat center center;
+	background-color: rgba(140,18,61,0.6);
 }
 
 .blue
@@ -327,14 +321,15 @@
 
 #u2894-4
 {
-	z-index: 168;
+	z-index: 170;
 	width: 310px;
 	min-height: 21px;
+	color: #FFFFFF;
 	line-height: 20px;
 	text-align: center;
-	font-size: 17px;
-	color: #FFFFFF;
 	letter-spacing: 2px;
+	text-transform: uppercase;
+	font-size: 17px;
 	font-family: vollkorn, serif;
 	font-weight: 700;
 	position: relative;
@@ -356,7 +351,6 @@
 {
 	z-index: 18;
 	width: 310px;
-	height: 254px;
 	border-width: 1px;
 	border-style: solid;
 	border-color: #C8C8C8;
@@ -365,15 +359,56 @@
 	margin-right: -10000px;
 	margin-top: -1px;
 	left: 339px;
-	background: transparent url("../images/bookl-pw-0.jpg") no-repeat left top;
+	background: transparent url("../images/paycrave-0.jpg") no-repeat left top;
 	background-size: cover;
+}
+
+#u3018
+{
+	z-index: 168;
+	width: 310px;
+	border-width: 1px;
+	border-style: solid;
+	padding-bottom: 51px;
+	margin-bottom: -2px;
+	position: relative;
+	margin-right: -10000px;
+	left: -1px;
+	background: #FDFCFD url("../images/eye-icon-u2874-fr2.png") no-repeat center top;
+	background-color: rgba(140,18,61,0.01);
+}
+
+#u3018:hover
+{
+	width: 310px;
+	min-height: 0px;
+	margin: 0px -10000px -2px 0px;
+	background: #BA708A url("../images/eye-icon-u2874-r-fr.png") no-repeat center center;
+	background-color: rgba(140,18,61,0.6);
+}
+
+#u3017-4
+{
+	z-index: 174;
+	width: 310px;
+	min-height: 21px;
+	color: #FFFFFF;
+	line-height: 20px;
+	text-align: center;
+	letter-spacing: 2px;
+	text-transform: uppercase;
+	font-size: 17px;
+	font-family: vollkorn, serif;
+	font-weight: 700;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 182px;
 }
 
 #u1992
 {
 	z-index: 27;
 	width: 310px;
-	height: 254px;
 	border-width: 1px;
 	border-style: solid;
 	border-color: #C8C8C8;
@@ -382,22 +417,50 @@
 	margin-right: -10000px;
 	margin-top: -1px;
 	left: 679px;
-	background: transparent url("../images/lp-1-0.jpg") no-repeat center center;
+	background: transparent url("../images/shop-mac-0.jpg") no-repeat center center;
 	background-size: cover;
 }
 
-#u1992:hover
+#u3709
 {
-	background-repeat: no-repeat;
-	background-position: center center;
-	opacity: 0.8;
-	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=80)";
-	filter: alpha(opacity=80);
+	z-index: 169;
 	width: 310px;
-	height: 254px;
+	border-width: 1px;
+	border-style: solid;
+	padding-bottom: 51px;
+	margin-bottom: -2px;
+	position: relative;
+	margin-right: -10000px;
+	left: -1px;
+	background: #FDFCFD url("../images/eye-icon-u2874-fr2.png") no-repeat center top;
+	background-color: rgba(140,18,61,0.01);
+}
+
+#u3709:hover
+{
+	width: 310px;
 	min-height: 0px;
-	margin: -1px -10000px -1px 0px;
-	background-size: cover;
+	margin: 0px -10000px -2px 0px;
+	background: #BA708A url("../images/eye-icon-u2874-r-fr.png") no-repeat center center;
+	background-color: rgba(140,18,61,0.6);
+}
+
+#u3710-4
+{
+	z-index: 178;
+	width: 310px;
+	min-height: 21px;
+	color: #FFFFFF;
+	line-height: 20px;
+	text-align: center;
+	letter-spacing: 2px;
+	text-transform: uppercase;
+	font-size: 17px;
+	font-family: vollkorn, serif;
+	font-weight: 700;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 182px;
 }
 
 #u1996-4
@@ -1146,7 +1209,7 @@
 	background-size: cover;
 }
 
-#u1992:hover::before,#u1986:hover::before,#u1993:hover::before,#u142:hover::before,#u160:hover::before,#u170:hover::before,#u177:hover::before,#u179:hover::before,#u182:hover::before,#u229:hover::before,#u230:hover::before,#u231:hover::before,#u284:hover::before,#u262:hover::before,#u263:hover::before,#u259:hover::before,#u285:hover::before
+#u1986:hover::before,#u1993:hover::before,#u142:hover::before,#u160:hover::before,#u170:hover::before,#u177:hover::before,#u179:hover::before,#u182:hover::before,#u229:hover::before,#u230:hover::before,#u231:hover::before,#u284:hover::before,#u262:hover::before,#u263:hover::before,#u259:hover::before,#u285:hover::before
 {
 	content: "";
 	position: absolute;
@@ -1201,12 +1264,12 @@
 	width: 207px;
 	min-height: 26px;
 	background-color: transparent;
-	text-transform: uppercase;
+	color: #733D97;
 	line-height: 30px;
 	text-align: center;
-	font-size: 30px;
 	letter-spacing: 0px;
-	color: #007C97;
+	text-transform: uppercase;
+	font-size: 30px;
 	font-family: josefin-sans, sans-serif;
 	font-weight: 400;
 	margin-left: 408px;
@@ -1276,12 +1339,12 @@
 	width: 271px;
 	min-height: 26px;
 	background-color: transparent;
-	text-transform: none;
+	color: #733D97;
 	line-height: 30px;
 	text-align: center;
-	font-size: 30px;
 	letter-spacing: 0px;
-	color: #007C97;
+	text-transform: none;
+	font-size: 30px;
 	font-family: josefin-sans, sans-serif;
 	font-weight: 400;
 	margin-left: 377px;
@@ -1301,6 +1364,11 @@
 	position: relative;
 }
 
+#u334-3
+{
+	color: #3E3942;
+}
+
 #u334-10
 {
 	padding-top: 17px;
@@ -1316,7 +1384,7 @@
 
 #u334-11
 {
-	color: #007C97;
+	color: #3E3942;
 	font-family: rosario, sans-serif;
 	font-weight: 700;
 }

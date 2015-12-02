@@ -1,12 +1,12 @@
 .version.yellow_booklet /* version checker */
 {
-	color: #0000F7;
-	background-color: #D54A1B;
+	color: #000008;
+	background-color: #0807ED;
 }
 
 .html
 {
-	background-color: #EAEAEA;
+	background-color: #EEEEEE;
 }
 
 #page
@@ -67,10 +67,10 @@
 	width: 74px;
 	min-height: 23px;
 	background-color: transparent;
+	color: #949295;
 	line-height: 24px;
 	text-align: right;
 	font-size: 20px;
-	color: #939495;
 	font-family: josefin-slab, serif;
 	font-weight: 700;
 	position: fixed;
@@ -85,10 +85,10 @@
 	width: 72px;
 	min-height: 23px;
 	background-color: transparent;
+	color: #949295;
 	line-height: 24px;
 	text-align: left;
 	font-size: 20px;
-	color: #939495;
 	font-family: josefin-slab, serif;
 	font-weight: 700;
 	position: fixed;
@@ -111,7 +111,7 @@
 #u719_img
 {
 	padding-right: 381px;
-	padding-bottom: 8px;
+	padding-bottom: 11px;
 }
 
 #u717
@@ -193,7 +193,7 @@
 {
 	border-width: 1px;
 	border-style: solid;
-	border-color: #939495;
+	border-color: #949295;
 	background-color: transparent;
 }
 
