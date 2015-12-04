@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #000017;
-	background-color: #F1B6F9;
+	color: #00000A;
+	background-color: #123E02;
 }
 
 .html
@@ -13,7 +13,7 @@
 {
 	z-index: 1;
 	width: 1024px;
-	min-height: 4086px;
+	min-height: 3333px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
@@ -41,7 +41,7 @@
 
 #u105
 {
-	z-index: 187;
+	z-index: 162;
 	height: 66px;
 	background-color: #EEEEEE;
 	position: fixed;
@@ -50,12 +50,12 @@
 
 #u105-bw
 {
-	z-index: 187;
+	z-index: 162;
 }
 
 #u130
 {
-	z-index: 188;
+	z-index: 163;
 	width: 47px;
 	background-color: transparent;
 	position: fixed;
@@ -79,14 +79,14 @@
 
 #u2130-4
 {
-	z-index: 194;
+	z-index: 169;
 	width: 60px;
 	min-height: 23px;
 	background-color: transparent;
 	color: #949295;
-	line-height: 22px;
 	text-align: right;
 	font-size: 18px;
+	line-height: 22px;
 	font-family: josefin-sans, sans-serif;
 	font-weight: 600;
 	position: fixed;
@@ -113,14 +113,14 @@
 
 #u136-4
 {
-	z-index: 190;
+	z-index: 165;
 	width: 44px;
 	min-height: 23px;
 	background-color: transparent;
 	color: #949295;
-	line-height: 22px;
 	text-align: right;
 	font-size: 18px;
+	line-height: 22px;
 	font-family: josefin-sans, sans-serif;
 	font-weight: 700;
 	position: fixed;
@@ -140,14 +140,14 @@
 
 #u138-4
 {
-	z-index: 198;
+	z-index: 173;
 	width: 56px;
 	min-height: 23px;
 	background-color: transparent;
 	color: #949295;
-	line-height: 22px;
 	text-align: left;
 	font-size: 18px;
+	line-height: 22px;
 	font-family: josefin-sans, sans-serif;
 	font-weight: 600;
 	position: fixed;
@@ -167,14 +167,14 @@
 
 #u2129-4
 {
-	z-index: 202;
+	z-index: 177;
 	width: 67px;
 	min-height: 23px;
 	background-color: transparent;
 	color: #949295;
-	line-height: 22px;
 	text-align: left;
 	font-size: 18px;
+	line-height: 22px;
 	font-family: josefin-sans, sans-serif;
 	font-weight: 600;
 	position: fixed;
@@ -200,7 +200,7 @@
 
 #u817-3
 {
-	z-index: 162;
+	z-index: 132;
 	width: 5px;
 	background-color: transparent;
 	margin-left: 389px;
@@ -211,7 +211,7 @@
 
 #u2306
 {
-	z-index: 206;
+	z-index: 181;
 	width: 1024px;
 	background-color: transparent;
 	position: fixed;
@@ -227,10 +227,10 @@
 	min-height: 54px;
 	background-color: transparent;
 	color: #733D97;
-	line-height: 50px;
 	text-align: center;
 	letter-spacing: 0px;
 	font-size: 50px;
+	line-height: 50px;
 	font-family: josefin-sans, sans-serif;
 	font-weight: 300;
 	margin-left: 299px;
@@ -260,11 +260,11 @@
 	min-height: 22px;
 	background-color: transparent;
 	color: #C54874;
-	line-height: 28px;
 	text-align: center;
 	letter-spacing: 2px;
 	text-transform: none;
 	font-size: 28px;
+	line-height: 28px;
 	font-family: josefin-sans, sans-serif;
 	font-weight: 300;
 	position: relative;
@@ -281,7 +281,7 @@
 
 #u2793
 {
-	z-index: 19;
+	z-index: 18;
 	width: 310px;
 	border-width: 1px;
 	border-style: solid;
@@ -296,7 +296,7 @@
 
 #u2874
 {
-	z-index: 167;
+	z-index: 137;
 	width: 310px;
 	border-width: 1px;
 	border-style: solid;
@@ -328,15 +328,15 @@
 
 #u2894-4
 {
-	z-index: 171;
+	z-index: 142;
 	width: 310px;
 	min-height: 21px;
 	color: #FFFFFF;
-	line-height: 20px;
 	text-align: center;
 	letter-spacing: 2px;
 	text-transform: uppercase;
 	font-size: 17px;
+	line-height: 20px;
 	font-family: vollkorn, serif;
 	font-weight: 700;
 	position: relative;
@@ -356,7 +356,7 @@
 
 #u1987
 {
-	z-index: 18;
+	z-index: 17;
 	width: 310px;
 	border-width: 1px;
 	border-style: solid;
@@ -372,7 +372,7 @@
 
 #u3018
 {
-	z-index: 168;
+	z-index: 138;
 	width: 310px;
 	border-width: 1px;
 	border-style: solid;
@@ -396,15 +396,15 @@
 
 #u3017-4
 {
-	z-index: 175;
+	z-index: 146;
 	width: 310px;
 	min-height: 21px;
 	color: #FFFFFF;
-	line-height: 20px;
 	text-align: center;
 	letter-spacing: 2px;
 	text-transform: uppercase;
 	font-size: 17px;
+	line-height: 20px;
 	font-family: vollkorn, serif;
 	font-weight: 700;
 	position: relative;
@@ -414,7 +414,7 @@
 
 #u1992
 {
-	z-index: 27;
+	z-index: 23;
 	width: 310px;
 	border-width: 1px;
 	border-style: solid;
@@ -430,7 +430,7 @@
 
 #u3709
 {
-	z-index: 169;
+	z-index: 139;
 	width: 310px;
 	border-width: 1px;
 	border-style: solid;
@@ -454,15 +454,15 @@
 
 #u3710-4
 {
-	z-index: 179;
+	z-index: 150;
 	width: 310px;
 	min-height: 21px;
 	color: #FFFFFF;
-	line-height: 20px;
 	text-align: center;
 	letter-spacing: 2px;
 	text-transform: uppercase;
 	font-size: 17px;
+	line-height: 20px;
 	font-family: vollkorn, serif;
 	font-weight: 700;
 	position: relative;
@@ -472,7 +472,7 @@
 
 #u1996-4
 {
-	z-index: 43;
+	z-index: 37;
 	width: 310px;
 	min-height: 20px;
 	background-color: transparent;
@@ -483,7 +483,7 @@
 
 #u1988-4
 {
-	z-index: 59;
+	z-index: 49;
 	width: 310px;
 	min-height: 20px;
 	background-color: transparent;
@@ -495,7 +495,7 @@
 
 #u1995-4
 {
-	z-index: 91;
+	z-index: 69;
 	width: 310px;
 	min-height: 20px;
 	background-color: transparent;
@@ -509,7 +509,6 @@
 {
 	z-index: 13;
 	width: 310px;
-	height: 254px;
 	border-width: 1px;
 	border-style: solid;
 	border-color: #C8C8C8;
@@ -518,26 +517,55 @@
 	margin-right: -10000px;
 	margin-top: -1px;
 	left: -1px;
-	background: transparent url("../images/magaz-imr-0.jpg") no-repeat center center;
+	background: transparent url("../images/lp-1-0.jpg") no-repeat left top;
 }
 
-#u1986:hover
+#u4183
 {
-	background-repeat: no-repeat;
-	background-position: center center;
-	opacity: 0.8;
-	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=80)";
-	filter: alpha(opacity=80);
+	z-index: 141;
 	width: 310px;
-	height: 254px;
+	border-width: 1px;
+	border-style: solid;
+	padding-bottom: 51px;
+	margin-bottom: -1px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: -1px;
+	left: -1px;
+	background: #FDFCFD url("../images/eye-icon-u2874-fr2.png") no-repeat center top;
+	background-color: rgba(140,18,61,0.01);
+}
+
+#u4183:hover
+{
+	width: 310px;
 	min-height: 0px;
 	margin: -1px -10000px -1px 0px;
-	background-size: 350px 262px;
+	background: #BA708A url("../images/eye-icon-u2874-r-fr.png") no-repeat center center;
+	background-color: rgba(140,18,61,0.6);
+}
+
+#u4182-4
+{
+	z-index: 158;
+	width: 310px;
+	min-height: 21px;
+	color: #FFFFFF;
+	text-align: center;
+	letter-spacing: 2px;
+	text-transform: uppercase;
+	font-size: 17px;
+	line-height: 20px;
+	font-family: vollkorn, serif;
+	font-weight: 700;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 182px;
 }
 
 #u1993
 {
-	z-index: 25;
+	z-index: 21;
 	width: 310px;
 	border-width: 1px;
 	border-style: solid;
@@ -552,7 +580,7 @@
 
 #u3892
 {
-	z-index: 170;
+	z-index: 140;
 	width: 310px;
 	border-width: 1px;
 	border-style: solid;
@@ -577,15 +605,15 @@
 
 #u3893-4
 {
-	z-index: 183;
+	z-index: 154;
 	width: 310px;
 	min-height: 21px;
 	color: #FFFFFF;
-	line-height: 20px;
 	text-align: center;
 	letter-spacing: 2px;
 	text-transform: uppercase;
 	font-size: 17px;
+	line-height: 20px;
 	font-family: vollkorn, serif;
 	font-weight: 700;
 	position: relative;
@@ -602,7 +630,7 @@
 
 #u1989-4
 {
-	z-index: 35;
+	z-index: 29;
 	width: 310px;
 	min-height: 20px;
 	background-color: transparent;
@@ -613,7 +641,7 @@
 
 #u1994-4
 {
-	z-index: 83;
+	z-index: 61;
 	width: 310px;
 	min-height: 20px;
 	background-color: transparent;
@@ -670,7 +698,7 @@
 
 #u160
 {
-	z-index: 17;
+	z-index: 16;
 	width: 310px;
 	height: 254px;
 	border-width: 1px;
@@ -701,7 +729,7 @@
 
 #u170
 {
-	z-index: 24;
+	z-index: 20;
 	width: 310px;
 	height: 254px;
 	border-width: 1px;
@@ -732,7 +760,7 @@
 
 #u151-4
 {
-	z-index: 31;
+	z-index: 25;
 	width: 310px;
 	min-height: 20px;
 	background-color: transparent;
@@ -743,7 +771,7 @@
 
 #u168-4
 {
-	z-index: 55;
+	z-index: 45;
 	width: 310px;
 	min-height: 20px;
 	background-color: transparent;
@@ -755,7 +783,7 @@
 
 #u169-4
 {
-	z-index: 79;
+	z-index: 57;
 	width: 310px;
 	min-height: 20px;
 	background-color: transparent;
@@ -802,136 +830,9 @@
 	background-size: 310px 255px;
 }
 
-#u179
-{
-	z-index: 20;
-	width: 310px;
-	height: 254px;
-	border-width: 1px;
-	border-style: solid;
-	border-color: #C8C8C8;
-	margin-bottom: -1px;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: -1px;
-	left: 339px;
-	background: transparent url("../images/bann-0.jpg") no-repeat left top;
-	background-size: cover;
-}
-
-#u179:hover
-{
-	background-repeat: no-repeat;
-	background-position: left top;
-	opacity: 0.8;
-	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=80)";
-	filter: alpha(opacity=80);
-	width: 310px;
-	height: 254px;
-	min-height: 0px;
-	margin: -1px -10000px -1px 0px;
-	background-size: cover;
-}
-
-#u182
-{
-	z-index: 26;
-	width: 310px;
-	height: 254px;
-	border-width: 1px;
-	border-style: solid;
-	border-color: #C8C8C8;
-	margin-bottom: -1px;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: -1px;
-	left: 679px;
-	background: transparent url("../images/lp-1-0.jpg") no-repeat center center;
-	background-size: cover;
-}
-
-#u182:hover
-{
-	background-repeat: no-repeat;
-	background-position: center center;
-	opacity: 0.8;
-	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=80)";
-	filter: alpha(opacity=80);
-	width: 310px;
-	height: 254px;
-	min-height: 0px;
-	margin: -1px -10000px -1px 0px;
-	background-size: cover;
-}
-
-#u178-4
-{
-	z-index: 39;
-	width: 310px;
-	min-height: 20px;
-	background-color: transparent;
-	line-height: 24px;
-	position: relative;
-	margin-right: -10000px;
-}
-
-#u180-4
-{
-	z-index: 63;
-	width: 309px;
-	min-height: 20px;
-	background-color: transparent;
-	line-height: 24px;
-	position: relative;
-	margin-right: -10000px;
-	left: 341px;
-}
-
-#u181-4
-{
-	z-index: 87;
-	width: 310px;
-	min-height: 20px;
-	background-color: transparent;
-	line-height: 24px;
-	position: relative;
-	margin-right: -10000px;
-	left: 680px;
-}
-
-#u229
-{
-	z-index: 15;
-	width: 310px;
-	height: 254px;
-	border-width: 1px;
-	border-style: solid;
-	border-color: #C8C8C8;
-	margin-bottom: -1px;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: -1px;
-	left: -1px;
-	background: transparent url("../images/web-1-0.jpg") no-repeat center center;
-}
-
-#u229:hover
-{
-	background-repeat: no-repeat;
-	background-position: center center;
-	opacity: 0.8;
-	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=80)";
-	filter: alpha(opacity=80);
-	width: 310px;
-	height: 254px;
-	min-height: 0px;
-	margin: -1px -10000px -1px 0px;
-	background-size: 362px 255px;
-}
-
 #u230
 {
-	z-index: 21;
+	z-index: 19;
 	width: 310px;
 	height: 254px;
 	border-width: 1px;
@@ -960,118 +861,7 @@
 	background-size: cover;
 }
 
-#u231
-{
-	z-index: 28;
-	width: 310px;
-	height: 254px;
-	border-width: 1px;
-	border-style: solid;
-	border-color: #C8C8C8;
-	margin-bottom: -1px;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: -1px;
-	left: 679px;
-	background: transparent url("../images/image-edit-0.jpg") no-repeat center center;
-	background-size: cover;
-}
-
-#u231:hover
-{
-	background-repeat: no-repeat;
-	background-position: center center;
-	opacity: 0.8;
-	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=80)";
-	filter: alpha(opacity=80);
-	width: 310px;
-	height: 254px;
-	min-height: 0px;
-	margin: -1px -10000px -1px 0px;
-	background-size: cover;
-}
-
-#pu1996-4,#pu151-4,#pu178-4,#pu233-4
-{
-	width: 0.01px;
-	margin-left: 17px;
-	margin-top: 12px;
-}
-
-#u233-4
-{
-	z-index: 47;
-	width: 310px;
-	min-height: 20px;
-	background-color: transparent;
-	line-height: 24px;
-	position: relative;
-	margin-right: -10000px;
-}
-
-#u234-4
-{
-	z-index: 67;
-	width: 309px;
-	min-height: 20px;
-	background-color: transparent;
-	line-height: 24px;
-	position: relative;
-	margin-right: -10000px;
-	left: 341px;
-}
-
-#u232-4
-{
-	z-index: 95;
-	width: 310px;
-	min-height: 20px;
-	background-color: transparent;
-	line-height: 24px;
-	position: relative;
-	margin-right: -10000px;
-	left: 680px;
-}
-
-#pu229,#pu284
-{
-	width: 0.01px;
-	margin-left: 17px;
-	margin-top: 50px;
-}
-
-#u284
-{
-	z-index: 23;
-	width: 310px;
-	height: 254px;
-	border-width: 1px;
-	border-style: solid;
-	border-color: #C8C8C8;
-	margin-bottom: -1px;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: -1px;
-	left: -1px;
-	background: transparent url("../images/bookl-yellow-0.jpg") no-repeat left top;
-	background-size: cover;
-}
-
-#u284:hover
-{
-	background-repeat: no-repeat;
-	background-position: left top;
-	opacity: 0.8;
-	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=80)";
-	filter: alpha(opacity=80);
-	width: 310px;
-	height: 254px;
-	min-height: 0px;
-	margin: -1px -10000px -1px 0px;
-	background-size: cover;
-}
-
-#u262
+#u182
 {
 	z-index: 22;
 	width: 310px;
@@ -1083,43 +873,12 @@
 	position: relative;
 	margin-right: -10000px;
 	margin-top: -1px;
-	left: 339px;
-	background: transparent url("../images/cal-1-0.jpg") no-repeat left top;
-	background-size: cover;
-}
-
-#u262:hover
-{
-	background-repeat: no-repeat;
-	background-position: left top;
-	opacity: 0.8;
-	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=80)";
-	filter: alpha(opacity=80);
-	width: 310px;
-	height: 254px;
-	min-height: 0px;
-	margin: -1px -10000px -1px 0px;
-	background-size: cover;
-}
-
-#u263
-{
-	z-index: 29;
-	width: 310px;
-	height: 254px;
-	border-width: 1px;
-	border-style: solid;
-	border-color: #C8C8C8;
-	margin-bottom: -1px;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: -1px;
 	left: 679px;
-	background: transparent url("../images/magaz-vd-0.jpg") no-repeat center center;
+	background: transparent url("../images/lp-1-02.jpg") no-repeat center center;
 	background-size: cover;
 }
 
-#u263:hover
+#u182:hover
 {
 	background-repeat: no-repeat;
 	background-position: center center;
@@ -1133,46 +892,46 @@
 	background-size: cover;
 }
 
-#pu283-4
+#pu1996-4,#pu151-4,#pu178-4
 {
 	width: 0.01px;
-	margin-left: 18px;
+	margin-left: 17px;
 	margin-top: 12px;
 }
 
-#u283-4
+#u178-4
 {
-	z-index: 75;
-	width: 309px;
-	min-height: 20px;
-	background-color: transparent;
-	line-height: 24px;
-	position: relative;
-	margin-right: -10000px;
-}
-
-#u261-4
-{
-	z-index: 71;
-	width: 309px;
-	min-height: 20px;
-	background-color: transparent;
-	line-height: 24px;
-	position: relative;
-	margin-right: -10000px;
-	left: 340px;
-}
-
-#u264-4
-{
-	z-index: 99;
+	z-index: 33;
 	width: 310px;
 	min-height: 20px;
 	background-color: transparent;
 	line-height: 24px;
 	position: relative;
 	margin-right: -10000px;
-	left: 679px;
+}
+
+#u234-4
+{
+	z-index: 53;
+	width: 309px;
+	min-height: 20px;
+	background-color: transparent;
+	line-height: 24px;
+	position: relative;
+	margin-right: -10000px;
+	left: 341px;
+}
+
+#u181-4
+{
+	z-index: 65;
+	width: 310px;
+	min-height: 20px;
+	background-color: transparent;
+	line-height: 24px;
+	position: relative;
+	margin-right: -10000px;
+	left: 680px;
 }
 
 #pu1986,#pu259
@@ -1184,7 +943,7 @@
 
 #u259
 {
-	z-index: 16;
+	z-index: 15;
 	width: 310px;
 	height: 254px;
 	border-width: 1px;
@@ -1212,9 +971,9 @@
 	background-size: 347px 260px;
 }
 
-#u285
+#u263
 {
-	z-index: 30;
+	z-index: 24;
 	width: 310px;
 	height: 254px;
 	border-width: 1px;
@@ -1225,11 +984,11 @@
 	margin-right: -10000px;
 	margin-top: -1px;
 	left: 339px;
-	background: transparent url("../images/book-hw-0.jpg") no-repeat center center;
+	background: transparent url("../images/magaz-vd-0.jpg") no-repeat center center;
 	background-size: cover;
 }
 
-#u285:hover
+#u263:hover
 {
 	background-repeat: no-repeat;
 	background-position: center center;
@@ -1243,7 +1002,7 @@
 	background-size: cover;
 }
 
-#u1986:hover::before,#u142:hover::before,#u160:hover::before,#u170:hover::before,#u177:hover::before,#u179:hover::before,#u182:hover::before,#u229:hover::before,#u230:hover::before,#u231:hover::before,#u284:hover::before,#u262:hover::before,#u263:hover::before,#u259:hover::before,#u285:hover::before
+#u142:hover::before,#u160:hover::before,#u170:hover::before,#u177:hover::before,#u230:hover::before,#u182:hover::before,#u259:hover::before,#u263:hover::before
 {
 	content: "";
 	position: absolute;
@@ -1264,7 +1023,7 @@
 
 #u260-4
 {
-	z-index: 51;
+	z-index: 41;
 	width: 310px;
 	min-height: 20px;
 	background-color: transparent;
@@ -1273,37 +1032,37 @@
 	margin-right: -10000px;
 }
 
-#u286-4
+#u264-4
 {
-	z-index: 103;
+	z-index: 73;
 	width: 310px;
 	min-height: 20px;
 	background-color: transparent;
 	line-height: 24px;
 	position: relative;
 	margin-right: -10000px;
-	left: 340px;
+	left: 339px;
 }
 
 #about
 {
 	left: -100px;
-	margin-top: 94px;
+	margin-top: 108px;
 	position: relative;
 }
 
 #u337-5
 {
-	z-index: 155;
+	z-index: 125;
 	width: 207px;
 	min-height: 26px;
 	background-color: transparent;
 	color: #733D97;
-	line-height: 30px;
 	text-align: center;
 	letter-spacing: 0px;
 	text-transform: uppercase;
 	font-size: 30px;
+	line-height: 30px;
 	font-family: josefin-sans, sans-serif;
 	font-weight: 400;
 	margin-left: 408px;
@@ -1325,7 +1084,7 @@
 
 #u311
 {
-	z-index: 112;
+	z-index: 82;
 	width: 417px;
 	border-width: 1px;
 	border-style: solid;
@@ -1351,7 +1110,7 @@
 
 #u317-24
 {
-	z-index: 114;
+	z-index: 84;
 	width: 444px;
 	min-height: 386px;
 	background-color: transparent;
@@ -1363,32 +1122,32 @@
 #contact
 {
 	left: -100px;
-	margin-top: 55px;
+	margin-top: 54px;
 	position: relative;
 }
 
 #u332-4
 {
-	z-index: 108;
+	z-index: 78;
 	width: 271px;
 	min-height: 26px;
 	background-color: transparent;
 	color: #733D97;
-	line-height: 30px;
 	text-align: center;
 	letter-spacing: 0px;
 	text-transform: none;
 	font-size: 30px;
+	line-height: 30px;
 	font-family: josefin-sans, sans-serif;
 	font-weight: 400;
 	margin-left: 377px;
-	margin-top: 123px;
+	margin-top: 124px;
 	position: relative;
 }
 
 #u334-15
 {
-	z-index: 140;
+	z-index: 110;
 	width: 349px;
 	min-height: 180px;
 	background-color: transparent;
@@ -1437,7 +1196,7 @@
 
 #u360
 {
-	z-index: 160;
+	z-index: 130;
 	width: 45px;
 	height: 45px;
 	position: relative;
@@ -1458,7 +1217,7 @@
 
 #u371
 {
-	z-index: 161;
+	z-index: 131;
 	width: 45px;
 	height: 45px;
 	position: relative;
@@ -1482,7 +1241,7 @@
 {
 	z-index: 2;
 	width: 1024px;
-	margin-top: 152px;
+	margin-top: 89px;
 }
 
 #u2306_img,#u2335_img

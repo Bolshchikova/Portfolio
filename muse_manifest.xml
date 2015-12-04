@@ -1,8 +1,8 @@
-<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="bolshchikova.com" resolutions="1x" timestamp="1449104082500">
+<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="bolshchikova.com" resolutions="1x" timestamp="1449256404765">
   <folder name="css">
     <file name="site_global.css" crc="320426145"/>
-    <file name="master_a-master.css" crc="219571813" ref="paycrave:print-ads:calendar:report:non-profit:techno:guidelines:blue-booklet:vetdoctor:imr:blocbox:image-editing:landing-pages:web-design:myanmar:index:yellow-booklet:lots-of-loops:web-banners"/>
-    <file name="paycrave.css" crc="4287513145" ref="paycrave"/>
+    <file name="master_a-master.css" crc="219571813" ref="paycrave:print-ads:calendar:report:non-profit:techno:guidelines:blue-booklet:vetdoctor:imr:blocbox:image-editing:web-design:myanmar:index:yellow-booklet:lots-of-loops:web-banners:landing-page"/>
+    <file name="paycrave.css" crc="277194879" ref="paycrave"/>
     <file name="iefonts_paycrave.css" crc="188769056" ref="paycrave"/>
     <file name="print-ads.css" crc="268458914" ref="print-ads"/>
     <file name="iefonts_print-ads.css" crc="4148104063" ref="print-ads"/>
@@ -14,64 +14,59 @@
     <file name="iefonts_non-profit.css" crc="455736324" ref="non-profit"/>
     <file name="techno.css" crc="243703917" ref="techno"/>
     <file name="guidelines.css" crc="3760685898" ref="guidelines"/>
-    <file name="blue-booklet.css" crc="4153454738" ref="blue-booklet"/>
+    <file name="blue-booklet.css" crc="269976842" ref="blue-booklet"/>
     <file name="iefonts_blue-booklet.css" crc="25715919" ref="blue-booklet"/>
     <file name="vetdoctor.css" crc="75635200" ref="vetdoctor"/>
-    <file name="imr.css" crc="95598231" ref="imr"/>
-    <file name="iefonts_imr.css" crc="4186026596" ref="imr"/>
-    <file name="blocbox.css" crc="313731548" ref="blocbox"/>
+    <file name="imr.css" crc="3948485349" ref="imr"/>
+    <file name="iefonts_imr.css" crc="3874603491" ref="imr"/>
+    <file name="blocbox.css" crc="122751282" ref="blocbox"/>
     <file name="image-editing.css" crc="4093523854" ref="image-editing"/>
-    <file name="landing-pages.css" crc="19853392" ref="landing-pages"/>
-    <file name="web-design.css" crc="4271856446" ref="web-design"/>
-    <file name="myanmar.css" crc="19516365" ref="myanmar"/>
+    <file name="web-design.css" crc="3874919633" ref="web-design"/>
+    <file name="myanmar.css" crc="4268026873" ref="myanmar"/>
     <file name="iefonts_myanmar.css" crc="509536191" ref="myanmar"/>
-    <file name="index.css" crc="401716985" ref="index"/>
-    <file name="iefonts_index.css" crc="16006205" ref="index"/>
+    <file name="index.css" crc="168967682" ref="index"/>
+    <file name="iefonts_index.css" crc="4041373398" ref="index"/>
     <file name="yellow-booklet.css" crc="134744045" ref="yellow-booklet"/>
-    <file name="lots-of-loops.css" crc="4254856128" ref="lots-of-loops"/>
-    <file name="web-banners.css" crc="383357220" ref="web-banners"/>
+    <file name="lots-of-loops.css" crc="215953018" ref="lots-of-loops"/>
+    <file name="web-banners.css" crc="4208164457" ref="web-banners"/>
     <file name="iefonts_lots-of-loops.css" crc="294595274" ref="lots-of-loops"/>
     <file name="iefonts_blocbox.css" crc="309884163" ref="blocbox"/>
+    <file name="landing-page.css" crc="396925627" ref="landing-page"/>
+    <file name="iefonts_landing-page.css" crc="371513168" ref="landing-page"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="196614522" ref="index:imr:report:blue-booklet:print-ads:landing-pages:web-design:non-profit:image-editing:techno:calendar:vetdoctor:yellow-booklet:guidelines:web-banners:blocbox:lots-of-loops:paycrave:myanmar"/>
-    <file name="museutils.js" crc="275725342" ref="index:imr:report:blue-booklet:print-ads:landing-pages:web-design:non-profit:image-editing:techno:calendar:vetdoctor:yellow-booklet:guidelines:web-banners:blocbox:lots-of-loops:paycrave:myanmar"/>
-    <file name="pie.js" crc="3827607177" ref="index:paycrave:myanmar:lots-of-loops:blocbox"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="185257658" ref="index:imr:report:blue-booklet:print-ads:landing-pages:web-design:non-profit:image-editing:techno:calendar:vetdoctor:yellow-booklet:guidelines:web-banners"/>
-    <file name="jquery.watch.js" crc="3999102769" ref="index:imr:report:blue-booklet:print-ads:landing-pages:web-design:non-profit:image-editing:techno:calendar:vetdoctor:yellow-booklet:guidelines:web-banners:blocbox:lots-of-loops:paycrave:myanmar"/>
+    <file name="jquery-1.8.3.min.js" crc="196614522" ref="index:imr:report:blue-booklet:print-ads:web-design:non-profit:image-editing:techno:calendar:vetdoctor:yellow-booklet:guidelines:web-banners:blocbox:lots-of-loops:paycrave:myanmar:landing-page"/>
+    <file name="museutils.js" crc="275725342" ref="index:imr:report:blue-booklet:print-ads:web-design:non-profit:image-editing:techno:calendar:vetdoctor:yellow-booklet:guidelines:web-banners:blocbox:lots-of-loops:paycrave:myanmar:landing-page"/>
+    <file name="pie.js" crc="3827607177" ref="index:paycrave:myanmar:lots-of-loops:blocbox:imr:landing-page"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="185257658" ref="index:report:blue-booklet:print-ads:web-design:non-profit:image-editing:techno:calendar:vetdoctor:yellow-booklet:guidelines:web-banners"/>
+    <file name="jquery.watch.js" crc="3999102769" ref="index:imr:report:blue-booklet:print-ads:web-design:non-profit:image-editing:techno:calendar:vetdoctor:yellow-booklet:guidelines:web-banners:blocbox:lots-of-loops:paycrave:myanmar:landing-page"/>
   </folder>
   <folder name="images">
-    <file name="favicon.ico" crc="520964582" ref="index"/>
-    <file name="logo.png" crc="3767103635" seo="true" ref="index:imr:report:blue-booklet:print-ads:landing-pages:web-design:non-profit:image-editing:techno:calendar:vetdoctor:yellow-booklet:guidelines:web-banners:paycrave:myanmar:lots-of-loops:blocbox"/>
-    <file name="shadow.png" crc="3773784456" seo="true" ref="index:imr:report:blue-booklet:print-ads:landing-pages:web-design:non-profit:image-editing:techno:calendar:vetdoctor:yellow-booklet:guidelines:web-banners:blocbox:lots-of-loops:paycrave:myanmar"/>
+    <file name="favicon.ico" crc="3997584184" ref="index"/>
+    <file name="logo.png" crc="3767103635" seo="true" ref="index:imr:report:blue-booklet:print-ads:web-design:non-profit:image-editing:techno:calendar:vetdoctor:yellow-booklet:guidelines:web-banners:paycrave:myanmar:lots-of-loops:blocbox:landing-page"/>
+    <file name="shadow.png" crc="3773784456" seo="true" ref="index:imr:report:blue-booklet:print-ads:web-design:non-profit:image-editing:techno:calendar:vetdoctor:yellow-booklet:guidelines:web-banners:blocbox:lots-of-loops:paycrave:myanmar:landing-page"/>
     <file name="myanmar-mac-0.jpg" crc="3889924624" ref="index"/>
     <file name="eye-icon-u2874-fr.png" crc="3802796170" ref="index"/>
     <file name="eye-icon-u2874-fr2.png" crc="3915675582" ref="index"/>
     <file name="eye-icon-u2874-r-fr.png" crc="369521430" ref="index"/>
     <file name="bookl-pw-0.jpg" crc="4195164491" ref="index"/>
-    <file name="lp-1-0.jpg" crc="4041200989" ref="index"/>
+    <file name="lp-1-0.jpg" crc="303981174" ref="index"/>
     <file name="magaz-imr-0.jpg" crc="4008426823" ref="index"/>
     <file name="bookl-blue-0.jpg" crc="4194314475" ref="index"/>
     <file name="rekl-0.jpg" crc="385954512" ref="index"/>
-    <file name="bann-0.jpg" crc="3801376020" ref="index"/>
-    <file name="web-1-0.jpg" crc="451395017" ref="index"/>
     <file name="non-prof-0.jpg" crc="3988576771" ref="index"/>
-    <file name="image-edit-0.jpg" crc="3944256229" ref="index"/>
-    <file name="bookl-yellow-0.jpg" crc="4129612076" ref="index"/>
-    <file name="cal-1-0.jpg" crc="4273056197" ref="index"/>
     <file name="magaz-vd-0.jpg" crc="4286197230" ref="index"/>
     <file name="magaz-tp-0.jpg" crc="3907234233" ref="index"/>
-    <file name="book-hw-0.jpg" crc="3910204396" ref="index"/>
     <file name="me-1.jpg" crc="77507965" seo="true" ref="index"/>
     <file name="linkedin-128-layer 0.png" crc="3902748337" ref="index"/>
     <file name="linkedin-128-u360-r-fr.png" crc="364519359" ref="index"/>
     <file name="facebook-128-layer 0.png" crc="10365729" ref="index"/>
     <file name="facebook-128-layer 0 copy.png" crc="30532181" ref="index"/>
-    <file name="pattern-5.jpg" crc="4142268129" ref="imr:report:blue-booklet:print-ads:landing-pages:web-design:non-profit:image-editing:techno:calendar:vetdoctor:yellow-booklet:guidelines:web-banners"/>
-    <file name="arrow-left-shape 1.png" crc="4000497688" ref="imr:report:blue-booklet:print-ads:landing-pages:web-design:non-profit:image-editing:techno:calendar:vetdoctor:yellow-booklet:guidelines:web-banners"/>
-    <file name="arrow-left-shape 1 copy.png" crc="477912259" ref="imr:report:blue-booklet:print-ads:landing-pages:web-design:non-profit:image-editing:techno:calendar:vetdoctor:yellow-booklet:guidelines:web-banners"/>
-    <file name="arrow-right-shape 1.png" crc="335294692" ref="imr:report:blue-booklet:print-ads:landing-pages:web-design:non-profit:image-editing:techno:calendar:vetdoctor:yellow-booklet:guidelines:web-banners"/>
-    <file name="arrow-right-shape 1 copy.png" crc="4083685982" ref="imr:report:blue-booklet:print-ads:landing-pages:web-design:non-profit:image-editing:techno:calendar:vetdoctor:yellow-booklet:guidelines:web-banners"/>
+    <file name="pattern-5.jpg" crc="4142268129" ref="report:blue-booklet:print-ads:web-design:non-profit:image-editing:techno:calendar:vetdoctor:yellow-booklet:guidelines:web-banners"/>
+    <file name="arrow-left-shape 1.png" crc="4000497688" ref="report:blue-booklet:print-ads:web-design:non-profit:image-editing:techno:calendar:vetdoctor:yellow-booklet:guidelines:web-banners"/>
+    <file name="arrow-left-shape 1 copy.png" crc="477912259" ref="report:blue-booklet:print-ads:web-design:non-profit:image-editing:techno:calendar:vetdoctor:yellow-booklet:guidelines:web-banners"/>
+    <file name="arrow-right-shape 1.png" crc="335294692" ref="report:blue-booklet:print-ads:web-design:non-profit:image-editing:techno:calendar:vetdoctor:yellow-booklet:guidelines:web-banners"/>
+    <file name="arrow-right-shape 1 copy.png" crc="4083685982" ref="report:blue-booklet:print-ads:web-design:non-profit:image-editing:techno:calendar:vetdoctor:yellow-booklet:guidelines:web-banners"/>
     <file name="magaz-imr-1.jpg" crc="4032268188" seo="true" ref="imr"/>
     <file name="magaz-imr-2.jpg" crc="128608764" seo="true" ref="imr"/>
     <file name="magaz-imr-3.jpg" crc="345812459" seo="true" ref="imr"/>
@@ -90,8 +85,7 @@
     <file name="rekl-2.jpg" crc="4161800633" seo="true" ref="print-ads"/>
     <file name="cover-1.jpg" crc="4064316225" seo="true" ref="print-ads"/>
     <file name="cover-2.jpg" crc="4213142256" seo="true" ref="print-ads"/>
-    <file name="lp-1.jpg" crc="84501741" seo="true" ref="landing-pages"/>
-    <file name="lp-2.jpg" crc="393213424" seo="true" ref="landing-pages"/>
+    <file name="lp-1.jpg" crc="494452370" ref="landing-page"/>
     <file name="web-3-1.jpg" crc="70769657" seo="true" ref="web-design"/>
     <file name="web-3-2.jpg" crc="3805604942" seo="true" ref="web-design"/>
     <file name="web-2-1.jpg" crc="3912806072" seo="true" ref="web-design"/>
@@ -129,17 +123,17 @@
     <file name="bann-5.jpg" crc="3906907848" seo="true" ref="web-banners"/>
     <file name="bann-4.jpg" crc="4020976018" seo="true" ref="web-banners"/>
     <file name="bann-6.jpg" crc="4226050914" seo="true" ref="web-banners"/>
-    <file name="myanmar-mac.jpg" crc="201055113" seo="true" ref="myanmar"/>
-    <file name="myanmar-logo-02.jpg" crc="4136085823" seo="true" ref="myanmar"/>
-    <file name="myanmar-test-1.jpg" crc="223463121" seo="true" ref="myanmar"/>
+    <file name="myanmar-mac.jpg" crc="4199320528" seo="true" ref="myanmar"/>
+    <file name="myanmar-logo-02.jpg" crc="64302708" seo="true" ref="myanmar"/>
+    <file name="myanmar-test-1.jpg" crc="206754286" seo="true" ref="myanmar"/>
     <file name="myanmar-mockup-1.jpg" crc="4255062811" seo="true" ref="myanmar"/>
     <file name="myanmar-mockup-2.jpg" crc="13493451" seo="true" ref="myanmar"/>
     <file name="myanmar-test-2.jpg" crc="350720818" seo="true" ref="myanmar"/>
-    <file name="myanmar-mockup-3.jpg" crc="3835132826" ref="myanmar"/>
+    <file name="myanmar-mockup-3.jpg" crc="4129758455" ref="myanmar"/>
     <file name="myanmar-code.jpg" crc="287989376" seo="true" ref="myanmar"/>
     <file name="paycrave-0.jpg" crc="4073257980" ref="index"/>
     <file name="shop-mac-0.jpg" crc="184970911" ref="index"/>
-    <file name="shop-mac.jpg" crc="315676224" seo="true" ref="lots-of-loops"/>
+    <file name="shop-mac.jpg" crc="150961962" seo="true" ref="lots-of-loops"/>
     <file name="shop-per-1.jpg" crc="241489509" seo="true" ref="lots-of-loops"/>
     <file name="shop-per-2.jpg" crc="3914451000" seo="true" ref="lots-of-loops"/>
     <file name="shop-per-3.jpg" crc="4116771924" seo="true" ref="lots-of-loops"/>
@@ -147,36 +141,52 @@
     <file name="shop-logo.jpg" crc="3880240092" seo="true" ref="lots-of-loops"/>
     <file name="shop-test.jpg" crc="3823329038" seo="true" ref="lots-of-loops"/>
     <file name="shop-hfwf.jpg" crc="351618354" seo="true" ref="lots-of-loops"/>
-    <file name="shop-mock-1.jpg" crc="18301868" seo="true" ref="lots-of-loops"/>
-    <file name="shop-mock-2.jpg" crc="92810356" seo="true" ref="lots-of-loops"/>
-    <file name="shop-mock-6.jpg" crc="468511940" seo="true" ref="lots-of-loops"/>
-    <file name="shop-mock-3.jpg" crc="299459546" seo="true" ref="lots-of-loops"/>
-    <file name="shop-mock-4.jpg" crc="4111892304" seo="true" ref="lots-of-loops"/>
-    <file name="shop-mock-5.jpg" crc="515374995" seo="true" ref="lots-of-loops"/>
+    <file name="shop-mock-1.jpg" crc="227121513" seo="true" ref="lots-of-loops"/>
+    <file name="shop-mock-2.jpg" crc="4214687446" seo="true" ref="lots-of-loops"/>
+    <file name="shop-mock-6.jpg" crc="169895558" seo="true" ref="lots-of-loops"/>
+    <file name="shop-mock-3.jpg" crc="3955350120" seo="true" ref="lots-of-loops"/>
+    <file name="shop-mock-4.jpg" crc="3807202037" seo="true" ref="lots-of-loops"/>
+    <file name="shop-mock-5.jpg" crc="4099254442" seo="true" ref="lots-of-loops"/>
     <file name="shop-code.jpg" crc="42240813" seo="true" ref="lots-of-loops"/>
-    <file name="paycrave-iphone.jpg" crc="3962991306" seo="true" ref="paycrave"/>
+    <file name="paycrave-iphone.jpg" crc="4261477901" seo="true" ref="paycrave"/>
     <file name="paycrave-per-1.jpg" crc="99633446" seo="true" ref="paycrave"/>
     <file name="paycrave-per-2.jpg" crc="4028474791" seo="true" ref="paycrave"/>
     <file name="paycrave-per-3.jpg" crc="4142525467" seo="true" ref="paycrave"/>
-    <file name="paycrave-flow.jpg" crc="140593599" seo="true" ref="paycrave"/>
-    <file name="paycrave-iphone-2.jpg" crc="284570293" seo="true" ref="paycrave"/>
-    <file name="paycrave-iphone-3.jpg" crc="247576072" seo="true" ref="paycrave"/>
+    <file name="paycrave-flow.jpg" crc="421186383" seo="true" ref="paycrave"/>
+    <file name="paycrave-iphone-2.jpg" crc="91966389" seo="true" ref="paycrave"/>
+    <file name="paycrave-iphone-3.jpg" crc="408833668" seo="true" ref="paycrave"/>
     <file name="blocbox-mac-0.jpg" crc="3928822049" ref="index"/>
     <file name="blocbox-mac.jpg" crc="408209650" seo="true" ref="blocbox"/>
     <file name="blocbox-per-1.jpg" crc="4012425431" seo="true" ref="blocbox"/>
     <file name="blocbox-per-2.jpg" crc="476322712" seo="true" ref="blocbox"/>
     <file name="blocbox-per-3.jpg" crc="3826955935" seo="true" ref="blocbox"/>
     <file name="blocbox-flow.jpg" crc="4178584304" seo="true" ref="blocbox"/>
-    <file name="blocbox-logo.jpg" crc="3763630744" seo="true" ref="blocbox"/>
+    <file name="blocbox-logo.jpg" crc="3828719216" seo="true" ref="blocbox"/>
     <file name="blocbox-styleguide.jpg" crc="3796954687" seo="true" ref="blocbox"/>
+    <file name="lp-1-02.jpg" crc="4041200989" ref="index"/>
+    <file name="lp-1-mac.jpg" crc="189240255" seo="true" ref="landing-page"/>
+    <file name="lp-process-1.jpg" crc="501774325" seo="true" ref="landing-page"/>
+    <file name="lp-process-2.jpg" crc="3801112271" seo="true" ref="landing-page"/>
+    <file name="lp-process-3.jpg" crc="125371275" seo="true" ref="landing-page"/>
+    <file name="lp-process-4.jpg" crc="3986699952" seo="true" ref="landing-page"/>
+    <file name="lp-process-6.jpg" crc="89847066" seo="true" ref="landing-page"/>
+    <file name="lp-process-5.jpg" crc="299301064" seo="true" ref="landing-page"/>
+    <file name="lp-process-7.jpg" crc="4156591597" seo="true" ref="landing-page"/>
+    <file name="blocbox-wf-1.jpg" crc="60257707" seo="true" ref="blocbox"/>
+    <file name="blocbox-wf-2.jpg" crc="3882875322" seo="true" ref="blocbox"/>
+    <file name="blocbox-wf-3.jpg" crc="79577786" seo="true" ref="blocbox"/>
+    <file name="blocbox-mock-1.jpg" crc="4231027425" seo="true" ref="blocbox"/>
+    <file name="blocbox-mock-5.jpg" crc="349945474" seo="true" ref="blocbox"/>
+    <file name="blocbox-mock-2.jpg" crc="99275429" seo="true" ref="blocbox"/>
+    <file name="blocbox-mock-3.jpg" crc="401095174" seo="true" ref="blocbox"/>
+    <file name="blocbox-mock-4.jpg" crc="169765235" seo="true" ref="blocbox"/>
   </folder>
-  <file name="index.html" crc="3919505561" seo="true" mt="1449098954932" redirect="true"/>
-  <file name="imr.html" crc="4109946621" seo="true" mt="1448898676413" redirect="true"/>
+  <file name="index.html" crc="3838338388" seo="true" mt="1449218373791" redirect="true"/>
+  <file name="imr.html" crc="3964921445" seo="true" mt="1449217788384" redirect="true"/>
   <file name="report.html" crc="4121550671" seo="true" mt="1448898679528" redirect="true"/>
-  <file name="blue-booklet.html" crc="305867916" seo="true" mt="1448898676706" redirect="true"/>
+  <file name="blue-booklet.html" crc="305867916" seo="true" mt="1449213560339" redirect="true"/>
   <file name="print-ads.html" crc="3950153149" seo="true" mt="1448898676928" redirect="true"/>
-  <file name="landing-pages.html" crc="4165692726" seo="true" mt="1448898677146" redirect="true"/>
-  <file name="web-design.html" crc="375087945" seo="true" mt="1448898677364" redirect="true"/>
+  <file name="web-design.html" crc="3762121806" seo="true" mt="1449218012738" redirect="true"/>
   <file name="non-profit.html" crc="3972324665" seo="true" mt="1448898677586" redirect="true"/>
   <file name="image-editing.html" crc="4280214045" seo="true" mt="1448898677868" redirect="true"/>
   <file name="techno.html" crc="370472874" seo="true" mt="1448898678153" redirect="true"/>
@@ -184,9 +194,10 @@
   <file name="vetdoctor.html" crc="246974618" seo="true" mt="1448898678775" redirect="true"/>
   <file name="yellow-booklet.html" crc="3817338719" seo="true" mt="1448898679046" redirect="true"/>
   <file name="guidelines.html" crc="536635667" seo="true" mt="1448898679287" redirect="true"/>
-  <file name="web-banners.html" crc="4201822878" seo="true" mt="1448898679773" redirect="true"/>
-  <file name="blocbox.html" crc="136745726" seo="true" mt="1449104065917" redirect="true"/>
-  <file name="lots-of-loops.html" crc="4016120579" seo="true" mt="1449097206561" redirect="true"/>
-  <file name="paycrave.html" crc="4266768016" seo="true" mt="1449096901479" redirect="true"/>
-  <file name="myanmar.html" crc="3790385480" seo="true" mt="1449096926020" redirect="true"/>
+  <file name="web-banners.html" crc="4011312062" seo="true" mt="1449218012744" redirect="true"/>
+  <file name="blocbox.html" crc="295820881" seo="true" mt="1449218012747" redirect="true"/>
+  <file name="lots-of-loops.html" crc="334919264" seo="true" mt="1449218012746" redirect="true"/>
+  <file name="paycrave.html" crc="23175024" seo="true" mt="1449123307745" redirect="true"/>
+  <file name="myanmar.html" crc="289335863" seo="true" mt="1449256401536" redirect="true"/>
+  <file name="landing-page.html" crc="3923773044" seo="true" mt="1449243065790" redirect="true"/>
 </manifest>

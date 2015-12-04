@@ -1,7 +1,7 @@
 .version.web_design /* version checker */
 {
-	color: #0000FE;
-	background-color: #9F5B3E;
+	color: #0000E6;
+	background-color: #F694D1;
 }
 
 .html
@@ -68,9 +68,9 @@
 	min-height: 23px;
 	background-color: transparent;
 	color: #949295;
-	line-height: 24px;
 	text-align: right;
 	font-size: 20px;
+	line-height: 24px;
 	font-family: josefin-slab, serif;
 	font-weight: 700;
 	position: fixed;
@@ -86,9 +86,9 @@
 	min-height: 23px;
 	background-color: transparent;
 	color: #949295;
-	line-height: 24px;
 	text-align: left;
 	font-size: 20px;
+	line-height: 24px;
 	font-family: josefin-slab, serif;
 	font-weight: 700;
 	position: fixed;

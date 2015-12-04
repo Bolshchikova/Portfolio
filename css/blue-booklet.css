@@ -1,7 +1,7 @@
 .version.blue_booklet /* version checker */
 {
-	color: #0000F7;
-	background-color: #90B092;
+	color: #000010;
+	background-color: #17850A;
 }
 
 .html
@@ -68,9 +68,9 @@
 	min-height: 23px;
 	background-color: transparent;
 	color: #949295;
-	line-height: 24px;
 	text-align: right;
 	font-size: 20px;
+	line-height: 24px;
 	font-family: josefin-slab, serif;
 	font-weight: 700;
 	position: fixed;
@@ -86,9 +86,9 @@
 	min-height: 23px;
 	background-color: transparent;
 	color: #949295;
-	line-height: 24px;
 	text-align: left;
 	font-size: 20px;
+	line-height: 24px;
 	font-family: josefin-slab, serif;
 	font-weight: 700;
 	position: fixed;
