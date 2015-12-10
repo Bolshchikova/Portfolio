@@ -1,7 +1,7 @@
 .version.paycrave /* version checker */
 {
-	color: #000010;
-	background-color: #85A87F;
+	color: #0000FD;
+	background-color: #5562FE;
 }
 
 .html
@@ -311,10 +311,10 @@
 #u2938-13
 {
 	z-index: 5;
-	width: 705px;
+	width: 759px;
 	min-height: 99px;
 	background-color: transparent;
-	margin-left: 160px;
+	margin-left: 133px;
 	margin-top: 49px;
 	position: relative;
 }
@@ -327,7 +327,7 @@
 	background-color: #E17199;
 	border-radius: 8px;
 	margin-left: 438px;
-	margin-top: 30px;
+	margin-top: 20px;
 	position: relative;
 }
 
@@ -338,7 +338,7 @@
 	padding-bottom: 0px;
 	min-height: 35px;
 	width: 148px;
-	margin: 30px 0px 0px 438px;
+	margin: 20px 0px 0px 438px;
 }
 
 #u2940-2
@@ -354,7 +354,7 @@
 	width: 637px;
 	background-color: transparent;
 	margin-left: 194px;
-	margin-top: 63px;
+	margin-top: 56px;
 	position: relative;
 }
 
@@ -426,7 +426,7 @@
 #pu3074
 {
 	width: 0.01px;
-	margin-left: 35px;
+	margin-left: 18px;
 	margin-top: 20px;
 }
 
@@ -459,7 +459,7 @@
 	filter: alpha(opacity=80);
 	position: relative;
 	margin-right: -10000px;
-	left: 331px;
+	left: 348px;
 }
 
 #u3066

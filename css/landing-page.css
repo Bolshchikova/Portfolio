@@ -1,7 +1,7 @@
 .version.landing_page /* version checker */
 {
-	color: #000017;
-	background-color: #A89ABB;
+	color: #0000E9;
+	background-color: #985172;
 }
 
 .html
@@ -13,7 +13,7 @@
 {
 	z-index: 1;
 	width: 1024px;
-	min-height: 5042px;
+	min-height: 4709px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
@@ -293,10 +293,10 @@
 #u4125-11
 {
 	z-index: 15;
-	width: 629px;
+	width: 597px;
 	min-height: 99px;
 	background-color: transparent;
-	margin-left: 191px;
+	margin-left: 207px;
 	margin-top: 49px;
 	position: relative;
 }
@@ -309,7 +309,7 @@
 	background-color: #E17199;
 	border-radius: 8px;
 	margin-left: 438px;
-	margin-top: 28px;
+	margin-top: 27px;
 	position: relative;
 }
 
@@ -320,7 +320,7 @@
 	padding-bottom: 0px;
 	min-height: 35px;
 	width: 148px;
-	margin: 28px 0px 0px 438px;
+	margin: 27px 0px 0px 438px;
 }
 
 #u4127-2
@@ -336,7 +336,7 @@
 	width: 950px;
 	background-color: transparent;
 	margin-left: 37px;
-	margin-top: 41px;
+	margin-top: 39px;
 	position: relative;
 }
 
@@ -384,8 +384,6 @@
 	width: 349px;
 	min-height: 21px;
 	background-color: transparent;
-	text-transform: none;
-	font-family: vollkorn, serif;
 	position: relative;
 	margin-right: -10000px;
 }
@@ -396,8 +394,6 @@
 	width: 349px;
 	min-height: 21px;
 	background-color: transparent;
-	text-transform: none;
-	font-family: vollkorn, serif;
 	position: relative;
 	margin-right: -10000px;
 	left: 469px;
@@ -408,7 +404,6 @@
 	font-size: 22px;
 	line-height: 29px;
 	padding-bottom: 0px;
-	font-weight: 400;
 }
 
 #pu4229
@@ -466,7 +461,6 @@
 	width: 603px;
 	min-height: 57px;
 	background-color: transparent;
-	color: #3E3942;
 	margin-left: 163px;
 	margin-top: 27px;
 	position: relative;
@@ -479,12 +473,6 @@
 	padding-bottom: 0px;
 }
 
-#pu4283
-{
-	width: 0.01px;
-	margin-top: 28px;
-}
-
 #u4283
 {
 	z-index: 74;
@@ -493,7 +481,6 @@
 	border-style: solid;
 	border-color: #C8C8C8;
 	background-color: transparent;
-	margin-bottom: -1px;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: -1px;
@@ -503,7 +490,7 @@
 #u4247-17
 {
 	z-index: 49;
-	width: 529px;
+	width: 549px;
 	min-height: 222px;
 	background-color: transparent;
 	position: relative;
@@ -515,7 +502,6 @@
 #u4247-3,#u4247-6,#u4247-9,#u4247-12,#u4247-15
 {
 	text-align: left;
-	padding-bottom: 11px;
 }
 
 #u4247,#u4247-4,#u4247-7,#u4247-10,#u4247-13
@@ -523,10 +509,10 @@
 	font-weight: 700;
 }
 
-#pu4305
+#pu4283,#pu4305
 {
 	width: 0.01px;
-	margin-top: 33px;
+	margin-top: 28px;
 }
 
 #u4305
@@ -654,7 +640,7 @@
 	padding-bottom: 11px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 1272px;
+	margin-top: 1271px;
 	left: 432px;
 }
 
@@ -816,19 +802,19 @@
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=80)";
 	filter: alpha(opacity=80);
 	margin-left: 285px;
-	margin-top: 62px;
+	margin-top: 63px;
 	position: relative;
 }
 
 #u4169
 {
 	z-index: 36;
-	width: 949px;
-	height: 2477px;
+	width: 819px;
+	height: 2138px;
 	border-width: 1px;
 	border-style: solid;
 	border-color: #C8C8C8;
-	margin-left: 35px;
+	margin-left: 102px;
 	margin-top: 20px;
 	position: relative;
 	background: transparent url("../images/lp-1.jpg") no-repeat left top;
@@ -837,7 +823,7 @@
 #pu2335
 {
 	width: 0.01px;
-	margin-top: 38px;
+	margin-top: 30px;
 }
 
 #u2335

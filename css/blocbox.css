@@ -1,7 +1,7 @@
 .version.blocbox /* version checker */
 {
-	color: #000007;
-	background-color: #510932;
+	color: #000019;
+	background-color: #38786F;
 }
 
 .html
@@ -13,7 +13,7 @@
 {
 	z-index: 1;
 	width: 1024px;
-	min-height: 4316px;
+	min-height: 4348px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
@@ -311,10 +311,10 @@
 #u3790-13
 {
 	z-index: 4;
-	width: 779px;
+	width: 859px;
 	min-height: 99px;
 	background-color: transparent;
-	margin-left: 123px;
+	margin-left: 83px;
 	margin-top: 49px;
 	position: relative;
 }
@@ -323,7 +323,7 @@
 {
 	width: 0.01px;
 	margin-left: 346px;
-	margin-top: 32px;
+	margin-top: 22px;
 }
 
 #u3793-5
@@ -383,7 +383,7 @@
 	width: 950px;
 	background-color: transparent;
 	margin-left: 36px;
-	margin-top: 40px;
+	margin-top: 33px;
 	position: relative;
 }
 
@@ -657,7 +657,7 @@
 	border-style: solid;
 	border-color: #C8C8C8;
 	background-color: transparent;
-	margin-top: 4px;
+	margin-top: 1px;
 	position: relative;
 }
 
@@ -806,36 +806,43 @@
 {
 	z-index: 90;
 	width: 340px;
-	-pie-box-shadow: none;
-	box-shadow: 0px 0px 5px rgba(62,57,66,0.5),0px 0px 5px rgba(62,57,66,0.5);
+	border-width: 1px;
+	border-style: solid;
+	border-color: #C8C8C8;
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
+	margin-top: -1px;
+	left: -1px;
 }
 
 #u4066
 {
 	z-index: 92;
 	width: 340px;
-	-pie-box-shadow: none;
-	box-shadow: 0px 0px 5px rgba(62,57,66,0.5),0px 0px 5px rgba(62,57,66,0.5);
+	border-width: 1px;
+	border-style: solid;
+	border-color: #C8C8C8;
 	background-color: transparent;
+	margin-bottom: -1px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 34px;
-	left: 307px;
+	margin-top: 33px;
+	left: 306px;
 }
 
 #u4071
 {
 	z-index: 94;
 	width: 340px;
-	-pie-box-shadow: none;
-	box-shadow: 0px 0px 5px rgba(62,57,66,0.5),0px 0px 5px rgba(62,57,66,0.5);
+	border-width: 1px;
+	border-style: solid;
+	border-color: #C8C8C8;
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	left: 611px;
+	margin-top: -1px;
+	left: 610px;
 }
 
 #u4078-4
@@ -923,16 +930,18 @@
 {
 	z-index: 106;
 	width: 460px;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #C8C8C8;
 	background-color: transparent;
-	margin-left: 1px;
-	margin-top: 51px;
+	margin-top: 50px;
 	position: relative;
 }
 
 #pu2335
 {
 	width: 0.01px;
-	margin-top: 27px;
+	margin-top: 59px;
 }
 
 #u2335
