@@ -1,7 +1,7 @@
 .version.landing_page /* version checker */
 {
-	color: #0000E9;
-	background-color: #985172;
+	color: #00001D;
+	background-color: #F6213A;
 }
 
 .html
@@ -530,9 +530,9 @@
 	left: -1px;
 }
 
-#u4316
+#u4311
 {
-	z-index: 80;
+	z-index: 78;
 	width: 458px;
 	border-width: 1px;
 	border-style: solid;
@@ -545,15 +545,15 @@
 	left: 469px;
 }
 
-#pu4311
+#pu4316
 {
 	width: 0.01px;
 	margin-top: 34px;
 }
 
-#u4311
+#u4316
 {
-	z-index: 78;
+	z-index: 80;
 	width: 458px;
 	border-width: 1px;
 	border-style: solid;
@@ -758,8 +758,8 @@
 	color: #FFFFFF;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 811px;
-	left: 489px;
+	margin-top: 1063px;
+	left: 19px;
 }
 
 #u4346-4
@@ -773,8 +773,8 @@
 	color: #FFFFFF;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 1063px;
-	left: 20px;
+	margin-top: 811px;
+	left: 490px;
 }
 
 #u4348-4
@@ -817,7 +817,7 @@
 	margin-left: 102px;
 	margin-top: 20px;
 	position: relative;
-	background: transparent url("../images/lp-1.jpg") no-repeat left top;
+	background: transparent url("../images/lp-1-min.jpg") no-repeat left top;
 }
 
 #pu2335

@@ -1,7 +1,7 @@
 .version.myanmar /* version checker */
 {
-	color: #0000FF;
-	background-color: #76D721;
+	color: #000008;
+	background-color: #F78BB6;
 }
 
 .html
@@ -693,7 +693,7 @@
 	margin-left: 102px;
 	margin-top: 13px;
 	position: relative;
-	background: transparent url("../images/myanmar-mockup-3.jpg") no-repeat center center;
+	background: transparent url("../images/myanmar-mockup-3-min.jpg") no-repeat center center;
 }
 
 #u2931-4
