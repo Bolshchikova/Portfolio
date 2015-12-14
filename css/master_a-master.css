@@ -7,3 +7,54 @@
 	position: relative;
 }
 
+#u6176-4
+{
+	background-color: transparent;
+	color: #949295;
+	text-align: right;
+	font-size: 15px;
+	line-height: 19px;
+	font-family: josefin-sans, sans-serif;
+	font-weight: 600;
+	position: relative;
+}
+
+#u6568
+{
+	position: relative;
+	background: transparent url("../images/email-layer%200%20copy.png") no-repeat left top;
+	background-size: contain;
+}
+
+#u6568:hover
+{
+	background: transparent url("../images/email-layer%200.png") no-repeat left top;
+	background-size: contain;
+}
+
+#u6531
+{
+	position: relative;
+	background: transparent url("../images/linkedin-layer%200.png") no-repeat left top;
+	background-size: contain;
+}
+
+#u6531:hover
+{
+	background: transparent url("../images/linkedin-u6531-r-fr.png") no-repeat left top;
+	background-size: contain;
+}
+
+#u6508
+{
+	position: relative;
+	background: transparent url("../images/facebook-layer%201.png") no-repeat left top;
+	background-size: contain;
+}
+
+#u6508:hover
+{
+	background: transparent url("../images/facebook-layer%201%20copy.png") no-repeat left top;
+	background-size: contain;
+}
+

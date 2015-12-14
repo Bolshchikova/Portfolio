@@ -101,7 +101,7 @@ a:visited
 
 a:hover
 {
-	color: #733D97;
+	color: #C54874;
 	font-weight: bold;
 	text-decoration: underline;
 }
@@ -160,7 +160,7 @@ a.nontext /* used to override default properties of 'a' tag */
 
 .Title
 {
-	color: #007C97;
+	color: #733D97;
 	font-family: josefin-sans, sans-serif;
 	font-size: 33px;
 	font-weight: 400;
