@@ -1,7 +1,7 @@
 .version.landing_page /* version checker */
 {
-	color: #0000F3;
-	background-color: #CCCC35;
+	color: #0000E7;
+	background-color: #C07EBA;
 }
 
 .html
@@ -88,9 +88,9 @@
 	min-height: 23px;
 	background-color: transparent;
 	color: #949295;
-	line-height: 24px;
 	text-align: right;
 	font-size: 20px;
+	line-height: 24px;
 	font-family: josefin-sans, sans-serif;
 	font-weight: 600;
 	position: fixed;
@@ -122,9 +122,9 @@
 	min-height: 23px;
 	background-color: transparent;
 	color: #949295;
-	line-height: 24px;
 	text-align: right;
 	font-size: 20px;
+	line-height: 24px;
 	font-family: josefin-sans, sans-serif;
 	font-weight: 600;
 	position: fixed;
@@ -149,9 +149,9 @@
 	min-height: 23px;
 	background-color: transparent;
 	color: #949295;
-	line-height: 24px;
 	text-align: left;
 	font-size: 20px;
+	line-height: 24px;
 	font-family: josefin-sans, sans-serif;
 	font-weight: 600;
 	position: fixed;
@@ -169,6 +169,33 @@
 	margin: 0px 0px 0px 61px;
 }
 
+#u6725-4
+{
+	z-index: 139;
+	width: 104px;
+	min-height: 23px;
+	background-color: transparent;
+	color: #949295;
+	text-align: left;
+	font-size: 20px;
+	line-height: 24px;
+	font-family: josefin-sans, sans-serif;
+	font-weight: 600;
+	position: fixed;
+	top: 24px;
+	left: 50%;
+	margin-left: 148px;
+}
+
+#u6725-4:hover
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 23px;
+	width: 104px;
+	margin: 0px 0px 0px 148px;
+}
+
 #u4136-4
 {
 	z-index: 131;
@@ -176,9 +203,9 @@
 	min-height: 23px;
 	background-color: transparent;
 	color: #949295;
-	line-height: 24px;
 	text-align: left;
 	font-size: 20px;
+	line-height: 24px;
 	font-family: josefin-sans, sans-serif;
 	font-weight: 600;
 	position: fixed;
@@ -196,7 +223,7 @@
 	margin: 0px 0px 0px 148px;
 }
 
-#u4133-4:hover p,#u4135-4:hover p,#u4136-4:hover p
+#u4133-4:hover p,#u4135-4:hover p,#u6725-4:hover p,#u4136-4:hover p
 {
 	color: #9563B7;
 	visibility: inherit;
@@ -303,11 +330,11 @@
 #u4127-4
 {
 	z-index: 30;
-	width: 148px;
+	width: 152px;
 	min-height: 35px;
 	background-color: #E17199;
-	border-radius: 8px;
-	margin-left: 438px;
+	border-radius: 18px;
+	margin-left: 436px;
 	margin-top: 27px;
 	position: relative;
 }
@@ -318,8 +345,8 @@
 	padding-top: 0px;
 	padding-bottom: 0px;
 	min-height: 35px;
-	width: 148px;
-	margin: 27px 0px 0px 438px;
+	width: 152px;
+	margin: 27px 0px 0px 436px;
 }
 
 #u4127-2
@@ -335,7 +362,7 @@
 	width: 950px;
 	background-color: transparent;
 	margin-left: 37px;
-	margin-top: 39px;
+	margin-top: 38px;
 	position: relative;
 }
 

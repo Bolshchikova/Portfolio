@@ -1,7 +1,7 @@
 .version.myanmar /* version checker */
 {
-	color: #0000E0;
-	background-color: #CC3450;
+	color: #00001D;
+	background-color: #4E1732;
 }
 
 .html
@@ -91,9 +91,9 @@
 	min-height: 23px;
 	background-color: transparent;
 	color: #949295;
-	line-height: 24px;
 	text-align: right;
 	font-size: 20px;
+	line-height: 24px;
 	font-family: josefin-sans, sans-serif;
 	font-weight: 600;
 	position: fixed;
@@ -125,9 +125,9 @@
 	min-height: 23px;
 	background-color: transparent;
 	color: #949295;
-	line-height: 24px;
 	text-align: right;
 	font-size: 20px;
+	line-height: 24px;
 	font-family: josefin-sans, sans-serif;
 	font-weight: 600;
 	position: fixed;
@@ -152,9 +152,9 @@
 	min-height: 23px;
 	background-color: transparent;
 	color: #949295;
-	line-height: 24px;
 	text-align: left;
 	font-size: 20px;
+	line-height: 24px;
 	font-family: josefin-sans, sans-serif;
 	font-weight: 600;
 	position: fixed;
@@ -172,6 +172,33 @@
 	margin: 0px 0px 0px 61px;
 }
 
+#u6722-4
+{
+	z-index: 122;
+	width: 104px;
+	min-height: 23px;
+	background-color: transparent;
+	color: #949295;
+	text-align: left;
+	font-size: 20px;
+	line-height: 24px;
+	font-family: josefin-sans, sans-serif;
+	font-weight: 600;
+	position: fixed;
+	top: 24px;
+	left: 50%;
+	margin-left: 148px;
+}
+
+#u6722-4:hover
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 23px;
+	width: 104px;
+	margin: 0px 0px 0px 148px;
+}
+
 #u6253-4
 {
 	z-index: 116;
@@ -179,9 +206,9 @@
 	min-height: 23px;
 	background-color: transparent;
 	color: #949295;
-	line-height: 24px;
 	text-align: left;
 	font-size: 20px;
+	line-height: 24px;
 	font-family: josefin-sans, sans-serif;
 	font-weight: 600;
 	position: fixed;
@@ -199,7 +226,7 @@
 	margin: 0px 0px 0px 148px;
 }
 
-#u6250-4:hover p,#u6252-4:hover p,#u6253-4:hover p
+#u6250-4:hover p,#u6252-4:hover p,#u6722-4:hover p,#u6253-4:hover p
 {
 	color: #9563B7;
 	visibility: inherit;
@@ -324,11 +351,11 @@
 #u2902-5
 {
 	z-index: 58;
-	width: 148px;
+	width: 152px;
 	min-height: 35px;
 	background-color: #E17199;
-	border-radius: 8px;
-	margin-left: 438px;
+	border-radius: 18px;
+	margin-left: 436px;
 	margin-top: 19px;
 	position: relative;
 }
@@ -339,8 +366,8 @@
 	padding-top: 0px;
 	padding-bottom: 0px;
 	min-height: 35px;
-	width: 148px;
-	margin: 19px 0px 0px 438px;
+	width: 152px;
+	margin: 19px 0px 0px 436px;
 }
 
 #u2902-3
@@ -356,7 +383,7 @@
 	width: 820px;
 	background-color: transparent;
 	margin-left: 113px;
-	margin-top: 43px;
+	margin-top: 42px;
 	position: relative;
 }
 

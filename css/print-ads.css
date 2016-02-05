@@ -1,7 +1,7 @@
 .version.print_ads /* version checker */
 {
-	color: #000011;
-	background-color: #306190;
+	color: #00000D;
+	background-color: #8F4020;
 }
 
 .html
@@ -88,9 +88,9 @@
 	min-height: 23px;
 	background-color: transparent;
 	color: #949295;
-	line-height: 24px;
 	text-align: right;
 	font-size: 20px;
+	line-height: 24px;
 	font-family: josefin-sans, sans-serif;
 	font-weight: 600;
 	position: fixed;
@@ -122,9 +122,9 @@
 	min-height: 23px;
 	background-color: transparent;
 	color: #949295;
-	line-height: 24px;
 	text-align: right;
 	font-size: 20px;
+	line-height: 24px;
 	font-family: josefin-sans, sans-serif;
 	font-weight: 600;
 	position: fixed;
@@ -149,9 +149,9 @@
 	min-height: 23px;
 	background-color: transparent;
 	color: #949295;
-	line-height: 24px;
 	text-align: left;
 	font-size: 20px;
+	line-height: 24px;
 	font-family: josefin-sans, sans-serif;
 	font-weight: 600;
 	position: fixed;
@@ -169,6 +169,33 @@
 	margin: 0px 0px 0px 61px;
 }
 
+#u6731-4
+{
+	z-index: 269;
+	width: 104px;
+	min-height: 23px;
+	background-color: transparent;
+	color: #949295;
+	text-align: left;
+	font-size: 20px;
+	line-height: 24px;
+	font-family: josefin-sans, sans-serif;
+	font-weight: 600;
+	position: fixed;
+	top: 24px;
+	left: 50%;
+	margin-left: 148px;
+}
+
+#u6731-4:hover
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 23px;
+	width: 104px;
+	margin: 0px 0px 0px 148px;
+}
+
 #u6246-4
 {
 	z-index: 263;
@@ -176,9 +203,9 @@
 	min-height: 23px;
 	background-color: transparent;
 	color: #949295;
-	line-height: 24px;
 	text-align: left;
 	font-size: 20px;
+	line-height: 24px;
 	font-family: josefin-sans, sans-serif;
 	font-weight: 600;
 	position: fixed;
@@ -196,7 +223,7 @@
 	margin: 0px 0px 0px 148px;
 }
 
-#u6243-4:hover p,#u6245-4:hover p,#u6246-4:hover p
+#u6243-4:hover p,#u6245-4:hover p,#u6731-4:hover p,#u6246-4:hover p
 {
 	color: #9563B7;
 	visibility: inherit;

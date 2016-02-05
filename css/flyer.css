@@ -1,7 +1,7 @@
 .version.flyer /* version checker */
 {
-	color: #00000E;
-	background-color: #9F57DC;
+	color: #0000F2;
+	background-color: #D7B526;
 }
 
 .html
@@ -88,9 +88,9 @@
 	min-height: 23px;
 	background-color: transparent;
 	color: #949295;
-	line-height: 24px;
 	text-align: right;
 	font-size: 20px;
+	line-height: 24px;
 	font-family: josefin-sans, sans-serif;
 	font-weight: 600;
 	position: fixed;
@@ -122,9 +122,9 @@
 	min-height: 23px;
 	background-color: transparent;
 	color: #949295;
-	line-height: 24px;
 	text-align: right;
 	font-size: 20px;
+	line-height: 24px;
 	font-family: josefin-sans, sans-serif;
 	font-weight: 600;
 	position: fixed;
@@ -149,9 +149,9 @@
 	min-height: 23px;
 	background-color: transparent;
 	color: #949295;
-	line-height: 24px;
 	text-align: left;
 	font-size: 20px;
+	line-height: 24px;
 	font-family: josefin-sans, sans-serif;
 	font-weight: 600;
 	position: fixed;
@@ -176,9 +176,9 @@
 	min-height: 23px;
 	background-color: transparent;
 	color: #949295;
-	line-height: 24px;
 	text-align: left;
 	font-size: 20px;
+	line-height: 24px;
 	font-family: josefin-sans, sans-serif;
 	font-weight: 600;
 	position: fixed;
@@ -196,7 +196,34 @@
 	margin: 0px 0px 0px 148px;
 }
 
-#u6236-4:hover p,#u6238-4:hover p,#u6239-4:hover p
+#u6732-4
+{
+	z-index: 224;
+	width: 104px;
+	min-height: 23px;
+	background-color: transparent;
+	color: #949295;
+	text-align: left;
+	font-size: 20px;
+	line-height: 24px;
+	font-family: josefin-sans, sans-serif;
+	font-weight: 600;
+	position: fixed;
+	top: 24px;
+	left: 50%;
+	margin-left: 148px;
+}
+
+#u6732-4:hover
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 23px;
+	width: 104px;
+	margin: 0px 0px 0px 148px;
+}
+
+#u6236-4:hover p,#u6238-4:hover p,#u6239-4:hover p,#u6732-4:hover p
 {
 	color: #9563B7;
 	visibility: inherit;
@@ -325,11 +352,11 @@
 #u6311-4
 {
 	z-index: 193;
-	width: 148px;
+	width: 152px;
 	min-height: 35px;
 	background-color: #E17199;
-	border-radius: 8px;
-	margin-left: 438px;
+	border-radius: 18px;
+	margin-left: 436px;
 	margin-top: 26px;
 	position: relative;
 }
@@ -340,8 +367,8 @@
 	padding-top: 0px;
 	padding-bottom: 0px;
 	min-height: 35px;
-	width: 148px;
-	margin: 26px 0px 0px 438px;
+	width: 152px;
+	margin: 26px 0px 0px 436px;
 }
 
 #u6311-2
@@ -357,7 +384,7 @@
 	width: 950px;
 	background-color: transparent;
 	margin-left: 36px;
-	margin-top: 59px;
+	margin-top: 58px;
 	position: relative;
 }
 
