@@ -1,7 +1,7 @@
 .version.landing_page /* version checker */
 {
-	color: #0000E7;
-	background-color: #C07EBA;
+	color: #00001E;
+	background-color: #04F1EF;
 }
 
 .html
@@ -13,7 +13,7 @@
 {
 	z-index: 1;
 	width: 1024px;
-	min-height: 4709px;
+	min-height: 4773px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
@@ -88,9 +88,9 @@
 	min-height: 23px;
 	background-color: transparent;
 	color: #949295;
+	line-height: 24px;
 	text-align: right;
 	font-size: 20px;
-	line-height: 24px;
 	font-family: josefin-sans, sans-serif;
 	font-weight: 600;
 	position: fixed;
@@ -122,9 +122,9 @@
 	min-height: 23px;
 	background-color: transparent;
 	color: #949295;
+	line-height: 24px;
 	text-align: right;
 	font-size: 20px;
-	line-height: 24px;
 	font-family: josefin-sans, sans-serif;
 	font-weight: 600;
 	position: fixed;
@@ -149,9 +149,9 @@
 	min-height: 23px;
 	background-color: transparent;
 	color: #949295;
+	line-height: 24px;
 	text-align: left;
 	font-size: 20px;
-	line-height: 24px;
 	font-family: josefin-sans, sans-serif;
 	font-weight: 600;
 	position: fixed;
@@ -176,9 +176,9 @@
 	min-height: 23px;
 	background-color: transparent;
 	color: #949295;
+	line-height: 24px;
 	text-align: left;
 	font-size: 20px;
-	line-height: 24px;
 	font-family: josefin-sans, sans-serif;
 	font-weight: 600;
 	position: fixed;
@@ -203,9 +203,9 @@
 	min-height: 23px;
 	background-color: transparent;
 	color: #949295;
+	line-height: 24px;
 	text-align: left;
 	font-size: 20px;
-	line-height: 24px;
 	font-family: josefin-sans, sans-serif;
 	font-weight: 600;
 	position: fixed;
@@ -828,7 +828,7 @@
 {
 	z-index: 40;
 	width: 819px;
-	height: 2138px;
+	height: 2201px;
 	border-width: 1px;
 	border-style: solid;
 	border-color: #C8C8C8;
@@ -841,7 +841,7 @@
 #pu2335
 {
 	width: 0.01px;
-	margin-top: 30px;
+	margin-top: 31px;
 }
 
 #u2335

@@ -1,7 +1,7 @@
 .version.lots_of_loops /* version checker */
 {
-	color: #00000E;
-	background-color: #2D88FF;
+	color: #00001D;
+	background-color: #19EB84;
 }
 
 .html
@@ -88,9 +88,9 @@
 	min-height: 23px;
 	background-color: transparent;
 	color: #949295;
+	line-height: 24px;
 	text-align: right;
 	font-size: 20px;
-	line-height: 24px;
 	font-family: josefin-sans, sans-serif;
 	font-weight: 600;
 	position: fixed;
@@ -122,9 +122,9 @@
 	min-height: 23px;
 	background-color: transparent;
 	color: #949295;
+	line-height: 24px;
 	text-align: right;
 	font-size: 20px;
-	line-height: 24px;
 	font-family: josefin-sans, sans-serif;
 	font-weight: 600;
 	position: fixed;
@@ -149,9 +149,9 @@
 	min-height: 23px;
 	background-color: transparent;
 	color: #949295;
+	line-height: 24px;
 	text-align: left;
 	font-size: 20px;
-	line-height: 24px;
 	font-family: josefin-sans, sans-serif;
 	font-weight: 600;
 	position: fixed;
@@ -176,9 +176,9 @@
 	min-height: 23px;
 	background-color: transparent;
 	color: #949295;
+	line-height: 24px;
 	text-align: left;
 	font-size: 20px;
-	line-height: 24px;
 	font-family: josefin-sans, sans-serif;
 	font-weight: 600;
 	position: fixed;
@@ -203,9 +203,9 @@
 	min-height: 23px;
 	background-color: transparent;
 	color: #949295;
+	line-height: 24px;
 	text-align: left;
 	font-size: 20px;
-	line-height: 24px;
 	font-family: josefin-sans, sans-serif;
 	font-weight: 600;
 	position: fixed;
@@ -409,7 +409,7 @@
 	width: 950px;
 	background-color: transparent;
 	margin-left: 49px;
-	margin-top: 45px;
+	margin-top: 46px;
 	position: relative;
 }
 
