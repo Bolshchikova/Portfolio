@@ -1,7 +1,7 @@
 .version.myanmar /* version checker */
 {
-	color: #00001D;
-	background-color: #4E1732;
+	color: #0000FE;
+	background-color: #36E2A2;
 }
 
 .html
@@ -90,10 +90,10 @@
 	width: 60px;
 	min-height: 23px;
 	background-color: transparent;
+	line-height: 24px;
 	color: #949295;
 	text-align: right;
 	font-size: 20px;
-	line-height: 24px;
 	font-family: josefin-sans, sans-serif;
 	font-weight: 600;
 	position: fixed;
@@ -124,10 +124,10 @@
 	width: 44px;
 	min-height: 23px;
 	background-color: transparent;
+	line-height: 24px;
 	color: #949295;
 	text-align: right;
 	font-size: 20px;
-	line-height: 24px;
 	font-family: josefin-sans, sans-serif;
 	font-weight: 600;
 	position: fixed;
@@ -151,10 +151,10 @@
 	width: 53px;
 	min-height: 23px;
 	background-color: transparent;
+	line-height: 24px;
 	color: #949295;
 	text-align: left;
 	font-size: 20px;
-	line-height: 24px;
 	font-family: josefin-sans, sans-serif;
 	font-weight: 600;
 	position: fixed;
@@ -178,10 +178,10 @@
 	width: 104px;
 	min-height: 23px;
 	background-color: transparent;
+	line-height: 24px;
 	color: #949295;
 	text-align: left;
 	font-size: 20px;
-	line-height: 24px;
 	font-family: josefin-sans, sans-serif;
 	font-weight: 600;
 	position: fixed;
@@ -205,10 +205,10 @@
 	width: 67px;
 	min-height: 23px;
 	background-color: transparent;
+	line-height: 24px;
 	color: #949295;
 	text-align: left;
 	font-size: 20px;
-	line-height: 24px;
 	font-family: josefin-sans, sans-serif;
 	font-weight: 600;
 	position: fixed;
