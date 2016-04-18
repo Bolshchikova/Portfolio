@@ -1,7 +1,7 @@
 .version.presentation /* version checker */
 {
-	color: #00000B;
-	background-color: #A420E3;
+	color: #000004;
+	background-color: #E19FD7;
 }
 
 .html
@@ -13,7 +13,7 @@
 {
 	z-index: 1;
 	width: 1024px;
-	min-height: 2218px;
+	min-height: 2278px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
@@ -87,8 +87,8 @@
 	width: 60px;
 	min-height: 23px;
 	background-color: transparent;
-	color: #949295;
 	line-height: 24px;
+	color: #949295;
 	text-align: right;
 	font-size: 20px;
 	font-family: josefin-sans, sans-serif;
@@ -121,8 +121,8 @@
 	width: 44px;
 	min-height: 23px;
 	background-color: transparent;
-	color: #949295;
 	line-height: 24px;
+	color: #949295;
 	text-align: right;
 	font-size: 20px;
 	font-family: josefin-sans, sans-serif;
@@ -148,8 +148,8 @@
 	width: 53px;
 	min-height: 23px;
 	background-color: transparent;
-	color: #949295;
 	line-height: 24px;
+	color: #949295;
 	text-align: left;
 	font-size: 20px;
 	font-family: josefin-sans, sans-serif;
@@ -175,8 +175,8 @@
 	width: 104px;
 	min-height: 23px;
 	background-color: transparent;
-	color: #949295;
 	line-height: 24px;
+	color: #949295;
 	text-align: left;
 	font-size: 20px;
 	font-family: josefin-sans, sans-serif;
@@ -202,8 +202,8 @@
 	width: 67px;
 	min-height: 23px;
 	background-color: transparent;
-	color: #949295;
 	line-height: 24px;
+	color: #949295;
 	text-align: left;
 	font-size: 20px;
 	font-family: josefin-sans, sans-serif;
@@ -319,10 +319,10 @@
 #u6990-11
 {
 	z-index: 11;
-	width: 531px;
+	width: 745px;
 	min-height: 99px;
 	background-color: transparent;
-	margin-left: 247px;
+	margin-left: 140px;
 	margin-top: 49px;
 	position: relative;
 }
@@ -336,7 +336,7 @@
 	border-color: transparent;
 	background-color: transparent;
 	margin-left: 113px;
-	margin-top: 44px;
+	margin-top: 49px;
 	position: relative;
 }
 
@@ -344,7 +344,7 @@
 {
 	width: 0.01px;
 	margin-left: 36px;
-	margin-top: 60px;
+	margin-top: 85px;
 }
 
 #u7043
@@ -522,7 +522,7 @@
 #pu2335
 {
 	width: 0.01px;
-	margin-top: 47px;
+	margin-top: 54px;
 }
 
 #u2335

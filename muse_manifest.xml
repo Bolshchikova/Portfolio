@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="bolshchikova.com" resolutions="1x" timestamp="1460874827533">
+<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="bolshchikova.com" resolutions="1x" timestamp="1461012337255">
   <folder name="assets">
     <file name="imr-3-web.pdf" crc="65064508" seo="true" mt="1436829024000"/>
     <file name="pw-web.pdf" crc="4264741554" seo="true" mt="1436829024000"/>
@@ -7,7 +7,7 @@
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="4102220434"/>
-    <file name="master_a-master.css" crc="7824893" ref="paycrave:print-ads:report:blue-booklet:vetdoctor:imr:blocbox:myanmar:index:lots-of-loops:landing-page:futonland:flyer:unusual-collages:blog:presentation"/>
+    <file name="master_a-master.css" crc="3814507945" ref="paycrave:print-ads:report:blue-booklet:vetdoctor:imr:blocbox:myanmar:index:lots-of-loops:landing-page:futonland:flyer:unusual-collages:blog:presentation"/>
     <file name="paycrave.css" crc="48211942" ref="paycrave"/>
     <file name="iefonts_paycrave.css" crc="200474540" ref="paycrave"/>
     <file name="print-ads.css" crc="3891053733" ref="print-ads"/>
@@ -38,7 +38,7 @@
     <file name="iefonts_unusual-collages.css" crc="371530708" ref="unusual-collages"/>
     <file name="blog.css" crc="37716298" ref="blog"/>
     <file name="iefonts_blog.css" crc="241789347" ref="blog"/>
-    <file name="presentation.css" crc="195305699" ref="presentation"/>
+    <file name="presentation.css" crc="81895383" ref="presentation"/>
     <file name="iefonts_presentation.css" crc="4194371800" ref="presentation"/>
   </folder>
   <folder name="scripts">
@@ -237,5 +237,5 @@
   <file name="futonland.html" crc="4092892454" seo="true" mt="1459287320361" redirect="true"/>
   <file name="flyer.html" crc="164027409" seo="true" mt="1459287320361" redirect="true"/>
   <file name="blog.html" crc="3771125502" seo="true" mt="1459287413576" redirect="true"/>
-  <file name="presentation.html" crc="4269447499" seo="true" mt="1460874783618" redirect="true"/>
+  <file name="presentation.html" crc="397752687" seo="true" mt="1460999727453" redirect="true"/>
 </manifest>
