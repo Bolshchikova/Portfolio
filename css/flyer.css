@@ -1,7 +1,7 @@
 .version.flyer /* version checker */
 {
-	color: #0000F9;
-	background-color: #8134E5;
+	color: #0000FF;
+	background-color: #63EBE2;
 }
 
 .html
@@ -29,46 +29,42 @@
 	width: 0.01px;
 }
 
-#pu5425
+#pu7096
 {
 	width: 0.01px;
 	padding-bottom: 66px;
 	margin-left: -100px;
 }
 
-#u5425
+#u7096
 {
 	z-index: 201;
 	height: 66px;
-	background-color: #EEEEEE;
-	position: fixed;
 	top: 0px;
 }
 
-#u5425-bw
+#u7096-bw
 {
 	z-index: 201;
 }
 
-#u6240
+#u7103
 {
-	z-index: 222;
+	z-index: 224;
 	width: 51px;
-	background-color: transparent;
-	position: fixed;
 	top: 13px;
 	left: 50%;
-	margin-left: -25px;
+	margin-left: -476px;
 }
 
-#u6240:hover
+#u7103:hover
 {
 	width: 51px;
 	min-height: 0px;
-	margin: 0px 0px 0px -25px;
+	margin: 0px 0px 0px -476px;
 }
 
-#u6240_img
+#u7103_img
 {
 	padding: 2px 3px 7px 1px;
 }
@@ -81,171 +77,114 @@
 	position: relative;
 }
 
-#u6237-4
+#u7100-4
 {
-	z-index: 210;
+	z-index: 212;
 	width: 60px;
 	min-height: 23px;
-	background-color: transparent;
-	line-height: 24px;
-	color: #949295;
-	text-align: right;
-	font-size: 20px;
-	font-family: josefin-sans, sans-serif;
-	font-weight: 600;
-	position: fixed;
 	top: 24px;
 	left: 50%;
-	margin-left: -197px;
+	margin-left: -146px;
 }
 
-#u6237-4:hover
+#u7100-4:hover
 {
 	padding-top: 0px;
 	padding-bottom: 0px;
 	min-height: 23px;
 	width: 60px;
-	margin: 0px 0px 0px -197px;
+	margin: 0px 0px 0px -146px;
 }
 
-#u6237-4:hover p
+#u7099-4
 {
-	color: #9563B7;
-	visibility: inherit;
-	text-decoration: none;
-}
-
-#u6236-4
-{
-	z-index: 206;
-	width: 44px;
+	z-index: 204;
+	width: 102px;
 	min-height: 23px;
-	background-color: transparent;
-	line-height: 24px;
-	color: #949295;
-	text-align: right;
-	font-size: 20px;
-	font-family: josefin-sans, sans-serif;
-	font-weight: 600;
-	position: fixed;
 	top: 24px;
 	left: 50%;
-	margin-left: -103px;
+	margin-left: -53px;
 }
 
-#u6236-4:hover
+#u7099-4:hover
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 23px;
+	width: 102px;
+	margin: 0px 0px 0px -53px;
+}
+
+#u7168-4
+{
+	z-index: 208;
+	width: 44px;
+	min-height: 23px;
+	top: 24px;
+	left: 50%;
+	margin-left: 81px;
+}
+
+#u7168-4:hover
 {
 	padding-top: 0px;
 	padding-bottom: 0px;
 	min-height: 23px;
 	width: 44px;
-	margin: 0px 0px 0px -103px;
+	margin: 0px 0px 0px 81px;
 }
 
-#u6238-4
+#u7101-4
 {
-	z-index: 214;
+	z-index: 216;
 	width: 53px;
 	min-height: 23px;
-	background-color: transparent;
-	line-height: 24px;
-	color: #949295;
-	text-align: left;
-	font-size: 20px;
-	font-family: josefin-sans, sans-serif;
-	font-weight: 600;
-	position: fixed;
 	top: 24px;
 	left: 50%;
-	margin-left: 61px;
+	margin-left: 287px;
 }
 
-#u6238-4:hover
+#u7101-4:hover
 {
 	padding-top: 0px;
 	padding-bottom: 0px;
 	min-height: 23px;
 	width: 53px;
-	margin: 0px 0px 0px 61px;
+	margin: 0px 0px 0px 287px;
 }
 
-#u6239-4
+#u7102-4
 {
-	z-index: 218;
-	width: 67px;
+	z-index: 220;
+	width: 103px;
 	min-height: 23px;
-	background-color: transparent;
-	line-height: 24px;
-	color: #949295;
-	text-align: left;
-	font-size: 20px;
-	font-family: josefin-sans, sans-serif;
-	font-weight: 600;
-	position: fixed;
 	top: 24px;
 	left: 50%;
-	margin-left: 148px;
+	margin-left: 371px;
 }
 
-#u6239-4:hover
+#u7102-4:hover
 {
 	padding-top: 0px;
 	padding-bottom: 0px;
 	min-height: 23px;
-	width: 67px;
-	margin: 0px 0px 0px 148px;
+	width: 103px;
+	margin: 0px 0px 0px 371px;
 }
 
-#u6732-4
-{
-	z-index: 224;
-	width: 104px;
-	min-height: 23px;
-	background-color: transparent;
-	line-height: 24px;
-	color: #949295;
-	text-align: left;
-	font-size: 20px;
-	font-family: josefin-sans, sans-serif;
-	font-weight: 600;
-	position: fixed;
-	top: 24px;
-	left: 50%;
-	margin-left: 148px;
-}
-
-#u6732-4:hover
-{
-	padding-top: 0px;
-	padding-bottom: 0px;
-	min-height: 23px;
-	width: 104px;
-	margin: 0px 0px 0px 148px;
-}
-
-#u6236-4:hover p,#u6238-4:hover p,#u6239-4:hover p,#u6732-4:hover p
-{
-	color: #9563B7;
-	visibility: inherit;
-}
-
-#u5424-3
+#u7095-3
 {
 	z-index: 198;
 	width: 5px;
-	background-color: transparent;
 	margin-left: 389px;
 	top: -16px;
 	margin-bottom: -16px;
-	position: relative;
 }
 
-#u5426
+#u7097
 {
 	z-index: 202;
 	width: 1024px;
-	background-color: transparent;
-	position: fixed;
 	top: 65px;
 	left: 50%;
 	margin-left: -512px;
@@ -253,7 +192,7 @@
 
 #u5434
 {
-	z-index: 204;
+	z-index: 226;
 	width: 26px;
 	height: 26px;
 	border-style: solid;
@@ -280,7 +219,7 @@
 
 #u5435
 {
-	z-index: 205;
+	z-index: 227;
 	width: 26px;
 	height: 26px;
 	border-style: solid;
@@ -1179,7 +1118,7 @@
 	margin-top: 16px;
 }
 
-#u5426_img,#u2335_img
+#u7097_img,#u2335_img
 {
 	padding-bottom: 5px;
 }

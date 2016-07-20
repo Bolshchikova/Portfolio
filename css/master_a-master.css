@@ -1,3 +1,100 @@
+#u7096
+{
+	background-color: #EEEEEE;
+	position: fixed;
+}
+
+#u7103
+{
+	background-color: transparent;
+	position: fixed;
+}
+
+#u7100-4
+{
+	background-color: transparent;
+	line-height: 24px;
+	color: #949295;
+	text-align: center;
+	font-size: 20px;
+	font-family: josefin-sans, sans-serif;
+	font-weight: 600;
+	position: fixed;
+}
+
+#u7100-4:hover p
+{
+	color: #9563B7;
+	visibility: inherit;
+	text-decoration: none;
+}
+
+#u7099-4
+{
+	background-color: transparent;
+	line-height: 24px;
+	color: #949295;
+	text-align: center;
+	font-size: 20px;
+	font-family: josefin-sans, sans-serif;
+	font-weight: 600;
+	position: fixed;
+}
+
+#u7168-4
+{
+	background-color: transparent;
+	line-height: 24px;
+	color: #949295;
+	text-align: center;
+	font-size: 20px;
+	font-family: josefin-sans, sans-serif;
+	font-weight: 600;
+	position: fixed;
+}
+
+#u7101-4
+{
+	background-color: transparent;
+	line-height: 24px;
+	color: #949295;
+	text-align: center;
+	font-size: 20px;
+	font-family: josefin-sans, sans-serif;
+	font-weight: 600;
+	position: fixed;
+}
+
+#u7102-4
+{
+	background-color: transparent;
+	line-height: 24px;
+	color: #949295;
+	text-align: center;
+	font-size: 20px;
+	font-family: josefin-sans, sans-serif;
+	font-weight: 600;
+	position: fixed;
+}
+
+#u7099-4:hover p,#u7168-4:hover p,#u7101-4:hover p,#u7102-4:hover p
+{
+	color: #9563B7;
+	visibility: inherit;
+}
+
+#u7095-3
+{
+	background-color: transparent;
+	position: relative;
+}
+
+#u7097
+{
+	background-color: transparent;
+	position: fixed;
+}
+
 #u2335
 {
 	background-color: transparent;

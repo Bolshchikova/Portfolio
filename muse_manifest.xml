@@ -1,55 +1,56 @@
-<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="bolshchikova.com" resolutions="1x" timestamp="1461012337255">
+<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="bolshchikova.com" resolutions="1x" timestamp="1468976010221">
   <folder name="assets">
     <file name="imr-3-web.pdf" crc="65064508" seo="true" mt="1436829024000"/>
     <file name="pw-web.pdf" crc="4264741554" seo="true" mt="1436829024000"/>
     <file name="flyer.pdf" crc="3818708938" seo="true" mt="1449900594000"/>
     <file name="olga_bolshchikova_cv.pdf" crc="3935048233" seo="true" mt="1455219737000"/>
+    <file name="sds-rd-2.pdf" crc="75944848" seo="true" mt="1468961619000"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="4102220434"/>
-    <file name="master_a-master.css" crc="3814507945" ref="paycrave:print-ads:report:blue-booklet:vetdoctor:imr:blocbox:myanmar:index:lots-of-loops:landing-page:futonland:flyer:unusual-collages:blog:presentation"/>
-    <file name="paycrave.css" crc="48211942" ref="paycrave"/>
-    <file name="iefonts_paycrave.css" crc="200474540" ref="paycrave"/>
-    <file name="print-ads.css" crc="3891053733" ref="print-ads"/>
-    <file name="iefonts_print-ads.css" crc="164132579" ref="print-ads"/>
-    <file name="report.css" crc="3783221869" ref="report"/>
-    <file name="iefonts_report.css" crc="343395465" ref="report"/>
-    <file name="blue-booklet.css" crc="4204705112" ref="blue-booklet"/>
-    <file name="iefonts_blue-booklet.css" crc="378852646" ref="blue-booklet"/>
-    <file name="vetdoctor.css" crc="416376237" ref="vetdoctor"/>
-    <file name="imr.css" crc="3841850056" ref="imr"/>
-    <file name="iefonts_imr.css" crc="3953181687" ref="imr"/>
-    <file name="blocbox.css" crc="4211782856" ref="blocbox"/>
-    <file name="myanmar.css" crc="4265009826" ref="myanmar"/>
-    <file name="iefonts_myanmar.css" crc="3953052470" ref="myanmar"/>
-    <file name="index.css" crc="4226292892" ref="index"/>
-    <file name="iefonts_index.css" crc="511103333" ref="index"/>
-    <file name="lots-of-loops.css" crc="4153410100" ref="lots-of-loops"/>
-    <file name="iefonts_lots-of-loops.css" crc="292258541" ref="lots-of-loops"/>
-    <file name="iefonts_blocbox.css" crc="4223644649" ref="blocbox"/>
-    <file name="landing-page.css" crc="72542251" ref="landing-page"/>
-    <file name="iefonts_landing-page.css" crc="7955019" ref="landing-page"/>
-    <file name="iefonts_vetdoctor.css" crc="6213486" ref="vetdoctor"/>
-    <file name="futonland.css" crc="253142509" ref="futonland"/>
-    <file name="iefonts_futonland.css" crc="201646860" ref="futonland"/>
-    <file name="flyer.css" crc="4185994469" ref="flyer"/>
-    <file name="iefonts_flyer.css" crc="289597782" ref="flyer"/>
-    <file name="unusual-collages.css" crc="385920083" ref="unusual-collages"/>
-    <file name="iefonts_unusual-collages.css" crc="371530708" ref="unusual-collages"/>
-    <file name="blog.css" crc="37716298" ref="blog"/>
-    <file name="iefonts_blog.css" crc="241789347" ref="blog"/>
-    <file name="presentation.css" crc="81895383" ref="presentation"/>
-    <file name="iefonts_presentation.css" crc="4194371800" ref="presentation"/>
+    <file name="master_a-master.css" crc="4294780483" ref="paycrave:print-ads:report:blue-booklet:vetdoctor:imr:blocbox:myanmar:index:lots-of-loops:landing-page:futonland:flyer:unusual-collages:blog:presentation"/>
+    <file name="paycrave.css" crc="3903052538" ref="paycrave"/>
+    <file name="iefonts_paycrave.css" crc="295174536" ref="paycrave"/>
+    <file name="print-ads.css" crc="3932890582" ref="print-ads"/>
+    <file name="iefonts_print-ads.css" crc="3877114357" ref="print-ads"/>
+    <file name="report.css" crc="145256543" ref="report"/>
+    <file name="iefonts_report.css" crc="217396367" ref="report"/>
+    <file name="blue-booklet.css" crc="364074909" ref="blue-booklet"/>
+    <file name="iefonts_blue-booklet.css" crc="4084684995" ref="blue-booklet"/>
+    <file name="vetdoctor.css" crc="4216493913" ref="vetdoctor"/>
+    <file name="imr.css" crc="3840152361" ref="imr"/>
+    <file name="iefonts_imr.css" crc="3877114357" ref="imr"/>
+    <file name="blocbox.css" crc="4075741284" ref="blocbox"/>
+    <file name="myanmar.css" crc="172809361" ref="myanmar"/>
+    <file name="iefonts_myanmar.css" crc="4114234690" ref="myanmar"/>
+    <file name="index.css" crc="4101528534" ref="index"/>
+    <file name="iefonts_index.css" crc="53733395" ref="index"/>
+    <file name="lots-of-loops.css" crc="285070197" ref="lots-of-loops"/>
+    <file name="iefonts_lots-of-loops.css" crc="68649157" ref="lots-of-loops"/>
+    <file name="iefonts_blocbox.css" crc="4130173434" ref="blocbox"/>
+    <file name="landing-page.css" crc="3787849728" ref="landing-page"/>
+    <file name="iefonts_landing-page.css" crc="3877114357" ref="landing-page"/>
+    <file name="iefonts_vetdoctor.css" crc="3877114357" ref="vetdoctor"/>
+    <file name="futonland.css" crc="4234278075" ref="futonland"/>
+    <file name="iefonts_futonland.css" crc="3877114357" ref="futonland"/>
+    <file name="flyer.css" crc="4284738530" ref="flyer"/>
+    <file name="iefonts_flyer.css" crc="3859006497" ref="flyer"/>
+    <file name="unusual-collages.css" crc="73866853" ref="unusual-collages"/>
+    <file name="iefonts_unusual-collages.css" crc="318521238" ref="unusual-collages"/>
+    <file name="blog.css" crc="3827358189" ref="blog"/>
+    <file name="iefonts_blog.css" crc="3877114357" ref="blog"/>
+    <file name="presentation.css" crc="235703813" ref="presentation"/>
+    <file name="iefonts_presentation.css" crc="3877114357" ref="presentation"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="196614522" ref="index:imr:report:blue-booklet:print-ads:vetdoctor:blocbox:lots-of-loops:paycrave:myanmar:landing-page:unusual-collages:futonland:flyer:blog:presentation"/>
     <file name="museutils.js" crc="275725342" ref="index:imr:report:blue-booklet:print-ads:vetdoctor:blocbox:lots-of-loops:paycrave:myanmar:landing-page:unusual-collages:futonland:flyer:blog:presentation"/>
-    <file name="pie.js" crc="3827607177" ref="index:paycrave:myanmar:lots-of-loops:blocbox:imr:landing-page:report:blue-booklet:print-ads:unusual-collages:flyer:blog"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="185257658" ref="index:blog:presentation"/>
+    <file name="pie.js" crc="3827607177" ref="index:paycrave:myanmar:lots-of-loops:blocbox:imr:landing-page:report:blue-booklet:print-ads:unusual-collages:flyer:blog:presentation"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="185257658" ref="index"/>
     <file name="jquery.watch.js" crc="3999102769" ref="index:imr:report:blue-booklet:print-ads:vetdoctor:blocbox:lots-of-loops:paycrave:myanmar:landing-page:unusual-collages:futonland:flyer:blog:presentation"/>
   </folder>
   <folder name="images">
-    <file name="favicon.ico" crc="3997584184" ref="index:blog:presentation"/>
+    <file name="favicon.ico" crc="3997584184" ref="index"/>
     <file name="logo.png" crc="3767103635" seo="true" ref="index:imr:report:blue-booklet:print-ads:vetdoctor:paycrave:myanmar:lots-of-loops:blocbox:landing-page:unusual-collages:futonland:flyer:blog:presentation"/>
     <file name="shadow.png" crc="3773784456" seo="true" ref="index:imr:report:blue-booklet:print-ads:vetdoctor:blocbox:lots-of-loops:paycrave:myanmar:landing-page:unusual-collages:futonland:flyer:blog:presentation"/>
     <file name="myanmar-mac-0.jpg" crc="3889924624" ref="index"/>
@@ -206,12 +207,12 @@
     <file name="me.jpg" crc="69199670" seo="true" ref="index"/>
     <file name="lp-1-min.jpg" crc="3758236015" ref="landing-page"/>
     <file name="myanmar-mockup-3-min.jpg" crc="408989141" ref="myanmar"/>
-    <file name="email-layer 0 copy.png" crc="425155429" ref="index:blog:presentation"/>
-    <file name="email-layer 0.png" crc="68742397" ref="index:blog:presentation"/>
-    <file name="linkedin-layer 0.png" crc="3997573869" ref="index:blog:presentation"/>
-    <file name="linkedin-u6531-r-fr.png" crc="499047502" ref="index:blog:presentation"/>
-    <file name="facebook-layer 1.png" crc="482941482" ref="index:blog:presentation"/>
-    <file name="facebook-layer 1 copy.png" crc="269510156" ref="index:blog:presentation"/>
+    <file name="email-layer 0 copy.png" crc="425155429" ref="index"/>
+    <file name="email-layer 0.png" crc="68742397" ref="index"/>
+    <file name="linkedin-layer 0.png" crc="3997573869" ref="index"/>
+    <file name="linkedin-u6531-r-fr.png" crc="499047502" ref="index"/>
+    <file name="facebook-layer 1.png" crc="482941482" ref="index"/>
+    <file name="facebook-layer 1 copy.png" crc="269510156" ref="index"/>
     <file name="blog-mac-0.jpg" crc="102682961" ref="index"/>
     <file name="blog-mac.jpg" crc="3970755687" seo="true" ref="blog"/>
     <file name="blog-new-1.jpg" crc="294260376" seo="true" ref="blog"/>
@@ -221,21 +222,23 @@
     <file name="presentation-0.jpg" crc="108737996" ref="index"/>
     <file name="presentation-2.jpg" crc="1078696" seo="true" ref="presentation"/>
     <file name="presentation-1.jpg" crc="328661367" seo="true" ref="presentation"/>
+    <file name="presentation-3.jpg" crc="367107260" seo="true" ref="presentation"/>
+    <file name="presentation-4.jpg" crc="262534960" seo="true" ref="presentation"/>
   </folder>
-  <file name="index.html" crc="219580222" seo="true" mt="1460874168088" redirect="true"/>
-  <file name="imr.html" crc="3793694837" seo="true" mt="1459287320361" redirect="true"/>
-  <file name="report.html" crc="4235395259" seo="true" mt="1459287320361" redirect="true"/>
-  <file name="blue-booklet.html" crc="4275218537" seo="true" mt="1459287320361" redirect="true"/>
-  <file name="print-ads.html" crc="3826496968" seo="true" mt="1460873161005" redirect="true"/>
-  <file name="vetdoctor.html" crc="3804833818" seo="true" mt="1459287320361" redirect="true"/>
-  <file name="blocbox.html" crc="121350249" seo="true" mt="1460873133174" redirect="true"/>
-  <file name="lots-of-loops.html" crc="171350730" seo="true" mt="1459287320361" redirect="true"/>
-  <file name="paycrave.html" crc="4239031926" seo="true" mt="1459287320361" redirect="true"/>
-  <file name="myanmar.html" crc="446892800" seo="true" mt="1459287320361" redirect="true"/>
-  <file name="landing-page.html" crc="3911836889" seo="true" mt="1459287320361" redirect="true"/>
-  <file name="unusual-collages.html" crc="4115384971" seo="true" mt="1459287320361" redirect="true"/>
-  <file name="futonland.html" crc="4092892454" seo="true" mt="1459287320361" redirect="true"/>
-  <file name="flyer.html" crc="164027409" seo="true" mt="1459287320361" redirect="true"/>
-  <file name="blog.html" crc="3771125502" seo="true" mt="1459287413576" redirect="true"/>
-  <file name="presentation.html" crc="397752687" seo="true" mt="1460999727453" redirect="true"/>
+  <file name="index.html" crc="4011915874" seo="true" mt="1468974237002" redirect="true"/>
+  <file name="imr.html" crc="3945726614" seo="true" mt="1468974237002" redirect="true"/>
+  <file name="report.html" crc="3844613213" seo="true" mt="1468974237002" redirect="true"/>
+  <file name="blue-booklet.html" crc="4227949789" seo="true" mt="1468974237002" redirect="true"/>
+  <file name="print-ads.html" crc="3997352319" seo="true" mt="1468974237002" redirect="true"/>
+  <file name="vetdoctor.html" crc="4004258948" seo="true" mt="1468974237002" redirect="true"/>
+  <file name="blocbox.html" crc="4132819357" seo="true" mt="1468974237002" redirect="true"/>
+  <file name="lots-of-loops.html" crc="239789140" seo="true" mt="1468974237002" redirect="true"/>
+  <file name="paycrave.html" crc="3865467480" seo="true" mt="1468974237002" redirect="true"/>
+  <file name="myanmar.html" crc="393252238" seo="true" mt="1468974237002" redirect="true"/>
+  <file name="landing-page.html" crc="16565350" seo="true" mt="1468974237002" redirect="true"/>
+  <file name="unusual-collages.html" crc="343974243" seo="true" mt="1468974237002" redirect="true"/>
+  <file name="futonland.html" crc="3973589368" seo="true" mt="1468974237002" redirect="true"/>
+  <file name="flyer.html" crc="4070633555" seo="true" mt="1468974237002" redirect="true"/>
+  <file name="blog.html" crc="4080928367" seo="true" mt="1468974237002" redirect="true"/>
+  <file name="presentation.html" crc="3880937494" seo="true" mt="1468974237002" redirect="true"/>
 </manifest>
