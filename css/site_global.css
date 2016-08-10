@@ -101,7 +101,7 @@ a:visited
 
 a:hover
 {
-	color: #C54874;
+	color: #08A1A4;
 	font-weight: bold;
 	text-decoration: underline;
 }
@@ -152,15 +152,15 @@ a.nontext /* used to override default properties of 'a' tag */
 {
 	color: #3E3942;
 	font-family: vollkorn, serif;
-	font-size: 17px;
+	font-size: 18px;
 	font-weight: 400;
-	line-height: 22px;
+	line-height: 23px;
 	padding: 0px;
 }
 
 .Title
 {
-	color: #733D97;
+	color: #007275;
 	font-family: josefin-sans, sans-serif;
 	font-size: 33px;
 	font-weight: 400;
@@ -188,6 +188,52 @@ a.nontext /* used to override default properties of 'a' tag */
 	font-size: 22px;
 	font-weight: 700;
 	line-height: 29px;
+	text-align: center;
+	text-transform: uppercase;
+	padding: 0px;
+}
+
+.Title-2
+{
+	color: #3E3942;
+	font-family: josefin-sans, sans-serif;
+	font-size: 22px;
+	font-weight: 300;
+	letter-spacing: 0px;
+	line-height: 29px;
+	text-align: center;
+	padding: 0px;
+}
+
+.h6
+{
+	color: #3E3942;
+	font-family: vollkorn, serif;
+	font-size: 22px;
+	font-weight: 400;
+	line-height: 29px;
+	text-align: center;
+	padding: 0px;
+}
+
+.button
+{
+	color: #FFFFFF;
+	font-family: vollkorn, serif;
+	font-size: 18px;
+	font-weight: 400;
+	line-height: 23px;
+	text-align: center;
+	padding: 6px 0px 0px;
+}
+
+.sign2
+{
+	color: #FFFFFF;
+	font-family: vollkorn, serif;
+	font-size: 17px;
+	font-weight: 400;
+	letter-spacing: 2px;
 	text-align: center;
 	text-transform: uppercase;
 	padding: 0px;

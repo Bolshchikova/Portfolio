@@ -1,43 +1,25 @@
 #u7096
 {
-	background-color: #EEEEEE;
+	-pie-box-shadow: 0px 1px 10px #C9C8CA;
+	box-shadow: 0px 1px 10px rgba(148,146,149,0.5);
+	background-color: #FCFCFC;
 	position: fixed;
 }
 
-#u7103
+#u7724
 {
 	background-color: transparent;
 	position: fixed;
 }
 
-#u7100-4
+#u7640-4
 {
 	background-color: transparent;
-	line-height: 24px;
+	line-height: 26px;
+	font-size: 22px;
 	color: #949295;
-	text-align: center;
-	font-size: 20px;
 	font-family: josefin-sans, sans-serif;
-	font-weight: 600;
-	position: fixed;
-}
-
-#u7100-4:hover p
-{
-	color: #9563B7;
-	visibility: inherit;
-	text-decoration: none;
-}
-
-#u7099-4
-{
-	background-color: transparent;
-	line-height: 24px;
-	color: #949295;
-	text-align: center;
-	font-size: 20px;
-	font-family: josefin-sans, sans-serif;
-	font-weight: 600;
+	font-weight: 400;
 	position: fixed;
 }
 
@@ -45,11 +27,11 @@
 {
 	background-color: transparent;
 	line-height: 24px;
-	color: #949295;
-	text-align: center;
+	text-align: left;
 	font-size: 20px;
+	color: #949295;
 	font-family: josefin-sans, sans-serif;
-	font-weight: 600;
+	font-weight: 700;
 	position: fixed;
 }
 
@@ -57,11 +39,11 @@
 {
 	background-color: transparent;
 	line-height: 24px;
-	color: #949295;
-	text-align: center;
+	text-align: left;
 	font-size: 20px;
+	color: #949295;
 	font-family: josefin-sans, sans-serif;
-	font-weight: 600;
+	font-weight: 700;
 	position: fixed;
 }
 
@@ -69,89 +51,84 @@
 {
 	background-color: transparent;
 	line-height: 24px;
-	color: #949295;
-	text-align: center;
+	text-align: left;
 	font-size: 20px;
+	color: #949295;
 	font-family: josefin-sans, sans-serif;
-	font-weight: 600;
+	font-weight: 700;
 	position: fixed;
 }
 
-#u7099-4:hover p,#u7168-4:hover p,#u7101-4:hover p,#u7102-4:hover p
+#u7168-4:hover p,#u7101-4:hover p,#u7102-4:hover p
 {
-	color: #9563B7;
+	color: #66BEC0;
 	visibility: inherit;
 }
 
-#u7095-3
+#u7669
 {
-	background-color: transparent;
+	background-color: #3E3942;
+}
+
+#u7669_align_to_page
+{
 	position: relative;
 }
 
-#u7097
+#u7762
 {
 	background-color: transparent;
-	position: fixed;
-}
-
-#u2335
-{
-	background-color: transparent;
-	-webkit-transform: matrix(-1,0,0,-1,1024,20);
-	-ms-transform: matrix(-1,0,0,-1,1024,20);
-	transform: matrix(-1,0,0,-1,1024,20);
 	position: relative;
 }
 
 #u6176-4
 {
 	background-color: transparent;
-	color: #949295;
-	text-align: right;
-	line-height: 19px;
-	font-size: 15px;
+	line-height: 18px;
+	text-align: left;
+	font-size: 14px;
+	color: #C8C8C8;
 	font-family: josefin-sans, sans-serif;
-	font-weight: 600;
+	font-weight: 400;
 	position: relative;
 }
 
-#u6568
+#u7855
 {
 	position: relative;
-	background: transparent url("../images/email-layer%200%20copy.png") no-repeat left top;
+	background: transparent url("../images/email.png") no-repeat left top;
 	background-size: contain;
 }
 
-#u6568:hover
+#u7855:hover
 {
-	background: transparent url("../images/email-layer%200.png") no-repeat left top;
+	background: transparent url("../images/email--group-%20copy.png") no-repeat left top;
 	background-size: contain;
 }
 
-#u6531
-{
-	position: relative;
-	background: transparent url("../images/linkedin-layer%200.png") no-repeat left top;
-	background-size: contain;
-}
-
-#u6531:hover
-{
-	background: transparent url("../images/linkedin-u6531-r-fr.png") no-repeat left top;
-	background-size: contain;
-}
-
-#u6508
+#u7870
 {
 	position: relative;
-	background: transparent url("../images/facebook-layer%201.png") no-repeat left top;
+	background: transparent url("../images/linkedin-u7870-fr.png") no-repeat left top;
 	background-size: contain;
 }
 
-#u6508:hover
+#u7870:hover
 {
-	background: transparent url("../images/facebook-layer%201%20copy.png") no-repeat left top;
+	background: transparent url("../images/linkedin--group-%20copy.png") no-repeat left top;
+	background-size: contain;
+}
+
+#u7883
+{
+	position: relative;
+	background: transparent url("../images/facebook-u7883-fr.png") no-repeat left top;
+	background-size: contain;
+}
+
+#u7883:hover
+{
+	background: transparent url("../images/facebook-u7883-r-fr.png") no-repeat left top;
 	background-size: contain;
 }
 
