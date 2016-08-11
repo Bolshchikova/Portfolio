@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="bolshchikova.com" resolutions="1x" timestamp="1470901750283">
+<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="bolshchikova.com" resolutions="1x" timestamp="1470902457985">
   <folder name="assets">
     <file name="imr-3-web.pdf" crc="65064508" seo="true" mt="1436829024000"/>
     <file name="pw-web.pdf" crc="4264741554" seo="true" mt="1436829024000"/>
