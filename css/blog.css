@@ -1,7 +1,7 @@
 .version.blog /* version checker */
 {
-	color: #000009;
-	background-color: #63338C;
+	color: #0000E6;
+	background-color: #3150C9;
 }
 
 .html
@@ -74,46 +74,46 @@
 #u7168-4
 {
 	z-index: 116;
-	width: 48px;
-	min-height: 23px;
+	width: 80px;
+	min-height: 24px;
 	top: 28px;
 	left: 50%;
-	margin-left: 228px;
+	margin-left: 184px;
 }
 
 #u7168-4:hover
 {
 	padding-top: 0px;
 	padding-bottom: 0px;
-	min-height: 23px;
-	width: 48px;
-	margin: 0px 0px 0px 228px;
+	min-height: 24px;
+	width: 80px;
+	margin: 0px 0px 0px 184px;
 }
 
 #u7101-4
 {
 	z-index: 120;
 	width: 58px;
-	min-height: 23px;
+	min-height: 24px;
 	top: 28px;
 	left: 50%;
-	margin-left: 313px;
+	margin-left: 307px;
 }
 
 #u7101-4:hover
 {
 	padding-top: 0px;
 	padding-bottom: 0px;
-	min-height: 23px;
+	min-height: 24px;
 	width: 58px;
-	margin: 0px 0px 0px 313px;
+	margin: 0px 0px 0px 307px;
 }
 
 #u7102-4
 {
 	z-index: 124;
 	width: 105px;
-	min-height: 23px;
+	min-height: 25px;
 	top: 28px;
 	left: 50%;
 	margin-left: 407px;
@@ -123,7 +123,7 @@
 {
 	padding-top: 0px;
 	padding-bottom: 0px;
-	min-height: 23px;
+	min-height: 25px;
 	width: 105px;
 	margin: 0px 0px 0px 407px;
 }
