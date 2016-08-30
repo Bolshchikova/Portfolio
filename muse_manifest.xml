@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.2.0.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="bolshchikova.com" resolutions="1x" timestamp="1472516883619">
+<manifest alg="2" build="2015.2.0.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="bolshchikova.com" resolutions="1x" timestamp="1472517722299">
   <folder name="css">
     <file name="site_global.css" crc="3831049803"/>
     <file name="master_a-master.css" crc="3983321920" ref="myanmar:blocbox:landing-page:presentation:report:print-ads:futonland:blog:unusual-collages:poster:imr:paycrave:blue-booklet:vetdoctor:index:flyer:lots-of-loops"/>
@@ -42,7 +42,7 @@
     <file name="pw-web.pdf" crc="4264741554" seo="true" mt="1436829024000"/>
     <file name="imr-3-web.pdf" crc="65064508" seo="true" mt="1436829024000"/>
     <file name="sds-rd-2.pdf" crc="75944848" seo="true" mt="1468961619000"/>
-    <file name="olga-bolshchikova_cv.pdf" crc="4059932545" seo="true" mt="1472516608000"/>
+    <file name="olga-bolshchikova_cv.pdf" crc="4268934625" seo="true" mt="1472517632000"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="312386352" ref="index:imr:report:blue-booklet:print-ads:landing-page:unusual-collages:futonland:vetdoctor:flyer:blocbox:lots-of-loops:paycrave:myanmar:blog:presentation:poster"/>
