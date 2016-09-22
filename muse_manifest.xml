@@ -1,7 +1,7 @@
-<manifest alg="2" build="2015.2.0.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="bolshchikova.com" resolutions="1x" timestamp="1473740455737">
+<manifest alg="2" build="2015.2.0.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="bolshchikova.com" resolutions="1x" timestamp="1474516911440">
   <folder name="css">
-    <file name="site_global.css" crc="3860689617"/>
-    <file name="master_a-master.css" crc="3983321920" ref="myanmar:blocbox:landing-page:presentation:report:print-ads:futonland:blog:unusual-collages:poster:imr:paycrave:blue-booklet:vetdoctor:index:flyer:lots-of-loops"/>
+    <file name="site_global.css" crc="3831049803"/>
+    <file name="master_a-master.css" crc="307978415" ref="myanmar:blocbox:landing-page:presentation:report:print-ads:futonland:blog:unusual-collages:poster:imr:paycrave:blue-booklet:vetdoctor:index:flyer:lots-of-loops"/>
     <file name="myanmar.css" crc="487822106" ref="myanmar"/>
     <file name="iefonts_myanmar.css" crc="4109862593" ref="myanmar"/>
     <file name="blocbox.css" crc="4031359716" ref="blocbox"/>
@@ -30,7 +30,7 @@
     <file name="iefonts_blue-booklet.css" crc="4109862593" ref="blue-booklet"/>
     <file name="vetdoctor.css" crc="3935467252" ref="vetdoctor"/>
     <file name="iefonts_vetdoctor.css" crc="4109862593" ref="vetdoctor"/>
-    <file name="index.css" crc="148689340" ref="index"/>
+    <file name="index.css" crc="4190611758" ref="index"/>
     <file name="iefonts_index.css" crc="102476685" ref="index"/>
     <file name="flyer.css" crc="3868036174" ref="flyer"/>
     <file name="iefonts_flyer.css" crc="4109862593" ref="flyer"/>
@@ -42,7 +42,7 @@
     <file name="pw-web.pdf" crc="4264741554" seo="true" mt="1436829024000"/>
     <file name="imr-3-web.pdf" crc="65064508" seo="true" mt="1436829024000"/>
     <file name="sds-rd-2.pdf" crc="75944848" seo="true" mt="1468961619000"/>
-    <file name="olga-bolshchikova-resume.pdf" crc="397600921" seo="true" mt="1473191422000"/>
+    <file name="olga-bolshchikova-resume.pdf" crc="477707916" seo="true" mt="1474515997000"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="312386352" ref="index:imr:report:blue-booklet:print-ads:landing-page:unusual-collages:futonland:vetdoctor:flyer:blocbox:lots-of-loops:paycrave:myanmar:blog:presentation:poster"/>
@@ -77,7 +77,7 @@
     <file name="bookl-pw-0.jpg" crc="4237014986" ref="index"/>
     <file name="flyer-0.jpg" crc="4032567974" ref="index"/>
     <file name="magaz-vd-0.jpg" crc="4251635342" ref="index"/>
-    <file name="me-2.jpg" crc="3878273230" seo="true" ref="index"/>
+    <file name="me-2.jpg" crc="525572053" seo="true" ref="index"/>
     <file name="logo3.png" crc="66380212" seo="true" ref="index:imr:report:blue-booklet:print-ads:landing-page:unusual-collages:futonland:vetdoctor:flyer:blocbox:lots-of-loops:paycrave:myanmar:blog:presentation:poster"/>
     <file name="email.png" crc="4222121056" ref="index"/>
     <file name="email--group- copy.png" crc="4163967725" ref="index"/>
@@ -234,21 +234,21 @@
     <file name="posters2.jpg" crc="401958490" seo="true" ref="poster"/>
     <file name="posters1.jpg" crc="237790043" seo="true" ref="poster"/>
   </folder>
-  <file name="index.html" crc="267431774" seo="true" mt="1473740333336" redirect="true"/>
-  <file name="imr.html" crc="385029542" seo="true" mt="1473739861230" redirect="true"/>
-  <file name="report.html" crc="123835811" seo="true" mt="1473739861230" redirect="true"/>
-  <file name="blue-booklet.html" crc="141048852" seo="true" mt="1473739861230" redirect="true"/>
-  <file name="print-ads.html" crc="327259722" seo="true" mt="1473739861230" redirect="true"/>
-  <file name="landing-page.html" crc="322557159" seo="true" mt="1473740162113" redirect="true"/>
-  <file name="unusual-collages.html" crc="410744255" seo="true" mt="1473739861230" redirect="true"/>
-  <file name="futonland.html" crc="300701344" seo="true" mt="1473740272879" redirect="true"/>
-  <file name="vetdoctor.html" crc="3880120397" seo="true" mt="1473739861230" redirect="true"/>
-  <file name="flyer.html" crc="3881040811" seo="true" mt="1473739861230" redirect="true"/>
-  <file name="blocbox.html" crc="3868303395" seo="true" mt="1473739861230" redirect="true"/>
-  <file name="lots-of-loops.html" crc="4256662668" seo="true" mt="1473739861230" redirect="true"/>
-  <file name="paycrave.html" crc="84220363" seo="true" mt="1473739861230" redirect="true"/>
-  <file name="myanmar.html" crc="187681793" seo="true" mt="1473739861230" redirect="true"/>
-  <file name="blog.html" crc="226879987" seo="true" mt="1473740020504" redirect="true"/>
-  <file name="presentation.html" crc="3818506179" seo="true" mt="1473739861230" redirect="true"/>
-  <file name="poster.html" crc="3796430062" seo="true" mt="1473740241375" redirect="true"/>
+  <file name="index.html" crc="259989697" seo="true" mt="1474516776334" redirect="true"/>
+  <file name="imr.html" crc="514992100" seo="true" mt="1474479862408" redirect="true"/>
+  <file name="report.html" crc="3919442333" seo="true" mt="1474479862408" redirect="true"/>
+  <file name="blue-booklet.html" crc="506337762" seo="true" mt="1474479862408" redirect="true"/>
+  <file name="print-ads.html" crc="82570030" seo="true" mt="1474479862408" redirect="true"/>
+  <file name="landing-page.html" crc="3864741395" seo="true" mt="1474479862408" redirect="true"/>
+  <file name="unusual-collages.html" crc="4130656927" seo="true" mt="1474479862408" redirect="true"/>
+  <file name="futonland.html" crc="3855774505" seo="true" mt="1474479862408" redirect="true"/>
+  <file name="vetdoctor.html" crc="35821660" seo="true" mt="1474479862408" redirect="true"/>
+  <file name="flyer.html" crc="4290954789" seo="true" mt="1474479862408" redirect="true"/>
+  <file name="blocbox.html" crc="3995609848" seo="true" mt="1474479862408" redirect="true"/>
+  <file name="lots-of-loops.html" crc="3878372887" seo="true" mt="1474479862408" redirect="true"/>
+  <file name="paycrave.html" crc="4022243345" seo="true" mt="1474479862408" redirect="true"/>
+  <file name="myanmar.html" crc="4049666254" seo="true" mt="1474479862408" redirect="true"/>
+  <file name="blog.html" crc="3798843600" seo="true" mt="1474479862408" redirect="true"/>
+  <file name="presentation.html" crc="472964962" seo="true" mt="1474479862408" redirect="true"/>
+  <file name="poster.html" crc="451622033" seo="true" mt="1474479862408" redirect="true"/>
 </manifest>
