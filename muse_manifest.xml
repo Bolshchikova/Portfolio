@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.2.0.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="bolshchikova.com" resolutions="1x" timestamp="1474682616440">
+<manifest alg="2" build="2015.2.0.352" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="bolshchikova.com" resolutions="1x" timestamp="1474683058631">
   <folder name="css">
     <file name="site_global.css" crc="3831049803"/>
     <file name="master_a-master.css" crc="3983321920" ref="myanmar:blocbox:landing-page:presentation:report:print-ads:futonland:blog:unusual-collages:poster:imr:paycrave:blue-booklet:vetdoctor:index:flyer:lots-of-loops"/>
@@ -30,7 +30,7 @@
     <file name="iefonts_blue-booklet.css" crc="4109862593" ref="blue-booklet"/>
     <file name="vetdoctor.css" crc="3935467252" ref="vetdoctor"/>
     <file name="iefonts_vetdoctor.css" crc="4109862593" ref="vetdoctor"/>
-    <file name="index.css" crc="3818097330" ref="index"/>
+    <file name="index.css" crc="516531441" ref="index"/>
     <file name="iefonts_index.css" crc="102476685" ref="index"/>
     <file name="flyer.css" crc="3868036174" ref="flyer"/>
     <file name="iefonts_flyer.css" crc="4109862593" ref="flyer"/>
@@ -57,7 +57,7 @@
   <folder name="images">
     <file name="favicon.ico" crc="4235091567" ref="index"/>
     <file name="logo2.png" crc="127677507" seo="true" ref="index:imr:report:blue-booklet:print-ads:landing-page:unusual-collages:futonland:vetdoctor:flyer:blocbox:lots-of-loops:paycrave:myanmar:blog:presentation:poster"/>
-    <file name="hero.jpg" crc="4119609742" ref="index"/>
+    <file name="hero.jpg" crc="3996829990" ref="index"/>
     <file name="myanmar-mac-0.jpg" crc="3889924624" ref="index"/>
     <file name="eye-icon-u2874-fr.png" crc="3802796170" ref="index"/>
     <file name="eye-icon-u2874-fr2.png" crc="4079562010" ref="index"/>
@@ -234,7 +234,7 @@
     <file name="posters2.jpg" crc="401958490" seo="true" ref="poster"/>
     <file name="posters1.jpg" crc="237790043" seo="true" ref="poster"/>
   </folder>
-  <file name="index.html" crc="3818871791" seo="true" mt="1474682580977" redirect="true"/>
+  <file name="index.html" crc="105541588" seo="true" mt="1474683045383" redirect="true"/>
   <file name="imr.html" crc="514992100" seo="true" mt="1474479862408" redirect="true"/>
   <file name="report.html" crc="3919442333" seo="true" mt="1474479862408" redirect="true"/>
   <file name="blue-booklet.html" crc="506337762" seo="true" mt="1474479862408" redirect="true"/>
