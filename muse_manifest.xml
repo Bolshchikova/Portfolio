@@ -1,7 +1,7 @@
-<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="bolshchikova.com" resolutions="1x" timestamp="1483418232295">
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="bolshchikova.com" resolutions="1x" timestamp="1483420371174">
   <folder name="css">
     <file name="site_global.css" crc="36064996"/>
-    <file name="master_b-master.css" crc="149464205" ref="paycrave:myanmar:ayla:oasis:index:about:lots-of-loops:booklet"/>
+    <file name="master_b-master.css" crc="3928724915" ref="paycrave:myanmar:ayla:oasis:index:about:lots-of-loops:booklet"/>
     <file name="nomq_preview_master_b-master.css" crc="438005116" ref="paycrave:myanmar:ayla:oasis:index:about:lots-of-loops:booklet"/>
     <file name="paycrave.css" crc="103657777" ref="paycrave"/>
     <file name="nomq_paycrave.css" crc="4189240167" ref="paycrave"/>
@@ -60,12 +60,6 @@
     <file name="rekl-0-0-u15231-fr.jpg" crc="456652270" ref="index"/>
     <file name="ayla-e-books-u15246-fr.jpg" crc="4290197990" ref="index"/>
     <file name="bookl-0-u15257-fr.jpg" crc="373971412" ref="index"/>
-    <file name="_email-1.svg" crc="4100113511" ref="index"/>
-    <file name="_email-1_poster_u16138.png" crc="3909256717" ref="index"/>
-    <file name="_linkedin-1.svg" crc="4075482461" ref="index"/>
-    <file name="_linkedin-1_poster_u16146.png" crc="81371700" ref="index"/>
-    <file name="_facebook-1.svg" crc="532332797" ref="index"/>
-    <file name="_facebook-1_poster_u12287.png" crc="3869347577" ref="index"/>
     <file name="shop-mac-1-u6152-fr2.jpg" crc="130981959" ref="index"/>
     <file name="paycrave-1-u5974-fr2.jpg" crc="451542352" ref="index"/>
     <file name="myanmar-mac-1-u6200-fr2.jpg" crc="158882628" ref="index"/>
@@ -81,9 +75,9 @@
     <file name="ayla-e-books-u15246-fr3.jpg" crc="392194294" ref="index"/>
     <file name="bookl-0-u15257-fr3.jpg" crc="4177057829" ref="index"/>
     <file name="hero-2-u256-fr2.jpg" crc="198618765" ref="index"/>
-    <file name="shop-mac-1.jpg" crc="165990407" ref="index:lots-of-loops"/>
-    <file name="paycrave-1.jpg" crc="3936035430" ref="index:paycrave"/>
-    <file name="myanmar-mac-1.jpg" crc="157287946" ref="index:myanmar"/>
+    <file name="shop-mac-1.jpg" crc="165990407" ref="index:lots-of-loops" seo="true"/>
+    <file name="paycrave-1.jpg" crc="3936035430" ref="index:paycrave" seo="true"/>
+    <file name="myanmar-mac-1.jpg" crc="157287946" ref="index:myanmar" seo="true"/>
     <file name="rekl-0-0.jpg" crc="3976178403" ref="index"/>
     <file name="ayla-e-books.jpg" crc="285656675" ref="index"/>
     <file name="bookl-0.jpg" crc="4200991498" ref="index"/>
@@ -324,17 +318,23 @@
     <file name="about-map-compressor400x211.jpg" crc="3964574655" seo="true" ref="about"/>
     <file name="about-toys400x218.jpg" crc="4273087283" seo="true" ref="about"/>
     <file name="me-4285x285.png" crc="4045815688" seo="true" ref="about"/>
-    <file name="about-map-compressor-crop-u210912.jpg" crc="4273671195" ref="about"/>
+    <file name="about-map-compressor-crop-u210912.jpg" crc="3848780011" ref="about"/>
     <file name="me-4340x340.png" crc="4045815688" seo="true" ref="about"/>
-    <file name="about-map-compressor-crop-u2109122.jpg" crc="4283701959" ref="about"/>
+    <file name="about-map-compressor-crop-u2109122.jpg" crc="3856859743" ref="about"/>
     <file name="about-toys371x202.jpg" crc="493662271" seo="true" ref="about"/>
+    <file name="email-1.svg" crc="4100113511" ref="index"/>
+    <file name="email-1_poster_u322117.png" crc="3909256717" ref="index"/>
+    <file name="linkedin-1.svg" crc="4075482461" ref="index"/>
+    <file name="linkedin-1_poster_u322125.png" crc="81371700" ref="index"/>
+    <file name="facebook-1.svg" crc="532332797" ref="index"/>
+    <file name="facebook-1_poster_u322133.png" crc="3869347577" ref="index"/>
   </folder>
-  <file name="index.html" crc="4205330570" seo="true" mt="1483418201817" redirect="true"/>
-  <file name="lots-of-loops.html" crc="345454830" seo="true" mt="1483417619670" redirect="true"/>
-  <file name="paycrave.html" crc="3827459050" seo="true" mt="1483417619670" redirect="true"/>
-  <file name="myanmar.html" crc="3996790908" seo="true" mt="1483417619670" redirect="true"/>
-  <file name="ayla.html" crc="3876641545" seo="true" mt="1483417619670" redirect="true"/>
-  <file name="oasis.html" crc="512528935" seo="true" mt="1483417619670" redirect="true"/>
-  <file name="booklet.html" crc="258086089" seo="true" mt="1483417619670" redirect="true"/>
-  <file name="about.html" crc="236832109" seo="true" mt="1483417619670" redirect="true"/>
+  <file name="index.html" crc="355752790" seo="true" mt="1483420124434" redirect="true"/>
+  <file name="lots-of-loops.html" crc="3826456819" seo="true" mt="1483420124434" redirect="true"/>
+  <file name="paycrave.html" crc="506926660" seo="true" mt="1483420124434" redirect="true"/>
+  <file name="myanmar.html" crc="516834022" seo="true" mt="1483420124434" redirect="true"/>
+  <file name="ayla.html" crc="3924770307" seo="true" mt="1483420124434" redirect="true"/>
+  <file name="oasis.html" crc="3810367153" seo="true" mt="1483420124434" redirect="true"/>
+  <file name="booklet.html" crc="4200238881" seo="true" mt="1483420124434" redirect="true"/>
+  <file name="about.html" crc="4149980090" seo="true" mt="1483420124434" redirect="true"/>
 </manifest>
