@@ -7,13 +7,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://bolshchikova.com/about.html</loc>
+    <loc>http://bolshchikova.com/booklet.html</loc>
     <lastmod>2017-01-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://bolshchikova.com/booklet.html</loc>
+    <loc>http://bolshchikova.com/about.html</loc>
     <lastmod>2017-01-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -44,24 +44,6 @@
   </url>
   <url>
     <loc>http://bolshchikova.com/lots-of-loops.html</loc>
-    <lastmod>2017-01-02</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://bolshchikova.com/images/shop-styleguide-compressor.svg</loc>
-    <lastmod>2017-01-02</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://bolshchikova.com/images/shop-analysis-table.jpg</loc>
-    <lastmod>2017-01-02</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://bolshchikova.com/images/shop-personas-01.svg</loc>
     <lastmod>2017-01-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -619,19 +601,19 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://bolshchikova.com/images/shop-logo-2-02.svg</loc>
+    <loc>http://bolshchikova.com/images/paycrave-survey-2-1370x253.jpg</loc>
     <lastmod>2017-01-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://bolshchikova.com/images/shop-logo-test.jpg</loc>
+    <loc>http://bolshchikova.com/images/shop-analysis-table.jpg</loc>
     <lastmod>2017-01-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://bolshchikova.com/images/paycrave-survey-2-3370x253.jpg</loc>
+    <loc>http://bolshchikova.com/images/shop-personas-01.svg</loc>
     <lastmod>2017-01-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -1207,25 +1189,31 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://bolshchikova.com/images/shop-styleguide-compressor.svg</loc>
+    <lastmod>2017-01-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://bolshchikova.com/images/shop-logo-test.jpg</loc>
+    <lastmod>2017-01-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://bolshchikova.com/images/shop-logo-2-02.svg</loc>
+    <lastmod>2017-01-02</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://bolshchikova.com/images/shop-loops-compressor.jpg</loc>
     <lastmod>2017-01-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://bolshchikova.com/images/myanmar-mac-1.jpg</loc>
-    <lastmod>2017-01-02</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://bolshchikova.com/images/paycrave-1.jpg</loc>
-    <lastmod>2017-01-02</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://bolshchikova.com/images/shop-mac-1.jpg</loc>
+    <loc>http://bolshchikova.com/images/paycrave-survey-2-2370x253.jpg</loc>
     <lastmod>2017-01-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -1237,13 +1225,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://bolshchikova.com/images/paycrave-survey-2-1370x253.jpg</loc>
-    <lastmod>2017-01-02</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://bolshchikova.com/images/paycrave-survey-2-2370x253.jpg</loc>
+    <loc>http://bolshchikova.com/images/paycrave-survey-2-3370x253.jpg</loc>
     <lastmod>2017-01-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
