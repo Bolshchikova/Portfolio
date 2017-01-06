@@ -1,13 +1,13 @@
-<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="bolshchikova.com" resolutions="1x" timestamp="1483576310512">
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="bolshchikova.com" resolutions="1x" timestamp="1483663950582">
   <folder name="css">
     <file name="site_global.css" crc="36064996"/>
-    <file name="master_b-master.css" crc="2564661" ref="paycrave:myanmar:ayla:oasis:index:about:lots-of-loops:booklet"/>
-    <file name="nomq_preview_master_b-master.css" crc="527869851" ref="paycrave:myanmar:ayla:oasis:index:about:lots-of-loops:booklet"/>
-    <file name="paycrave.css" crc="3892309135" ref="paycrave"/>
-    <file name="nomq_paycrave.css" crc="4211828213" ref="paycrave"/>
+    <file name="master_b-master.css" crc="3804976408" ref="paycrave:myanmar:ayla:oasis:index:about:lots-of-loops:booklet"/>
+    <file name="nomq_preview_master_b-master.css" crc="262697211" ref="paycrave:myanmar:ayla:oasis:index:about:lots-of-loops:booklet"/>
+    <file name="paycrave.css" crc="4250780852" ref="paycrave"/>
+    <file name="nomq_paycrave.css" crc="4266855449" ref="paycrave"/>
     <file name="iefonts_paycrave.css" crc="188672998" ref="paycrave"/>
-    <file name="myanmar.css" crc="170345886" ref="myanmar"/>
-    <file name="nomq_myanmar.css" crc="196426578" ref="myanmar"/>
+    <file name="myanmar.css" crc="4187468449" ref="myanmar"/>
+    <file name="nomq_myanmar.css" crc="136326095" ref="myanmar"/>
     <file name="iefonts_myanmar.css" crc="188672998" ref="myanmar"/>
     <file name="ayla.css" crc="3953880151" ref="ayla"/>
     <file name="nomq_ayla.css" crc="534654079" ref="ayla"/>
@@ -18,11 +18,11 @@
     <file name="index.css" crc="26792539" ref="index"/>
     <file name="nomq_index.css" crc="3788837980" ref="index"/>
     <file name="iefonts_index.css" crc="188672998" ref="index"/>
-    <file name="about.css" crc="409155022" ref="about"/>
+    <file name="about.css" crc="4090219980" ref="about"/>
     <file name="nomq_about.css" crc="371875971" ref="about"/>
     <file name="iefonts_about.css" crc="188672998" ref="about"/>
-    <file name="lots-of-loops.css" crc="4225707659" ref="lots-of-loops"/>
-    <file name="nomq_lots-of-loops.css" crc="171335918" ref="lots-of-loops"/>
+    <file name="lots-of-loops.css" crc="148353781" ref="lots-of-loops"/>
+    <file name="nomq_lots-of-loops.css" crc="510159543" ref="lots-of-loops"/>
     <file name="iefonts_lots-of-loops.css" crc="188672998" ref="lots-of-loops"/>
     <file name="booklet.css" crc="3883673891" ref="booklet"/>
     <file name="nomq_booklet.css" crc="122866645" ref="booklet"/>
@@ -50,9 +50,9 @@
     <file name="touchswipe.js" crc="404375771" ref="lots-of-loops:paycrave"/>
   </folder>
   <folder name="images">
-    <file name="favicon.ico" crc="4262227001" ref="index"/>
+    <file name="favicon.ico" crc="4262227001" ref="index:lots-of-loops"/>
     <file name="ob-02.svg" crc="3984814711" seo="true" ref="index:lots-of-loops:paycrave:myanmar:ayla:oasis:booklet:about"/>
-    <file name="ob-02_poster_.png" crc="441424698" ref="index"/>
+    <file name="ob-02_poster_.png" crc="441424698" ref="index:lots-of-loops"/>
     <file name="blank.gif" crc="4208392903" ref="index:lots-of-loops:paycrave:myanmar:ayla:oasis:booklet:about"/>
     <file name="hero-2.jpg" crc="53489937" ref="index"/>
     <file name="shop-mac-1-u6152-fr.jpg" crc="314707361" ref="index"/>
@@ -67,7 +67,7 @@
     <file name="rekl-0-0-u15231-fr2.jpg" crc="4151203046" ref="index"/>
     <file name="ayla-e-books-u15246-fr2.jpg" crc="3943790412" ref="index"/>
     <file name="bookl-0-u15257-fr2.jpg" crc="4240946322" ref="index"/>
-    <file name="mobile-menu.jpg" crc="370601470" ref="index"/>
+    <file name="mobile-menu.jpg" crc="370601470" ref="index:lots-of-loops"/>
     <file name="hero-2-u256-fr.jpg" crc="3897967383" ref="index"/>
     <file name="shop-mac-1-u6152-fr3.jpg" crc="281931427" ref="index"/>
     <file name="paycrave-1-u5974-fr3.jpg" crc="219825601" ref="index"/>
@@ -82,7 +82,7 @@
     <file name="rekl-0-0.jpg" crc="3976178403" ref="index"/>
     <file name="ayla-e-books.jpg" crc="285656675" ref="index"/>
     <file name="bookl-0.jpg" crc="4200991498" ref="index"/>
-    <file name="mobile-menu-550.jpg" crc="3912572265" ref="index"/>
+    <file name="mobile-menu-550.jpg" crc="3912572265" ref="index:lots-of-loops"/>
     <file name="hero-2-u256-fr3.jpg" crc="445243338" ref="index"/>
     <file name="shop-mac-1-u6152-fr4.jpg" crc="219770217" ref="index"/>
     <file name="paycrave-1-u5974-fr4.jpg" crc="432517130" ref="index"/>
@@ -106,7 +106,6 @@
     <file name="shop-personas-02_poster_.png" crc="4181016460" ref="lots-of-loops"/>
     <file name="loading.gif" crc="3815509949" ref="lots-of-loops:paycrave"/>
     <file name="shop-user-flows-compressor.jpg" crc="231796092" seo="true" ref="lots-of-loops"/>
-    <file name="shop-iphone.png" crc="495832982" seo="true" ref="lots-of-loops"/>
     <file name="shop-hero-photo-1.jpg" crc="3761207871" seo="true" ref="lots-of-loops"/>
     <file name="shop-page-home.jpg" crc="351560111" seo="true" ref="lots-of-loops"/>
     <file name="shop-page-detail.jpg" crc="3787087424" seo="true" ref="lots-of-loops"/>
@@ -127,7 +126,6 @@
     <file name="shop-logo-test324x162.jpg" crc="1635080" seo="true" ref="lots-of-loops"/>
     <file name="shop-analysis-table687x269.jpg" crc="4111753623" seo="true" ref="lots-of-loops"/>
     <file name="shop-user-flows-compressor688x429.jpg" crc="4146230492" seo="true" ref="lots-of-loops"/>
-    <file name="shop-iphone490x306.png" crc="37820754" seo="true" ref="lots-of-loops"/>
     <file name="shop-page-home324x354.jpg" crc="241050441" seo="true" ref="lots-of-loops"/>
     <file name="shop-page-detail324x353.jpg" crc="3785679624" seo="true" ref="lots-of-loops"/>
     <file name="shop-checkout-1580x451.jpg" crc="4079307607" seo="true" ref="lots-of-loops"/>
@@ -139,7 +137,6 @@
     <file name="shop-title-u21894-fr2.jpg" crc="4010853225" ref="lots-of-loops"/>
     <file name="shop-analysis-table540x212.jpg" crc="413753049" seo="true" ref="lots-of-loops"/>
     <file name="shop-user-flows-compressor541x337.jpg" crc="126621413" seo="true" ref="lots-of-loops"/>
-    <file name="shop-iphone413x258.png" crc="345311993" seo="true" ref="lots-of-loops"/>
     <file name="shop-checkout-1390x303.jpg" crc="4245931420" seo="true" ref="lots-of-loops"/>
     <file name="shop-checkout-2390x303.jpg" crc="94743191" seo="true" ref="lots-of-loops"/>
     <file name="shop-checkout-3390x303.jpg" crc="3961448707" seo="true" ref="lots-of-loops"/>
@@ -152,7 +149,6 @@
     <file name="shop-logo-test370x185.jpg" crc="3817582170" seo="true" ref="lots-of-loops"/>
     <file name="shop-analysis-table370x145.jpg" crc="116993676" seo="true" ref="lots-of-loops"/>
     <file name="shop-user-flows-compressor371x231.jpg" crc="3957020225" seo="true" ref="lots-of-loops"/>
-    <file name="shop-iphone300x188.png" crc="3938418255" seo="true" ref="lots-of-loops"/>
     <file name="shop-page-home370x404.jpg" crc="348164629" seo="true" ref="lots-of-loops"/>
     <file name="shop-page-detail370x404.jpg" crc="441827572" seo="true" ref="lots-of-loops"/>
     <file name="shop-checkout-1301x233.jpg" crc="186170692" seo="true" ref="lots-of-loops"/>
@@ -222,7 +218,7 @@
     <file name="myanmar-logo-04.svg" crc="256880943" seo="true" ref="myanmar"/>
     <file name="myanmar-logo-04_poster_.png" crc="39205209" ref="myanmar"/>
     <file name="myanmar-survey-charts.jpg" crc="3819391367" seo="true" ref="myanmar"/>
-    <file name="myanmar-wireframes.jpg" crc="4045285268" seo="true" ref="myanmar"/>
+    <file name="myanmar-wireframes.jpg" crc="220868009" seo="true" ref="myanmar"/>
     <file name="myanmar-tests-1.jpg" crc="3891313215" seo="true" ref="myanmar"/>
     <file name="myanmar-tests-2.jpg" crc="374420787" seo="true" ref="myanmar"/>
     <file name="myanmar-tests-3.jpg" crc="426517658" seo="true" ref="myanmar"/>
@@ -235,7 +231,7 @@
     <file name="myanmar-peacock324x265.jpg" crc="522982351" seo="true" ref="myanmar"/>
     <file name="myanmar-logo-test324x173.jpg" crc="3854930227" seo="true" ref="myanmar"/>
     <file name="myanmar-survey-charts688x343.jpg" crc="190851330" seo="true" ref="myanmar"/>
-    <file name="myanmar-wireframes470x294.jpg" crc="4223995171" seo="true" ref="myanmar"/>
+    <file name="myanmar-wireframes470x294.jpg" crc="4105806497" seo="true" ref="myanmar"/>
     <file name="myanmar-tests-1324x221.jpg" crc="4114803818" seo="true" ref="myanmar"/>
     <file name="myanmar-tests-2324x221.jpg" crc="360507397" seo="true" ref="myanmar"/>
     <file name="myanmar-tests-3324x221.jpg" crc="4048286761" seo="true" ref="myanmar"/>
@@ -245,7 +241,7 @@
     <file name="myanmar-code687x265.jpg" crc="500463424" seo="true" ref="myanmar"/>
     <file name="myanmar-title-u96327-fr2.jpg" crc="3804896096" ref="myanmar"/>
     <file name="myanmar-survey-charts540x269.jpg" crc="413271025" seo="true" ref="myanmar"/>
-    <file name="myanmar-wireframes400x250.jpg" crc="360191244" seo="true" ref="myanmar"/>
+    <file name="myanmar-wireframes400x250.jpg" crc="119342883" seo="true" ref="myanmar"/>
     <file name="myanmar-mockup-red250x682.jpg" crc="3834560227" seo="true" ref="myanmar"/>
     <file name="myanmar-test-2250x398.jpg" crc="115200829" seo="true" ref="myanmar"/>
     <file name="myanmar-code540x208.jpg" crc="424527011" seo="true" ref="myanmar"/>
@@ -254,7 +250,7 @@
     <file name="myanmar-peacock370x303.jpg" crc="64757631" seo="true" ref="myanmar"/>
     <file name="myanmar-logo-test370x197.jpg" crc="3907574022" seo="true" ref="myanmar"/>
     <file name="myanmar-survey-charts370x185.jpg" crc="331846969" seo="true" ref="myanmar"/>
-    <file name="myanmar-wireframes330x206.jpg" crc="50936471" seo="true" ref="myanmar"/>
+    <file name="myanmar-wireframes330x206.jpg" crc="321107685" seo="true" ref="myanmar"/>
     <file name="myanmar-tests-1370x253.jpg" crc="4186045251" seo="true" ref="myanmar"/>
     <file name="myanmar-tests-2370x253.jpg" crc="4240456782" seo="true" ref="myanmar"/>
     <file name="myanmar-tests-3370x253.jpg" crc="394192016" seo="true" ref="myanmar"/>
@@ -319,23 +315,28 @@
     <file name="about-map-compressor400x211.jpg" crc="3964574655" seo="true" ref="about"/>
     <file name="about-toys400x218.jpg" crc="4273087283" seo="true" ref="about"/>
     <file name="me-4285x285.png" crc="4045815688" seo="true" ref="about"/>
-    <file name="about-map-compressor-crop-u210912.jpg" crc="3848780011" ref="about"/>
+    <file name="about-map-compressor-crop-u210912.jpg" crc="4273671195" ref="about"/>
     <file name="me-4340x340.png" crc="4045815688" seo="true" ref="about"/>
-    <file name="about-map-compressor-crop-u2109122.jpg" crc="3856859743" ref="about"/>
+    <file name="about-map-compressor-crop-u2109122.jpg" crc="4283701959" ref="about"/>
     <file name="about-toys371x202.jpg" crc="493662271" seo="true" ref="about"/>
-    <file name="email-1.svg" crc="4100113511" ref="index"/>
-    <file name="email-1_poster_u322117.png" crc="3909256717" ref="index"/>
-    <file name="linkedin-1.svg" crc="4075482461" ref="index"/>
-    <file name="linkedin-1_poster_u322125.png" crc="81371700" ref="index"/>
-    <file name="facebook-1.svg" crc="532332797" ref="index"/>
-    <file name="facebook-1_poster_u322133.png" crc="3869347577" ref="index"/>
+    <file name="email-1.svg" crc="4100113511" ref="index:lots-of-loops"/>
+    <file name="email-1_poster_u322117.png" crc="3909256717" ref="index:lots-of-loops"/>
+    <file name="linkedin-1.svg" crc="4075482461" ref="index:lots-of-loops"/>
+    <file name="linkedin-1_poster_u322125.png" crc="81371700" ref="index:lots-of-loops"/>
+    <file name="facebook-1.svg" crc="532332797" ref="index:lots-of-loops"/>
+    <file name="facebook-1_poster_u322133.png" crc="3869347577" ref="index:lots-of-loops"/>
+    <file name="shop-iphone-1-crop-u56053.png" crc="112260212" ref="lots-of-loops"/>
+    <file name="shop-iphone-1.png" crc="4101809463" seo="true" ref="lots-of-loops"/>
+    <file name="shop-iphone-1491x322.png" crc="3781135001" seo="true" ref="lots-of-loops"/>
+    <file name="shop-iphone-1412x271.png" crc="117009643" seo="true" ref="lots-of-loops"/>
+    <file name="shop-iphone-1300x197.png" crc="3859728390" seo="true" ref="lots-of-loops"/>
   </folder>
   <file name="index.html" crc="3907667593" seo="true" mt="1483576221274" redirect="true"/>
-  <file name="lots-of-loops.html" crc="4157621330" seo="true" mt="1483576221274" redirect="true"/>
-  <file name="paycrave.html" crc="211636519" seo="true" mt="1483576221274" redirect="true"/>
-  <file name="myanmar.html" crc="4141498335" seo="true" mt="1483576221274" redirect="true"/>
+  <file name="lots-of-loops.html" crc="4272530701" seo="true" mt="1483663881455" redirect="true"/>
+  <file name="paycrave.html" crc="3818048820" seo="true" mt="1483658334891" redirect="true"/>
+  <file name="myanmar.html" crc="518003559" seo="true" mt="1483658116460" redirect="true"/>
   <file name="ayla.html" crc="472102728" seo="true" mt="1483576221274" redirect="true"/>
   <file name="oasis.html" crc="329810915" seo="true" mt="1483576221274" redirect="true"/>
   <file name="booklet.html" crc="3994790468" seo="true" mt="1483576221274" redirect="true"/>
-  <file name="about.html" crc="3770661160" seo="true" mt="1483576221274" redirect="true"/>
+  <file name="about.html" crc="19520412" seo="true" mt="1483658363224" redirect="true"/>
 </manifest>
