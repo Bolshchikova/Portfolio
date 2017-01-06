@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="bolshchikova.com" resolutions="1x" timestamp="1483675439079">
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="bolshchikova.com" resolutions="1x" timestamp="1483739224477">
   <folder name="css">
     <file name="site_global.css" crc="36064996"/>
     <file name="master_b-master.css" crc="264731893" ref="paycrave:myanmar:ayla:oasis:index:about:lots-of-loops:booklet"/>
@@ -15,8 +15,8 @@
     <file name="oasis.css" crc="194696307" ref="oasis"/>
     <file name="nomq_oasis.css" crc="4257097737" ref="oasis"/>
     <file name="iefonts_oasis.css" crc="188672998" ref="oasis"/>
-    <file name="index.css" crc="371109400" ref="index"/>
-    <file name="nomq_index.css" crc="505204283" ref="index"/>
+    <file name="index.css" crc="4092727276" ref="index"/>
+    <file name="nomq_index.css" crc="3934204912" ref="index"/>
     <file name="iefonts_index.css" crc="188672998" ref="index"/>
     <file name="about.css" crc="4275762946" ref="about"/>
     <file name="nomq_about.css" crc="263597496" ref="about"/>
@@ -76,9 +76,9 @@
     <file name="ayla-e-books-u15246-fr3.jpg" crc="392194294" ref="index"/>
     <file name="bookl-0-u15257-fr3.jpg" crc="4177057829" ref="index"/>
     <file name="hero-2-u256-fr2.jpg" crc="4048460080" ref="index"/>
-    <file name="shop-mac-1.jpg" crc="165990407" ref="index:lots-of-loops" seo="true"/>
-    <file name="paycrave-1.jpg" crc="3936035430" ref="index:paycrave" seo="true"/>
-    <file name="myanmar-mac-1.jpg" crc="157287946" ref="index:myanmar" seo="true"/>
+    <file name="shop-mac-1.jpg" crc="165990407" ref="index:lots-of-loops"/>
+    <file name="paycrave-1.jpg" crc="3936035430" ref="index:paycrave"/>
+    <file name="myanmar-mac-1.jpg" crc="157287946" ref="index:myanmar"/>
     <file name="rekl-0-0.jpg" crc="3976178403" ref="index"/>
     <file name="ayla-e-books.jpg" crc="285656675" ref="index"/>
     <file name="bookl-0.jpg" crc="4200991498" ref="index"/>
@@ -331,7 +331,7 @@
     <file name="shop-iphone-1412x271.png" crc="117009643" seo="true" ref="lots-of-loops"/>
     <file name="shop-iphone-1300x197.png" crc="3859728390" seo="true" ref="lots-of-loops"/>
   </folder>
-  <file name="index.html" crc="4159893184" seo="true" mt="1483675341299" redirect="true"/>
+  <file name="index.html" crc="268451725" seo="true" mt="1483739172703" redirect="true"/>
   <file name="lots-of-loops.html" crc="94521386" seo="true" mt="1483675341299" redirect="true"/>
   <file name="paycrave.html" crc="211755181" seo="true" mt="1483675341299" redirect="true"/>
   <file name="myanmar.html" crc="4187614813" seo="true" mt="1483675341299" redirect="true"/>
