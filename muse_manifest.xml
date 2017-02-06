@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="bolshchikova.com" resolutions="1x" timestamp="1486369626547">
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="bolshchikova.com" resolutions="1x" timestamp="1486420843882">
   <folder name="css">
     <file name="site_global.css" crc="4100049448"/>
     <file name="master_b-master.css" crc="437337533" ref="paycrave:myanmar:index:about:visual"/>
@@ -12,8 +12,8 @@
     <file name="index.css" crc="503102500" ref="index"/>
     <file name="nomq_index.css" crc="3913560335" ref="index"/>
     <file name="iefonts_index.css" crc="3973080062" ref="index"/>
-    <file name="about.css" crc="534325708" ref="about"/>
-    <file name="nomq_about.css" crc="3919635336" ref="about"/>
+    <file name="about.css" crc="3818671440" ref="about"/>
+    <file name="nomq_about.css" crc="528073430" ref="about"/>
     <file name="visual.css" crc="270585574" ref="visual"/>
     <file name="nomq_visual.css" crc="21460280" ref="visual"/>
     <file name="iefonts_visual.css" crc="3973080062" ref="visual"/>
@@ -37,14 +37,14 @@
     <file name="require.js" crc="244322403" ref="index:paycrave:myanmar:about:visual"/>
   </folder>
   <folder name="images">
-    <file name="favicon.ico" crc="4262227001" ref="index"/>
+    <file name="favicon.ico" crc="4262227001" ref="index:about"/>
     <file name="ob-02.svg" crc="3984814711" seo="true" ref="index:paycrave:myanmar:about:visual"/>
-    <file name="ob-02_poster_.png" crc="441424698" ref="index"/>
+    <file name="ob-02_poster_.png" crc="441424698" ref="index:about"/>
     <file name="blank.gif" crc="4208392903" ref="index:paycrave:myanmar:about:visual"/>
-    <file name="mobile-menu.jpg" crc="370601470" ref="index"/>
+    <file name="mobile-menu.jpg" crc="370601470" ref="index:about"/>
     <file name="paycrave-1.jpg" crc="3936035430" ref="paycrave" seo="true"/>
     <file name="myanmar-mac-1.jpg" crc="157287946" ref="myanmar" seo="true"/>
-    <file name="mobile-menu-550.jpg" crc="3912572265" ref="index"/>
+    <file name="mobile-menu-550.jpg" crc="3912572265" ref="index:about"/>
     <file name="paycrave-title.jpg" crc="3767107744" ref="paycrave"/>
     <file name="paycrave_style_guide-compressor.svg" crc="3891120947" seo="true" ref="paycrave"/>
     <file name="paycrave_style_guide-compressor_poster_.png" crc="3917879150" ref="paycrave"/>
@@ -130,12 +130,12 @@
     <file name="ayla-title-u221560-fr2.jpg" crc="4235265915" ref="visual"/>
     <file name="ayla-e-book-1540x243.jpg" crc="4179715059" seo="true" ref="visual"/>
     <file name="about-toys.jpg" crc="4100217880" ref="about"/>
-    <file name="email-1.svg" crc="4100113511" ref="index"/>
-    <file name="email-1_poster_u322117.png" crc="3909256717" ref="index"/>
-    <file name="linkedin-1.svg" crc="4075482461" ref="index"/>
-    <file name="linkedin-1_poster_u322125.png" crc="81371700" ref="index"/>
-    <file name="facebook-1.svg" crc="532332797" ref="index"/>
-    <file name="facebook-1_poster_u322133.png" crc="3869347577" ref="index"/>
+    <file name="email-1.svg" crc="4100113511" ref="index:about"/>
+    <file name="email-1_poster_u322117.png" crc="3909256717" ref="index:about"/>
+    <file name="linkedin-1.svg" crc="4075482461" ref="index:about"/>
+    <file name="linkedin-1_poster_u322125.png" crc="81371700" ref="index:about"/>
+    <file name="facebook-1.svg" crc="532332797" ref="index:about"/>
+    <file name="facebook-1_poster_u322133.png" crc="3869347577" ref="index:about"/>
     <file name="hero-3.jpg" crc="534655662" ref="index"/>
     <file name="hero-3-u256-fr.jpg" crc="56878566" ref="index"/>
     <file name="hero-3-u256-fr2.jpg" crc="7630155" ref="index"/>
@@ -182,15 +182,15 @@
     <file name="collage-1-crop-u3983125.jpg" crc="12807092" ref="visual"/>
     <file name="collage-2247x371.jpg" crc="4180429136" seo="true" ref="visual"/>
     <file name="about-title.jpg" crc="149763823" ref="about"/>
-    <file name="me-5.jpg" crc="4124233037" ref="about"/>
+    <file name="me-5.jpg" crc="4132677957" ref="about"/>
     <file name="about-map.jpg" crc="148733115" ref="about"/>
     <file name="about-yosemite-fall.jpg" crc="4205091454" ref="about"/>
     <file name="about-yosemite-fall-u383916-fr.jpg" crc="437593305" ref="about"/>
-    <file name="me-5-u383956-fr.jpg" crc="3882964486" ref="about"/>
+    <file name="me-5-u383956-fr.jpg" crc="4162372037" ref="about"/>
     <file name="about-map-u383838-fr.jpg" crc="101714087" ref="about"/>
     <file name="about-yosemite-fall-u383916-fr2.jpg" crc="4044193806" ref="about"/>
     <file name="about-toys-u383936-fr.jpg" crc="4153946174" ref="about"/>
-    <file name="me-5-u383956-fr2.jpg" crc="99685962" ref="about"/>
+    <file name="me-5-u383956-fr2.jpg" crc="3842562841" ref="about"/>
     <file name="about-map-u383838-fr2.jpg" crc="127880025" ref="about"/>
     <file name="about-yosemite-fall-u383916-fr3.jpg" crc="3883020040" ref="about"/>
     <file name="about-toys-u383936-fr2.jpg" crc="4159175698" ref="about"/>
@@ -200,6 +200,6 @@
   <file name="index.html" crc="58387457" seo="true" mt="1486369222624" redirect="true"/>
   <file name="paycrave.html" crc="48008499" seo="true" mt="1486369222624" redirect="true"/>
   <file name="myanmar.html" crc="274247439" seo="true" mt="1486369222624" redirect="true"/>
-  <file name="about.html" crc="474735159" seo="true" mt="1486369222624" redirect="true"/>
+  <file name="about.html" crc="3993779481" seo="true" mt="1486420839014" redirect="true"/>
   <file name="visual.html" crc="176535398" seo="true" mt="1486369222624" redirect="true"/>
 </manifest>
