@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="bolshchikova.com" resolutions="1x" timestamp="1486355266400">
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="bolshchikova.com" resolutions="1x" timestamp="1486369626547">
   <folder name="css">
     <file name="site_global.css" crc="4100049448"/>
     <file name="master_b-master.css" crc="437337533" ref="paycrave:myanmar:index:about:visual"/>
@@ -6,14 +6,14 @@
     <file name="paycrave.css" crc="292555342" ref="paycrave"/>
     <file name="nomq_paycrave.css" crc="18342464" ref="paycrave"/>
     <file name="iefonts_paycrave.css" crc="3973080062" ref="paycrave"/>
-    <file name="myanmar.css" crc="522043378" ref="myanmar"/>
+    <file name="myanmar.css" crc="275336620" ref="myanmar"/>
     <file name="nomq_myanmar.css" crc="230501402" ref="myanmar"/>
     <file name="iefonts_myanmar.css" crc="3973080062" ref="myanmar"/>
     <file name="index.css" crc="503102500" ref="index"/>
     <file name="nomq_index.css" crc="3913560335" ref="index"/>
     <file name="iefonts_index.css" crc="3973080062" ref="index"/>
-    <file name="about.css" crc="414272255" ref="about"/>
-    <file name="nomq_about.css" crc="3954121843" ref="about"/>
+    <file name="about.css" crc="534325708" ref="about"/>
+    <file name="nomq_about.css" crc="3919635336" ref="about"/>
     <file name="visual.css" crc="270585574" ref="visual"/>
     <file name="nomq_visual.css" crc="21460280" ref="visual"/>
     <file name="iefonts_visual.css" crc="3973080062" ref="visual"/>
@@ -197,9 +197,9 @@
     <file name="about-title-u209499-fr.jpg" crc="294966337" ref="about"/>
     <file name="about-title-u209499-fr2.jpg" crc="167697961" ref="about"/>
   </folder>
-  <file name="index.html" crc="58387457" seo="true" mt="1486355229012" redirect="true"/>
-  <file name="paycrave.html" crc="48008499" seo="true" mt="1486355238425" redirect="true"/>
-  <file name="myanmar.html" crc="133121625" seo="true" mt="1486355251185" redirect="true"/>
-  <file name="about.html" crc="249125363" seo="true" mt="1486355264473" redirect="true"/>
-  <file name="visual.html" crc="176535398" seo="true" mt="1486355259963" redirect="true"/>
+  <file name="index.html" crc="58387457" seo="true" mt="1486369222624" redirect="true"/>
+  <file name="paycrave.html" crc="48008499" seo="true" mt="1486369222624" redirect="true"/>
+  <file name="myanmar.html" crc="274247439" seo="true" mt="1486369222624" redirect="true"/>
+  <file name="about.html" crc="474735159" seo="true" mt="1486369222624" redirect="true"/>
+  <file name="visual.html" crc="176535398" seo="true" mt="1486369222624" redirect="true"/>
 </manifest>
