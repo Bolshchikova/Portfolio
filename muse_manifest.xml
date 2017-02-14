@@ -1,26 +1,26 @@
-<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="bolshchikova.com" resolutions="1x" timestamp="1486420843882">
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="bolshchikova.com" resolutions="1x" timestamp="1487112266089">
   <folder name="css">
     <file name="site_global.css" crc="4100049448"/>
-    <file name="master_b-master.css" crc="437337533" ref="paycrave:myanmar:index:about:visual"/>
-    <file name="nomq_preview_master_b-master.css" crc="338390976" ref="paycrave:myanmar:index:about:visual"/>
-    <file name="paycrave.css" crc="292555342" ref="paycrave"/>
+    <file name="master_b-master.css" crc="79442819" ref="paycrave:myanmar:index:about:visual"/>
+    <file name="nomq_preview_master_b-master.css" crc="237218926" ref="paycrave:myanmar:index:about:visual"/>
+    <file name="paycrave.css" crc="3922651540" ref="paycrave"/>
     <file name="nomq_paycrave.css" crc="18342464" ref="paycrave"/>
     <file name="iefonts_paycrave.css" crc="3973080062" ref="paycrave"/>
-    <file name="myanmar.css" crc="275336620" ref="myanmar"/>
-    <file name="nomq_myanmar.css" crc="230501402" ref="myanmar"/>
+    <file name="myanmar.css" crc="4058891032" ref="myanmar"/>
+    <file name="nomq_myanmar.css" crc="3908288816" ref="myanmar"/>
     <file name="iefonts_myanmar.css" crc="3973080062" ref="myanmar"/>
-    <file name="index.css" crc="503102500" ref="index"/>
-    <file name="nomq_index.css" crc="3913560335" ref="index"/>
+    <file name="index.css" crc="110218267" ref="index"/>
+    <file name="nomq_index.css" crc="511358556" ref="index"/>
     <file name="iefonts_index.css" crc="3973080062" ref="index"/>
-    <file name="about.css" crc="3818671440" ref="about"/>
+    <file name="about.css" crc="4024781205" ref="about"/>
     <file name="nomq_about.css" crc="528073430" ref="about"/>
-    <file name="visual.css" crc="270585574" ref="visual"/>
+    <file name="visual.css" crc="116149075" ref="visual"/>
     <file name="nomq_visual.css" crc="21460280" ref="visual"/>
     <file name="iefonts_visual.css" crc="3973080062" ref="visual"/>
   </folder>
   <folder name="assets">
     <file name="pw-web.pdf" crc="4264741554" seo="true" mt="1436829024000"/>
-    <file name="olga-bolshchikova-resume.pdf" crc="484558525" seo="true" mt="1486351374000"/>
+    <file name="olga-bolshchikova-resume.pdf" crc="361621690" seo="true" mt="1487110412000"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:paycrave:myanmar:about:visual"/>
@@ -55,9 +55,9 @@
     <file name="paycrave-survey-2-2.jpg" crc="4261509262" seo="true" ref="paycrave"/>
     <file name="paycrave-survey-2-3.jpg" crc="262271138" seo="true" ref="paycrave"/>
     <file name="paycrave-user-flow.jpg" crc="55920110" seo="true" ref="paycrave"/>
-    <file name="paycrave-mockups-1.jpg" crc="391569757" seo="true" ref="paycrave"/>
-    <file name="paycrave-mockups-2.jpg" crc="435499406" seo="true" ref="paycrave"/>
-    <file name="paycrave-mockups-3.jpg" crc="95077966" seo="true" ref="paycrave"/>
+    <file name="paycrave-mockups-1.jpg" crc="3855943301" seo="true" ref="paycrave"/>
+    <file name="paycrave-mockups-2.jpg" crc="3999235113" seo="true" ref="paycrave"/>
+    <file name="paycrave-mockups-3.jpg" crc="3951277088" seo="true" ref="paycrave"/>
     <file name="paycrave-title-u73310-fr.jpg" crc="3985267148" ref="paycrave"/>
     <file name="paycrave-1420x289.jpg" crc="533715943" seo="true" ref="paycrave"/>
     <file name="paycrave-survey-1324x222.jpg" crc="4031801203" seo="true" ref="paycrave"/>
@@ -65,14 +65,14 @@
     <file name="paycrave-survey-2-2324x222.jpg" crc="225149531" seo="true" ref="paycrave"/>
     <file name="paycrave-survey-2-3324x222.jpg" crc="247636035" seo="true" ref="paycrave"/>
     <file name="paycrave-user-flow688x435.jpg" crc="470258347" seo="true" ref="paycrave"/>
-    <file name="paycrave-mockups-1688x391.jpg" crc="4105437122" seo="true" ref="paycrave"/>
-    <file name="paycrave-mockups-2688x391.jpg" crc="378992012" seo="true" ref="paycrave"/>
-    <file name="paycrave-mockups-3688x391.jpg" crc="459369425" seo="true" ref="paycrave"/>
+    <file name="paycrave-mockups-1688x391.jpg" crc="199996396" seo="true" ref="paycrave"/>
+    <file name="paycrave-mockups-2688x391.jpg" crc="4252894245" seo="true" ref="paycrave"/>
+    <file name="paycrave-mockups-3688x391.jpg" crc="3915494955" seo="true" ref="paycrave"/>
     <file name="paycrave-title-u73310-fr2.jpg" crc="510111294" ref="paycrave"/>
     <file name="paycrave-user-flow540x341.jpg" crc="3947230704" seo="true" ref="paycrave"/>
-    <file name="paycrave-mockups-1540x307.jpg" crc="3983513836" seo="true" ref="paycrave"/>
-    <file name="paycrave-mockups-2540x307.jpg" crc="79432488" seo="true" ref="paycrave"/>
-    <file name="paycrave-mockups-3540x306.jpg" crc="76390567" seo="true" ref="paycrave"/>
+    <file name="paycrave-mockups-1540x307.jpg" crc="204450602" seo="true" ref="paycrave"/>
+    <file name="paycrave-mockups-2540x307.jpg" crc="3772845303" seo="true" ref="paycrave"/>
+    <file name="paycrave-mockups-3540x306.jpg" crc="1827554" seo="true" ref="paycrave"/>
     <file name="paycrave-title-u73310-fr3.jpg" crc="484678025" ref="paycrave"/>
     <file name="paycrave-1370x255.jpg" crc="403763986" seo="true" ref="paycrave"/>
     <file name="paycrave-survey-1370x253.jpg" crc="261803384" seo="true" ref="paycrave"/>
@@ -80,9 +80,9 @@
     <file name="paycrave-survey-2-2370x253.jpg" crc="200865521" seo="true" ref="paycrave"/>
     <file name="paycrave-survey-2-3370x253.jpg" crc="4148302643" seo="true" ref="paycrave"/>
     <file name="paycrave-user-flow370x234.jpg" crc="4218147723" seo="true" ref="paycrave"/>
-    <file name="paycrave-mockups-1370x210.jpg" crc="452330330" seo="true" ref="paycrave"/>
-    <file name="paycrave-mockups-2370x210.jpg" crc="4200575151" seo="true" ref="paycrave"/>
-    <file name="paycrave-mockups-3370x210.jpg" crc="2902516" seo="true" ref="paycrave"/>
+    <file name="paycrave-mockups-1370x210.jpg" crc="124958394" seo="true" ref="paycrave"/>
+    <file name="paycrave-mockups-2370x210.jpg" crc="4254425438" seo="true" ref="paycrave"/>
+    <file name="paycrave-mockups-3370x210.jpg" crc="3981401984" seo="true" ref="paycrave"/>
     <file name="myanmar-title.jpg" crc="15904253" ref="myanmar"/>
     <file name="myanmar-peacock.jpg" crc="4145629735" seo="true" ref="myanmar"/>
     <file name="myanmar-logo-draft-02.svg" crc="131404649" seo="true" ref="myanmar"/>
@@ -197,9 +197,9 @@
     <file name="about-title-u209499-fr.jpg" crc="294966337" ref="about"/>
     <file name="about-title-u209499-fr2.jpg" crc="167697961" ref="about"/>
   </folder>
-  <file name="index.html" crc="58387457" seo="true" mt="1486369222624" redirect="true"/>
-  <file name="paycrave.html" crc="48008499" seo="true" mt="1486369222624" redirect="true"/>
-  <file name="myanmar.html" crc="274247439" seo="true" mt="1486369222624" redirect="true"/>
-  <file name="about.html" crc="3993779481" seo="true" mt="1486420839014" redirect="true"/>
-  <file name="visual.html" crc="176535398" seo="true" mt="1486369222624" redirect="true"/>
+  <file name="index.html" crc="93520615" seo="true" mt="1487106772759" redirect="true"/>
+  <file name="paycrave.html" crc="10663042" seo="true" mt="1487106772759" redirect="true"/>
+  <file name="myanmar.html" crc="3840113258" seo="true" mt="1487106772759" redirect="true"/>
+  <file name="about.html" crc="3975089103" seo="true" mt="1487112257700" redirect="true"/>
+  <file name="visual.html" crc="4225114375" seo="true" mt="1487106772759" redirect="true"/>
 </manifest>
