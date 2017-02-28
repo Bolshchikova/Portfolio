@@ -1,26 +1,26 @@
-<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="bolshchikova.com" resolutions="1x" timestamp="1487468375222">
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="bolshchikova.com" resolutions="1x" timestamp="1488323424612">
   <folder name="css">
-    <file name="site_global.css" crc="4100049448"/>
-    <file name="master_b-master.css" crc="169539571" ref="paycrave:myanmar:index:about:visual"/>
-    <file name="nomq_preview_master_b-master.css" crc="122527482" ref="paycrave:myanmar:index:about:visual"/>
-    <file name="paycrave.css" crc="3837023757" ref="paycrave"/>
-    <file name="nomq_paycrave.css" crc="4264104506" ref="paycrave"/>
+    <file name="site_global.css" crc="4256092230"/>
+    <file name="master_b-master.css" crc="71592993" ref="paycrave:myanmar:index:about:visual"/>
+    <file name="nomq_preview_master_b-master.css" crc="61021700" ref="paycrave:myanmar:index:about:visual"/>
+    <file name="paycrave.css" crc="3989630379" ref="paycrave"/>
+    <file name="nomq_paycrave.css" crc="18342464" ref="paycrave"/>
     <file name="iefonts_paycrave.css" crc="3973080062" ref="paycrave"/>
-    <file name="myanmar.css" crc="4262329305" ref="myanmar"/>
-    <file name="nomq_myanmar.css" crc="71570287" ref="myanmar"/>
+    <file name="myanmar.css" crc="4199005404" ref="myanmar"/>
+    <file name="nomq_myanmar.css" crc="230501402" ref="myanmar"/>
     <file name="iefonts_myanmar.css" crc="3973080062" ref="myanmar"/>
-    <file name="index.css" crc="78384285" ref="index"/>
-    <file name="nomq_index.css" crc="4048195559" ref="index"/>
+    <file name="index.css" crc="209883653" ref="index"/>
+    <file name="nomq_index.css" crc="3925753044" ref="index"/>
     <file name="iefonts_index.css" crc="3973080062" ref="index"/>
-    <file name="about.css" crc="3989356591" ref="about"/>
-    <file name="nomq_about.css" crc="528073430" ref="about"/>
-    <file name="visual.css" crc="3948128292" ref="visual"/>
+    <file name="about.css" crc="423068509" ref="about"/>
+    <file name="nomq_about.css" crc="4235752432" ref="about"/>
+    <file name="visual.css" crc="73416849" ref="visual"/>
     <file name="nomq_visual.css" crc="21460280" ref="visual"/>
     <file name="iefonts_visual.css" crc="3973080062" ref="visual"/>
   </folder>
   <folder name="assets">
     <file name="pw-web.pdf" crc="4264741554" seo="true" mt="1436829024000"/>
-    <file name="olga-bolshchikova-resume.pdf" crc="361621690" seo="true" mt="1487110412000"/>
+    <file name="olga-bolshchikova-resume.pdf" crc="320246237" seo="true" mt="1488321580000"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:paycrave:myanmar:about:visual"/>
@@ -184,22 +184,22 @@
     <file name="about-title.jpg" crc="149763823" ref="about"/>
     <file name="me-5.jpg" crc="4132677957" ref="about"/>
     <file name="about-map.jpg" crc="148733115" ref="about"/>
-    <file name="about-yosemite-fall.jpg" crc="4205091454" ref="about"/>
-    <file name="about-yosemite-fall-u383916-fr.jpg" crc="437593305" ref="about"/>
+    <file name="about-yosemite-fall.jpg" crc="216378005" ref="about"/>
+    <file name="about-yosemite-fall-u383916-fr.jpg" crc="4192288513" ref="about"/>
     <file name="me-5-u383956-fr.jpg" crc="4162372037" ref="about"/>
     <file name="about-map-u383838-fr.jpg" crc="101714087" ref="about"/>
-    <file name="about-yosemite-fall-u383916-fr2.jpg" crc="4044193806" ref="about"/>
+    <file name="about-yosemite-fall-u383916-fr2.jpg" crc="3938057263" ref="about"/>
     <file name="about-toys-u383936-fr.jpg" crc="4153946174" ref="about"/>
     <file name="me-5-u383956-fr2.jpg" crc="3842562841" ref="about"/>
     <file name="about-map-u383838-fr2.jpg" crc="127880025" ref="about"/>
-    <file name="about-yosemite-fall-u383916-fr3.jpg" crc="3883020040" ref="about"/>
+    <file name="about-yosemite-fall-u383916-fr3.jpg" crc="3844160031" ref="about"/>
     <file name="about-toys-u383936-fr2.jpg" crc="4159175698" ref="about"/>
     <file name="about-title-u209499-fr.jpg" crc="294966337" ref="about"/>
     <file name="about-title-u209499-fr2.jpg" crc="167697961" ref="about"/>
   </folder>
-  <file name="index.html" crc="497906398" seo="true" mt="1487468135228" redirect="true"/>
-  <file name="paycrave.html" crc="3937304596" seo="true" mt="1487446006690" redirect="true"/>
-  <file name="myanmar.html" crc="4231145817" seo="true" mt="1487446028023" redirect="true"/>
-  <file name="about.html" crc="4125166258" seo="true" mt="1487468363806" redirect="true"/>
-  <file name="visual.html" crc="3878520015" seo="true" mt="1487446048215" redirect="true"/>
+  <file name="index.html" crc="318728144" seo="true" mt="1488323369339" redirect="true"/>
+  <file name="paycrave.html" crc="313278857" seo="true" mt="1488323369339" redirect="true"/>
+  <file name="myanmar.html" crc="3980644159" seo="true" mt="1488323369339" redirect="true"/>
+  <file name="about.html" crc="4103312148" seo="true" mt="1488323384352" redirect="true"/>
+  <file name="visual.html" crc="3771539676" seo="true" mt="1488323369339" redirect="true"/>
 </manifest>
