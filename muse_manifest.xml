@@ -1,50 +1,61 @@
-<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="bolshchikova.com" resolutions="1x" timestamp="1488323424612">
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="bolshchikova.com" resolutions="1x" timestamp="1488865667223">
   <folder name="css">
-    <file name="site_global.css" crc="4256092230"/>
-    <file name="master_b-master.css" crc="71592993" ref="paycrave:myanmar:index:about:visual"/>
-    <file name="nomq_preview_master_b-master.css" crc="61021700" ref="paycrave:myanmar:index:about:visual"/>
-    <file name="paycrave.css" crc="3989630379" ref="paycrave"/>
-    <file name="nomq_paycrave.css" crc="18342464" ref="paycrave"/>
+    <file name="site_global.css" crc="4100049448"/>
+    <file name="master_b-master.css" crc="4166360349" ref="paycrave:myanmar:index:about:visual:good-market"/>
+    <file name="nomq_preview_master_b-master.css" crc="376384183" ref="paycrave:myanmar:index:about:visual:good-market"/>
+    <file name="paycrave.css" crc="59921876" ref="paycrave"/>
+    <file name="nomq_paycrave.css" crc="4264104506" ref="paycrave"/>
     <file name="iefonts_paycrave.css" crc="3973080062" ref="paycrave"/>
-    <file name="myanmar.css" crc="4199005404" ref="myanmar"/>
-    <file name="nomq_myanmar.css" crc="230501402" ref="myanmar"/>
+    <file name="myanmar.css" crc="473321836" ref="myanmar"/>
+    <file name="nomq_myanmar.css" crc="497978844" ref="myanmar"/>
     <file name="iefonts_myanmar.css" crc="3973080062" ref="myanmar"/>
-    <file name="index.css" crc="209883653" ref="index"/>
-    <file name="nomq_index.css" crc="3925753044" ref="index"/>
+    <file name="index.css" crc="64599031" ref="index"/>
+    <file name="nomq_index.css" crc="4252228917" ref="index"/>
     <file name="iefonts_index.css" crc="3973080062" ref="index"/>
-    <file name="about.css" crc="423068509" ref="about"/>
+    <file name="about.css" crc="3964744144" ref="about"/>
     <file name="nomq_about.css" crc="4235752432" ref="about"/>
-    <file name="visual.css" crc="73416849" ref="visual"/>
+    <file name="visual.css" crc="104589223" ref="visual"/>
     <file name="nomq_visual.css" crc="21460280" ref="visual"/>
     <file name="iefonts_visual.css" crc="3973080062" ref="visual"/>
+    <file name="good-market.css" crc="126908364" ref="good-market"/>
+    <file name="nomq_good-market.css" crc="4193787021" ref="good-market"/>
+    <file name="iefonts_good-market.css" crc="3973080062" ref="good-market"/>
   </folder>
   <folder name="assets">
-    <file name="pw-web.pdf" crc="4264741554" seo="true" mt="1436829024000"/>
     <file name="olga-bolshchikova-resume.pdf" crc="320246237" seo="true" mt="1488321580000"/>
+    <file name="goodmarket-wireframes.pdf" crc="41135824" seo="true" mt="1488839682000"/>
+    <file name="goodmarket-sitemap-with-wireframes.pdf" crc="4069057013" seo="true" mt="1488847218000"/>
+    <file name="goodmarket-usability-analysis.png" crc="4129801315" seo="true" mt="1488846534000"/>
+    <file name="goodmarket-card-sort-1.jpg" crc="155516840" seo="true" mt="1488860623000"/>
+    <file name="goodmarket-card-sort-2.jpg" crc="216512831" seo="true" mt="1488860858000"/>
+    <file name="goodmarket-card-sort-3.jpg" crc="3906677110" seo="true" mt="1488860874000"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:paycrave:myanmar:about:visual"/>
-    <file name="museutils.js" crc="163421577" ref="index:paycrave:myanmar:about:visual"/>
-    <file name="whatinput.js" crc="86476730" ref="index:paycrave:myanmar:about:visual"/>
-    <file name="museconfig.js" crc="168988563" ref="index:paycrave:myanmar:about:visual"/>
-    <file name="jquery.musemenu.js" crc="146495465" ref="index:paycrave:myanmar:about:visual"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="379354253" ref="index:paycrave:myanmar:visual:about"/>
-    <file name="jquery.watch.js" crc="104486786" ref="index:paycrave:myanmar:about:visual"/>
-    <file name="webpro.js" crc="3848665353" ref="index:paycrave:myanmar:about:visual"/>
-    <file name="musewpdisclosure.js" crc="4275188064" ref="index:paycrave:myanmar:about:visual"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index:paycrave:myanmar:about:visual"/>
-    <file name="jquery.museresponsive.js" crc="4146931122" ref="index:paycrave:myanmar:about:visual"/>
-    <file name="require.js" crc="244322403" ref="index:paycrave:myanmar:about:visual"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:paycrave:myanmar:about:visual:good-market"/>
+    <file name="museutils.js" crc="163421577" ref="index:paycrave:myanmar:about:visual:good-market"/>
+    <file name="whatinput.js" crc="86476730" ref="index:paycrave:myanmar:about:visual:good-market"/>
+    <file name="museconfig.js" crc="168988563" ref="index:paycrave:myanmar:about:visual:good-market"/>
+    <file name="jquery.musemenu.js" crc="146495465" ref="index:paycrave:myanmar:about:visual:good-market"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="379354253" ref="index:paycrave:myanmar:visual:about:good-market"/>
+    <file name="jquery.watch.js" crc="104486786" ref="index:paycrave:myanmar:about:visual:good-market"/>
+    <file name="webpro.js" crc="3848665353" ref="index:paycrave:myanmar:about:visual:good-market"/>
+    <file name="musewpdisclosure.js" crc="4275188064" ref="index:paycrave:myanmar:about:visual:good-market"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:paycrave:myanmar:about:visual:good-market"/>
+    <file name="jquery.museresponsive.js" crc="4146931122" ref="index:paycrave:myanmar:about:visual:good-market"/>
+    <file name="require.js" crc="244322403" ref="index:paycrave:myanmar:about:visual:good-market"/>
+    <file name="musewpslideshow.js" crc="4041717617" ref="good-market"/>
+    <file name="jquery.museoverlay.js" crc="36492500" ref="good-market"/>
+    <file name="touchswipe.js" crc="404375771" ref="good-market"/>
   </folder>
   <folder name="images">
-    <file name="favicon.ico" crc="4262227001" ref="index"/>
-    <file name="ob-02.svg" crc="3984814711" seo="true" ref="index:paycrave:myanmar:about:visual"/>
-    <file name="ob-02_poster_.png" crc="441424698" ref="index"/>
-    <file name="blank.gif" crc="4208392903" ref="index:paycrave:myanmar:about:visual"/>
-    <file name="mobile-menu.jpg" crc="370601470" ref="index"/>
+    <file name="favicon.ico" crc="4262227001" ref="index:good-market"/>
+    <file name="ob-02.svg" crc="3984814711" seo="true" ref="index:paycrave:myanmar:about:visual:good-market"/>
+    <file name="ob-02_poster_.png" crc="441424698" ref="index:good-market"/>
+    <file name="blank.gif" crc="4208392903" ref="index:paycrave:myanmar:about:visual:good-market"/>
+    <file name="mobile-menu.jpg" crc="370601470" ref="index:good-market"/>
     <file name="paycrave-1.jpg" crc="3936035430" ref="paycrave" seo="true"/>
     <file name="myanmar-mac-1.jpg" crc="157287946" ref="myanmar" seo="true"/>
-    <file name="mobile-menu-550.jpg" crc="3912572265" ref="index"/>
+    <file name="mobile-menu-550.jpg" crc="3912572265" ref="index:good-market"/>
     <file name="paycrave-title.jpg" crc="3767107744" ref="paycrave"/>
     <file name="paycrave_style_guide-compressor.svg" crc="3891120947" seo="true" ref="paycrave"/>
     <file name="paycrave_style_guide-compressor_poster_.png" crc="3917879150" ref="paycrave"/>
@@ -130,22 +141,22 @@
     <file name="ayla-title-u221560-fr2.jpg" crc="4235265915" ref="visual"/>
     <file name="ayla-e-book-1540x243.jpg" crc="4179715059" seo="true" ref="visual"/>
     <file name="about-toys.jpg" crc="4100217880" ref="about"/>
-    <file name="email-1.svg" crc="4100113511" ref="index"/>
-    <file name="email-1_poster_u322117.png" crc="3909256717" ref="index"/>
-    <file name="linkedin-1.svg" crc="4075482461" ref="index"/>
-    <file name="linkedin-1_poster_u322125.png" crc="81371700" ref="index"/>
-    <file name="facebook-1.svg" crc="532332797" ref="index"/>
-    <file name="facebook-1_poster_u322133.png" crc="3869347577" ref="index"/>
+    <file name="email-1.svg" crc="4100113511" ref="index:good-market"/>
+    <file name="email-1_poster_u322117.png" crc="3909256717" ref="index:good-market"/>
+    <file name="linkedin-1.svg" crc="4075482461" ref="index:good-market"/>
+    <file name="linkedin-1_poster_u322125.png" crc="81371700" ref="index:good-market"/>
+    <file name="facebook-1.svg" crc="532332797" ref="index:good-market"/>
+    <file name="facebook-1_poster_u322133.png" crc="3869347577" ref="index:good-market"/>
     <file name="hero-3.jpg" crc="534655662" ref="index"/>
     <file name="hero-3-u256-fr.jpg" crc="56878566" ref="index"/>
     <file name="hero-3-u256-fr2.jpg" crc="7630155" ref="index"/>
     <file name="hero-3-u256-fr3.jpg" crc="377587611" ref="index"/>
     <file name="home-images-01.svg" crc="393452271" seo="true" ref="index"/>
-    <file name="home-images-01_poster_.png" crc="457862631" ref="index"/>
-    <file name="home-images-02.svg" crc="272167018" seo="true" ref="index"/>
-    <file name="home-images-02_poster_.png" crc="3900879786" ref="index"/>
+    <file name="home-images-01_poster_.png" crc="3848627791" ref="index"/>
+    <file name="home-images-02.svg" crc="4105582551" seo="true" ref="index"/>
+    <file name="home-images-02_poster_.png" crc="399852224" ref="index"/>
     <file name="home-images-03.svg" crc="3938553418" seo="true" ref="index"/>
-    <file name="home-images-03_poster_.png" crc="244597742" ref="index"/>
+    <file name="home-images-03_poster_.png" crc="388465954" ref="index"/>
     <file name="paycrave-persona.svg" crc="4271848270" seo="true" ref="paycrave"/>
     <file name="paycrave-persona_poster_.png" crc="404362202" ref="paycrave"/>
     <file name="paycrave-sketches.jpg" crc="487506688" seo="true" ref="paycrave"/>
@@ -196,10 +207,65 @@
     <file name="about-toys-u383936-fr2.jpg" crc="4159175698" ref="about"/>
     <file name="about-title-u209499-fr.jpg" crc="294966337" ref="about"/>
     <file name="about-title-u209499-fr2.jpg" crc="167697961" ref="about"/>
+    <file name="home-images-04.svg" crc="3838315958" seo="true" ref="index"/>
+    <file name="home-images-04_poster_.png" crc="3838556483" ref="index"/>
+    <file name="goodmarket-title.jpg" crc="4191178848" ref="good-market"/>
+    <file name="goodmarket-1.jpg" crc="453056056" seo="true" ref="good-market"/>
+    <file name="goodmarket-goals.svg" crc="103172764" seo="true" ref="good-market"/>
+    <file name="goodmarket-goals_poster_.png" crc="72607382" ref="good-market"/>
+    <file name="goodmarket-usability.jpg" crc="4167185163" seo="true" ref="good-market"/>
+    <file name="goodmarket-competitive-analysis-01.svg" crc="92871811" seo="true" ref="good-market"/>
+    <file name="goodmarket-competitive-analysis-01_poster_.png" crc="4169121648" ref="good-market"/>
+    <file name="goodmarket-competitive-analysis-02.svg" crc="3826640160" seo="true" ref="good-market"/>
+    <file name="goodmarket-competitive-analysis-02_poster_.png" crc="3975635583" ref="good-market"/>
+    <file name="goodmarket-competitive-analysis-03.svg" crc="3924655420" seo="true" ref="good-market"/>
+    <file name="goodmarket-competitive-analysis-03_poster_.png" crc="4114745135" ref="good-market"/>
+    <file name="arrow-left.svg" crc="4043420509" ref="good-market"/>
+    <file name="arrow-left_poster_u414696.png" crc="3816114124" ref="good-market"/>
+    <file name="arrow-right.svg" crc="437508112" ref="good-market"/>
+    <file name="arrow-right_poster_u414688.png" crc="278047287" ref="good-market"/>
+    <file name="loading.gif" crc="3815509949" ref="good-market"/>
+    <file name="goodmarket-card-sort-1330x184.jpg" crc="436075239" seo="true" ref="good-market"/>
+    <file name="goodmarket-card-sort-2330x184.jpg" crc="471864749" seo="true" ref="good-market"/>
+    <file name="goodmarket-card-sort-3330x184.jpg" crc="30914225" seo="true" ref="good-market"/>
+    <file name="goodmarket-sitemap.svg" crc="3939778006" seo="true" ref="good-market"/>
+    <file name="goodmarket-sitemap_poster_.png" crc="306877493" ref="good-market"/>
+    <file name="goodmarket-user-flow.svg" crc="3767867940" seo="true" ref="good-market"/>
+    <file name="goodmarket-user flow_poster_.png" crc="3934010127" ref="good-market"/>
+    <file name="goodmarket-wireframes.jpg" crc="3955578855" seo="true" ref="good-market"/>
+    <file name="goodmarket-sw.jpg" crc="448325722" seo="true" ref="good-market"/>
+    <file name="goodmarket-card-sort-1287x160.jpg" crc="178125011" seo="true" ref="good-market"/>
+    <file name="goodmarket-card-sort-2287x160.jpg" crc="3784876584" seo="true" ref="good-market"/>
+    <file name="goodmarket-card-sort-3287x160.jpg" crc="460834367" seo="true" ref="good-market"/>
+    <file name="goodmarket-title-u411392-fr.jpg" crc="4123044680" ref="good-market"/>
+    <file name="goodmarket-1420x315.jpg" crc="3851535332" seo="true" ref="good-market"/>
+    <file name="goodmarket-usability688x879.jpg" crc="185733702" seo="true" ref="good-market"/>
+    <file name="goodmarket-card-sort-1219x122.jpg" crc="4069165862" seo="true" ref="good-market"/>
+    <file name="goodmarket-card-sort-2219x122.jpg" crc="488059295" seo="true" ref="good-market"/>
+    <file name="goodmarket-card-sort-3219x122.jpg" crc="4208786647" seo="true" ref="good-market"/>
+    <file name="goodmarket-wireframes688x395.jpg" crc="14889697" seo="true" ref="good-market"/>
+    <file name="goodmarket-sw688x328.jpg" crc="4187336914" seo="true" ref="good-market"/>
+    <file name="goodmarket-title-u411392-fr2.jpg" crc="3822285792" ref="good-market"/>
+    <file name="goodmarket-1-crop-u411482.jpg" crc="115599837" ref="good-market"/>
+    <file name="goodmarket-usability540x690.jpg" crc="3905111409" seo="true" ref="good-market"/>
+    <file name="goodmarket-card-sort-1.jpg" crc="447984337" seo="true" ref="good-market"/>
+    <file name="goodmarket-card-sort-2.jpg" crc="314048212" seo="true" ref="good-market"/>
+    <file name="goodmarket-card-sort-3.jpg" crc="3795299537" seo="true" ref="good-market"/>
+    <file name="goodmarket-wireframes540x311.jpg" crc="3977682704" seo="true" ref="good-market"/>
+    <file name="goodmarket-sw540x257.jpg" crc="3886865168" seo="true" ref="good-market"/>
+    <file name="goodmarket-title-u411392-fr3.jpg" crc="393622008" ref="good-market"/>
+    <file name="goodmarket-1370x278.jpg" crc="419707034" seo="true" ref="good-market"/>
+    <file name="goodmarket-usability370x473.jpg" crc="331210705" seo="true" ref="good-market"/>
+    <file name="goodmarket-card-sort-1371x206.jpg" crc="224446618" seo="true" ref="good-market"/>
+    <file name="goodmarket-card-sort-2371x206.jpg" crc="151264732" seo="true" ref="good-market"/>
+    <file name="goodmarket-card-sort-3371x206.jpg" crc="4293859018" seo="true" ref="good-market"/>
+    <file name="goodmarket-wireframes370x213.jpg" crc="4076836326" seo="true" ref="good-market"/>
+    <file name="goodmarket-sw370x176.jpg" crc="4259773379" seo="true" ref="good-market"/>
   </folder>
-  <file name="index.html" crc="318728144" seo="true" mt="1488323369339" redirect="true"/>
-  <file name="paycrave.html" crc="313278857" seo="true" mt="1488323369339" redirect="true"/>
-  <file name="myanmar.html" crc="3980644159" seo="true" mt="1488323369339" redirect="true"/>
-  <file name="about.html" crc="4103312148" seo="true" mt="1488323384352" redirect="true"/>
-  <file name="visual.html" crc="3771539676" seo="true" mt="1488323369339" redirect="true"/>
+  <file name="index.html" crc="346335791" seo="true" mt="1488865256167" redirect="true"/>
+  <file name="paycrave.html" crc="222389251" seo="true" mt="1488790085330" redirect="true"/>
+  <file name="myanmar.html" crc="20614421" seo="true" mt="1488790085331" redirect="true"/>
+  <file name="about.html" crc="476875519" seo="true" mt="1488837014718" redirect="true"/>
+  <file name="visual.html" crc="409772351" seo="true" mt="1488790085332" redirect="true"/>
+  <file name="good-market.html" crc="417364817" seo="true" mt="1488865591782" redirect="true"/>
 </manifest>
