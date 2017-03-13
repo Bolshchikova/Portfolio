@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="bolshchikova.com" resolutions="1x" timestamp="1489446313217">
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="bolshchikova.com" resolutions="1x" timestamp="1489448336089">
   <folder name="css">
     <file name="site_global.css" crc="4100049448"/>
     <file name="master_b-master.css" crc="308588876" ref="paycrave:myanmar:index:about:visual:good-market"/>
@@ -22,7 +22,7 @@
     <file name="iefonts_good-market.css" crc="3973080062" ref="good-market"/>
   </folder>
   <folder name="assets">
-    <file name="olga-bolshchikova-resume.pdf" crc="311961184" seo="true" mt="1489446011000"/>
+    <file name="olga-bolshchikova-resume.pdf" crc="3873689579" seo="true" mt="1489448301000"/>
     <file name="goodmarket-wireframes.pdf" crc="41135824" seo="true" mt="1488839682000"/>
     <file name="goodmarket-sitemap-with-wireframes.pdf" crc="4069057013" seo="true" mt="1488847218000"/>
     <file name="goodmarket-usability-analysis.png" crc="4129801315" seo="true" mt="1488846534000"/>
