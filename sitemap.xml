@@ -32,7 +32,7 @@
   </url>
   <url>
     <loc>http://bolshchikova.com/about.html</loc>
-    <lastmod>2017-03-13</lastmod>
+    <lastmod>2017-04-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -823,12 +823,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://bolshchikova.com/images/paycrave-1286x197.jpg</loc>
-    <lastmod>2017-04-07</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://bolshchikova.com/images/paycrave-1216x149.jpg</loc>
     <lastmod>2017-04-07</lastmod>
     <changefreq>weekly</changefreq>
@@ -1070,6 +1064,12 @@
   </url>
   <url>
     <loc>http://bolshchikova.com/images/collage-1370x394.jpg</loc>
+    <lastmod>2017-04-07</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://bolshchikova.com/images/paycrave-1288x198.jpg</loc>
     <lastmod>2017-04-07</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
