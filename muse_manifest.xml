@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="bolshchikova.com" resolutions="1x" timestamp="1491815630215">
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="bolshchikova.com" resolutions="1x" timestamp="1491820881484">
   <folder name="css">
     <file name="site_global.css" crc="428068419"/>
     <file name="master_b-master.css" crc="403971388" ref="paycrave:myanmar:index:about:good-market:ui:graphic:layout"/>
@@ -12,19 +12,19 @@
     <file name="index.css" crc="207317940" ref="index"/>
     <file name="nomq_index.css" crc="4041814048" ref="index"/>
     <file name="iefonts_index.css" crc="106507676" ref="index"/>
-    <file name="about.css" crc="61663052" ref="about"/>
-    <file name="nomq_about.css" crc="177938693" ref="about"/>
+    <file name="about.css" crc="133701260" ref="about"/>
+    <file name="nomq_about.css" crc="247999761" ref="about"/>
     <file name="good-market.css" crc="369315417" ref="good-market"/>
     <file name="nomq_good-market.css" crc="3831456901" ref="good-market"/>
     <file name="iefonts_good-market.css" crc="106507676" ref="good-market"/>
     <file name="ui.css" crc="5600553" ref="ui"/>
     <file name="nomq_ui.css" crc="151969242" ref="ui"/>
     <file name="iefonts_ui.css" crc="106507676" ref="ui"/>
-    <file name="graphic.css" crc="336451645" ref="graphic"/>
-    <file name="nomq_graphic.css" crc="4181362093" ref="graphic"/>
+    <file name="graphic.css" crc="264975205" ref="graphic"/>
+    <file name="nomq_graphic.css" crc="330578460" ref="graphic"/>
     <file name="iefonts_graphic.css" crc="106507676" ref="graphic"/>
-    <file name="layout.css" crc="281702001" ref="layout"/>
-    <file name="nomq_layout.css" crc="4006852538" ref="layout"/>
+    <file name="layout.css" crc="456216251" ref="layout"/>
+    <file name="nomq_layout.css" crc="4022702842" ref="layout"/>
     <file name="iefonts_layout.css" crc="106507676" ref="layout"/>
   </folder>
   <folder name="assets">
@@ -323,12 +323,12 @@
     <file name="landing-1402x976.jpg" crc="3896960946" seo="true" ref="ui"/>
     <file name="landing-1275x668.jpg" crc="131219914" seo="true" ref="ui"/>
   </folder>
-  <file name="index.html" crc="4115225860" seo="true" mt="1491815603139" redirect="true"/>
-  <file name="paycrave.html" crc="337355344" seo="true" mt="1491809672580" redirect="true"/>
-  <file name="myanmar.html" crc="4290300959" seo="true" mt="1491809993934" redirect="true"/>
-  <file name="about.html" crc="3854159692" seo="true" mt="1491808783988" redirect="true"/>
-  <file name="good-market.html" crc="51340275" seo="true" mt="1491810257729" redirect="true"/>
-  <file name="layout.html" crc="354217604" seo="true" mt="1491810926402" redirect="true"/>
-  <file name="ui.html" crc="452489985" seo="true" mt="1491815311170" redirect="true"/>
-  <file name="graphic.html" crc="454582739" seo="true" mt="1491810369475" redirect="true"/>
+  <file name="index.html" crc="4115225860" seo="true" mt="1491820773571" redirect="true"/>
+  <file name="paycrave.html" crc="337355344" seo="true" mt="1491820773571" redirect="true"/>
+  <file name="myanmar.html" crc="4290300959" seo="true" mt="1491820773571" redirect="true"/>
+  <file name="about.html" crc="484015603" seo="true" mt="1491820773571" redirect="true"/>
+  <file name="good-market.html" crc="51340275" seo="true" mt="1491820773571" redirect="true"/>
+  <file name="layout.html" crc="4162858580" seo="true" mt="1491820773571" redirect="true"/>
+  <file name="ui.html" crc="452489985" seo="true" mt="1491820773571" redirect="true"/>
+  <file name="graphic.html" crc="362745265" seo="true" mt="1491820792490" redirect="true"/>
 </manifest>
