@@ -307,12 +307,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://bolshchikova.com/images/myanmar-mockup-red.jpg</loc>
-    <lastmod>2017-04-10</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://bolshchikova.com/images/myanmar-test-2.jpg</loc>
     <lastmod>2017-04-10</lastmod>
     <changefreq>weekly</changefreq>
@@ -499,12 +493,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://bolshchikova.com/images/myanmar-mockup-red324x1073.jpg</loc>
-    <lastmod>2017-04-10</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://bolshchikova.com/images/myanmar-test-2470x271.jpg</loc>
     <lastmod>2017-04-10</lastmod>
     <changefreq>weekly</changefreq>
@@ -512,12 +500,6 @@
   </url>
   <url>
     <loc>http://bolshchikova.com/images/myanmar-mockup-1255x976.jpg</loc>
-    <lastmod>2017-04-10</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://bolshchikova.com/images/myanmar-mockup-red255x846.jpg</loc>
     <lastmod>2017-04-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -541,13 +523,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://bolshchikova.com/assets/goodmarket-card-sort-3.jpg</loc>
-    <lastmod>2017-03-06</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://bolshchikova.com/images/paycrave-1.jpg</loc>
+    <loc>http://bolshchikova.com/images/myanmar-test-2370x213.jpg</loc>
     <lastmod>2017-04-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -559,13 +535,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://bolshchikova.com/images/collage-2.jpg</loc>
-    <lastmod>2017-04-10</lastmod>
+    <loc>http://bolshchikova.com/assets/goodmarket-card-sort-3.jpg</loc>
+    <lastmod>2017-03-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://bolshchikova.com/images/ayla-e-book-1686x308.jpg</loc>
+    <loc>http://bolshchikova.com/images/paycrave-1.jpg</loc>
     <lastmod>2017-04-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -770,12 +746,6 @@
   </url>
   <url>
     <loc>http://bolshchikova.com/images/goodmarket-1370x278.jpg</loc>
-    <lastmod>2017-04-10</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://bolshchikova.com/images/goodmarket-usability370x473.jpg</loc>
     <lastmod>2017-04-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -1045,6 +1015,24 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://bolshchikova.com/images/myanmar-mockup-red323x1102.jpg</loc>
+    <lastmod>2017-04-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://bolshchikova.com/images/myanmar-mockup-red254x867.jpg</loc>
+    <lastmod>2017-04-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://bolshchikova.com/images/goodmarket-usability369x471.jpg</loc>
+    <lastmod>2017-04-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://bolshchikova.com/assets/goodmarket-wireframes.pdf</loc>
     <lastmod>2017-03-06</lastmod>
     <changefreq>weekly</changefreq>
@@ -1081,13 +1069,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://bolshchikova.com/images/myanmar-mockup-red370x1228.jpg</loc>
+    <loc>http://bolshchikova.com/images/collage-2.jpg</loc>
     <lastmod>2017-04-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://bolshchikova.com/images/myanmar-test-2370x213.jpg</loc>
+    <loc>http://bolshchikova.com/images/ayla-e-book-1686x308.jpg</loc>
     <lastmod>2017-04-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
