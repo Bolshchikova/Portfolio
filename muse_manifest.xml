@@ -1,15 +1,15 @@
-<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="bolshchikova.com" resolutions="1x" timestamp="1492661502545">
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="bolshchikova.com" resolutions="1x" timestamp="1494480372523">
   <folder name="css">
     <file name="site_global.css" crc="428068419"/>
-    <file name="master_b-master.css" crc="4134551192" ref="paycrave:myanmar:index:about:good-market:ui:graphic:layout"/>
-    <file name="nomq_preview_master_b-master.css" crc="17972346" ref="paycrave:myanmar:index:about:good-market:ui:graphic:layout"/>
+    <file name="master_b-master.css" crc="4167420588" ref="paycrave:myanmar:index:about:good-market:ui:graphic:layout"/>
+    <file name="nomq_preview_master_b-master.css" crc="3996550040" ref="paycrave:myanmar:index:about:good-market:ui:graphic:layout"/>
     <file name="paycrave.css" crc="4145569467" ref="paycrave"/>
     <file name="nomq_paycrave.css" crc="4152868443" ref="paycrave"/>
     <file name="iefonts_paycrave.css" crc="106507676" ref="paycrave"/>
     <file name="myanmar.css" crc="362119511" ref="myanmar"/>
     <file name="nomq_myanmar.css" crc="178554839" ref="myanmar"/>
     <file name="iefonts_myanmar.css" crc="106507676" ref="myanmar"/>
-    <file name="index.css" crc="4199098127" ref="index"/>
+    <file name="index.css" crc="517865101" ref="index"/>
     <file name="nomq_index.css" crc="140662366" ref="index"/>
     <file name="iefonts_index.css" crc="106507676" ref="index"/>
     <file name="about.css" crc="4170331085" ref="about"/>
@@ -324,7 +324,7 @@
     <file name="myanmar-mockup-red-crop-u3752533.jpg" crc="424635598" ref="myanmar"/>
     <file name="goodmarket-usability369x471.jpg" crc="21188913" seo="true" ref="good-market"/>
   </folder>
-  <file name="index.html" crc="5807528" seo="true" mt="1492550015533" redirect="true"/>
+  <file name="index.html" crc="3777184152" seo="true" mt="1494480130440" redirect="true"/>
   <file name="paycrave.html" crc="117332024" seo="true" mt="1492550015533" redirect="true"/>
   <file name="myanmar.html" crc="465852228" seo="true" mt="1492550015533" redirect="true"/>
   <file name="about.html" crc="90368654" seo="true" mt="1492550317859" redirect="true"/>
