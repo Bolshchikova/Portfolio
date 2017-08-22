@@ -2,31 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://bolshchikova.com/index.html</loc>
-    <lastmod>2017-08-19</lastmod>
+    <lastmod>2017-08-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://bolshchikova.com/zeit.html</loc>
+    <lastmod>2017-08-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://bolshchikova.com/graphic.html</loc>
-    <lastmod>2017-08-19</lastmod>
+    <lastmod>2017-08-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://bolshchikova.com/good-market.html</loc>
-    <lastmod>2017-08-19</lastmod>
+    <lastmod>2017-08-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://bolshchikova.com/about.html</loc>
-    <lastmod>2017-08-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://bolshchikova.com/assets/goodmarket-card-sort-1.jpg</loc>
-    <lastmod>2017-03-06</lastmod>
+    <lastmod>2017-08-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -44,199 +44,301 @@
   </url>
   <url>
     <loc>http://bolshchikova.com/images/ayla-e-book-1.jpg</loc>
-    <lastmod>2017-08-19</lastmod>
+    <lastmod>2017-08-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://bolshchikova.com/images/ayla-e-book-1540x243.jpg</loc>
-    <lastmod>2017-08-19</lastmod>
+    <lastmod>2017-08-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://bolshchikova.com/images/collage-2.jpg</loc>
-    <lastmod>2017-08-19</lastmod>
+    <lastmod>2017-08-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://bolshchikova.com/images/ayla-e-book-1686x308.jpg</loc>
-    <lastmod>2017-08-19</lastmod>
+    <lastmod>2017-08-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://bolshchikova.com/images/ayla-e-book-1370x167.jpg</loc>
-    <lastmod>2017-08-19</lastmod>
+    <lastmod>2017-08-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://bolshchikova.com/images/goodmarket-1.jpg</loc>
-    <lastmod>2017-08-19</lastmod>
+    <lastmod>2017-08-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://bolshchikova.com/images/goodmarket-goals.svg</loc>
-    <lastmod>2017-08-19</lastmod>
+    <lastmod>2017-08-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://bolshchikova.com/images/goodmarket-usability.jpg</loc>
-    <lastmod>2017-08-19</lastmod>
+    <lastmod>2017-08-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://bolshchikova.com/images/goodmarket-competitive-analysis-01.svg</loc>
-    <lastmod>2017-08-19</lastmod>
+    <lastmod>2017-08-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://bolshchikova.com/images/goodmarket-competitive-analysis-02.svg</loc>
-    <lastmod>2017-08-19</lastmod>
+    <lastmod>2017-08-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://bolshchikova.com/images/goodmarket-competitive-analysis-03.svg</loc>
-    <lastmod>2017-08-19</lastmod>
+    <lastmod>2017-08-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://bolshchikova.com/images/goodmarket-card-sort-1330x184.jpg</loc>
-    <lastmod>2017-08-19</lastmod>
+    <lastmod>2017-08-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://bolshchikova.com/images/goodmarket-card-sort-2330x184.jpg</loc>
-    <lastmod>2017-08-19</lastmod>
+    <lastmod>2017-08-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://bolshchikova.com/images/goodmarket-card-sort-3330x184.jpg</loc>
-    <lastmod>2017-08-19</lastmod>
+    <lastmod>2017-08-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://bolshchikova.com/images/goodmarket-sitemap.svg</loc>
-    <lastmod>2017-08-19</lastmod>
+    <lastmod>2017-08-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://bolshchikova.com/images/goodmarket-user-flow.svg</loc>
-    <lastmod>2017-08-19</lastmod>
+    <lastmod>2017-08-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://bolshchikova.com/images/goodmarket-wireframes.jpg</loc>
-    <lastmod>2017-08-19</lastmod>
+    <lastmod>2017-08-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://bolshchikova.com/images/goodmarket-sw.jpg</loc>
-    <lastmod>2017-08-19</lastmod>
+    <lastmod>2017-08-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://bolshchikova.com/images/goodmarket-card-sort-1287x160.jpg</loc>
-    <lastmod>2017-08-19</lastmod>
+    <lastmod>2017-08-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://bolshchikova.com/images/goodmarket-card-sort-2287x160.jpg</loc>
-    <lastmod>2017-08-19</lastmod>
+    <lastmod>2017-08-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://bolshchikova.com/images/goodmarket-card-sort-3287x160.jpg</loc>
-    <lastmod>2017-08-19</lastmod>
+    <lastmod>2017-08-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://bolshchikova.com/images/goodmarket-1420x315.jpg</loc>
-    <lastmod>2017-08-19</lastmod>
+    <lastmod>2017-08-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://bolshchikova.com/images/goodmarket-usability688x879.jpg</loc>
-    <lastmod>2017-08-19</lastmod>
+    <lastmod>2017-08-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://bolshchikova.com/images/goodmarket-card-sort-1219x122.jpg</loc>
-    <lastmod>2017-08-19</lastmod>
+    <lastmod>2017-08-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://bolshchikova.com/images/goodmarket-card-sort-2219x122.jpg</loc>
-    <lastmod>2017-08-19</lastmod>
+    <lastmod>2017-08-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://bolshchikova.com/images/goodmarket-card-sort-3219x122.jpg</loc>
-    <lastmod>2017-08-19</lastmod>
+    <lastmod>2017-08-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://bolshchikova.com/images/goodmarket-wireframes688x395.jpg</loc>
-    <lastmod>2017-08-19</lastmod>
+    <lastmod>2017-08-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://bolshchikova.com/images/goodmarket-sw688x328.jpg</loc>
-    <lastmod>2017-08-19</lastmod>
+    <lastmod>2017-08-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://bolshchikova.com/images/goodmarket-usability540x690.jpg</loc>
-    <lastmod>2017-08-19</lastmod>
+    <lastmod>2017-08-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://bolshchikova.com/images/goodmarket-card-sort-1.jpg</loc>
-    <lastmod>2017-08-19</lastmod>
+    <lastmod>2017-08-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://bolshchikova.com/images/goodmarket-card-sort-2.jpg</loc>
-    <lastmod>2017-08-19</lastmod>
+    <lastmod>2017-08-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://bolshchikova.com/images/goodmarket-card-sort-3.jpg</loc>
-    <lastmod>2017-08-19</lastmod>
+    <lastmod>2017-08-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://bolshchikova.com/assets/goodmarket-sitemap-with-wireframes.pdf</loc>
-    <lastmod>2017-03-06</lastmod>
+    <loc>http://bolshchikova.com/images/goodmarket-wireframes540x311.jpg</loc>
+    <lastmod>2017-08-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://bolshchikova.com/images/goodmarket-sw540x257.jpg</loc>
+    <lastmod>2017-08-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://bolshchikova.com/images/goodmarket-1370x278.jpg</loc>
+    <lastmod>2017-08-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://bolshchikova.com/images/goodmarket-card-sort-1371x206.jpg</loc>
+    <lastmod>2017-08-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://bolshchikova.com/images/goodmarket-card-sort-2371x206.jpg</loc>
+    <lastmod>2017-08-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://bolshchikova.com/images/goodmarket-card-sort-3371x206.jpg</loc>
+    <lastmod>2017-08-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://bolshchikova.com/images/goodmarket-wireframes370x213.jpg</loc>
+    <lastmod>2017-08-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://bolshchikova.com/images/goodmarket-sw370x176.jpg</loc>
+    <lastmod>2017-08-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://bolshchikova.com/images/flyer-1.jpg</loc>
+    <lastmod>2017-08-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://bolshchikova.com/images/flyer-1687x418.jpg</loc>
+    <lastmod>2017-08-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://bolshchikova.com/images/flyer-1540x328.jpg</loc>
+    <lastmod>2017-08-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://bolshchikova.com/images/flyer-1369x224.jpg</loc>
+    <lastmod>2017-08-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://bolshchikova.com/images/posters1.jpg</loc>
+    <lastmod>2017-08-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://bolshchikova.com/images/collage-1.jpg</loc>
+    <lastmod>2017-08-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://bolshchikova.com/images/posters1689x735.jpg</loc>
+    <lastmod>2017-08-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://bolshchikova.com/images/collage-2272x409.jpg</loc>
+    <lastmod>2017-08-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://bolshchikova.com/images/collage-1383x409.jpg</loc>
+    <lastmod>2017-08-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://bolshchikova.com/images/posters1540x576.jpg</loc>
+    <lastmod>2017-08-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -247,217 +349,331 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://bolshchikova.com/images/goodmarket-1370x278.jpg</loc>
-    <lastmod>2017-08-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://bolshchikova.com/images/goodmarket-card-sort-1371x206.jpg</loc>
-    <lastmod>2017-08-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://bolshchikova.com/images/goodmarket-card-sort-2371x206.jpg</loc>
-    <lastmod>2017-08-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://bolshchikova.com/images/goodmarket-card-sort-3371x206.jpg</loc>
-    <lastmod>2017-08-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://bolshchikova.com/images/goodmarket-wireframes370x213.jpg</loc>
-    <lastmod>2017-08-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://bolshchikova.com/images/goodmarket-sw370x176.jpg</loc>
-    <lastmod>2017-08-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://bolshchikova.com/images/flyer-1.jpg</loc>
-    <lastmod>2017-08-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://bolshchikova.com/images/flyer-1687x418.jpg</loc>
-    <lastmod>2017-08-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://bolshchikova.com/images/flyer-1540x328.jpg</loc>
-    <lastmod>2017-08-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://bolshchikova.com/images/flyer-1369x224.jpg</loc>
-    <lastmod>2017-08-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://bolshchikova.com/images/posters1.jpg</loc>
-    <lastmod>2017-08-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://bolshchikova.com/images/collage-1.jpg</loc>
-    <lastmod>2017-08-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://bolshchikova.com/images/posters1689x735.jpg</loc>
-    <lastmod>2017-08-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://bolshchikova.com/images/collage-2272x409.jpg</loc>
-    <lastmod>2017-08-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://bolshchikova.com/images/collage-1383x409.jpg</loc>
-    <lastmod>2017-08-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://bolshchikova.com/images/posters1540x576.jpg</loc>
-    <lastmod>2017-08-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://bolshchikova.com/images/collage-2214x322.jpg</loc>
-    <lastmod>2017-08-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://bolshchikova.com/images/collage-1301x322.jpg</loc>
-    <lastmod>2017-08-19</lastmod>
+    <loc>http://bolshchikova.com/assets/goodmarket-card-sort-1.jpg</loc>
+    <lastmod>2017-03-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://bolshchikova.com/images/posters1370x395.jpg</loc>
-    <lastmod>2017-08-19</lastmod>
+    <lastmod>2017-08-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://bolshchikova.com/images/collage-1370x394.jpg</loc>
-    <lastmod>2017-08-19</lastmod>
+    <lastmod>2017-08-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://bolshchikova.com/images/goodmarket-usability369x471.jpg</loc>
-    <lastmod>2017-08-19</lastmod>
+    <lastmod>2017-08-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://bolshchikova.com/images/log-olga.svg</loc>
-    <lastmod>2017-08-19</lastmod>
+    <lastmod>2017-08-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://bolshchikova.com/images/homepage-presentation.png</loc>
-    <lastmod>2017-08-19</lastmod>
+    <lastmod>2017-08-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://bolshchikova.com/images/goodmarket-1.png</loc>
-    <lastmod>2017-08-19</lastmod>
+    <lastmod>2017-08-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://bolshchikova.com/images/ayla-e-books.png</loc>
-    <lastmod>2017-08-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://bolshchikova.com/images/goodmarket-1214x342.png</loc>
-    <lastmod>2017-08-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://bolshchikova.com/images/homepage-presentation416x320.png</loc>
-    <lastmod>2017-08-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://bolshchikova.com/images/goodmarket-1161x256.png</loc>
-    <lastmod>2017-08-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://bolshchikova.com/images/ayla-e-books347x240.png</loc>
-    <lastmod>2017-08-19</lastmod>
+    <lastmod>2017-08-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://bolshchikova.com/images/homepage-presentation336x258.png</loc>
-    <lastmod>2017-08-19</lastmod>
+    <lastmod>2017-08-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://bolshchikova.com/images/goodmarket-1130x207.png</loc>
-    <lastmod>2017-08-19</lastmod>
+    <lastmod>2017-08-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://bolshchikova.com/images/ayla-e-books280x194.png</loc>
-    <lastmod>2017-08-19</lastmod>
+    <lastmod>2017-08-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://bolshchikova.com/images/homepage-presentation231x177.png</loc>
-    <lastmod>2017-08-19</lastmod>
+    <lastmod>2017-08-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://bolshchikova.com/images/goodmarket-189x142.png</loc>
-    <lastmod>2017-08-19</lastmod>
+    <lastmod>2017-08-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://bolshchikova.com/images/ayla-e-books192x133.png</loc>
-    <lastmod>2017-08-19</lastmod>
+    <lastmod>2017-08-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://bolshchikova.com/images/homepage-presentation433x333.png</loc>
+    <lastmod>2017-08-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://bolshchikova.com/images/goodmarket-1181x288.png</loc>
+    <lastmod>2017-08-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://bolshchikova.com/images/ayla-e-books355x246.png</loc>
+    <lastmod>2017-08-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://bolshchikova.com/images/logo-zeit-05.svg</loc>
+    <lastmod>2017-08-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://bolshchikova.com/images/noun_928796_cc.svg</loc>
+    <lastmod>2017-08-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://bolshchikova.com/images/noun_967919_cc.svg</loc>
+    <lastmod>2017-08-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://bolshchikova.com/images/noun_118163_cc.svg</loc>
+    <lastmod>2017-08-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://bolshchikova.com/images/noun_118168_cc.svg</loc>
+    <lastmod>2017-08-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://bolshchikova.com/images/zeit-empathy-map.png</loc>
+    <lastmod>2017-08-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://bolshchikova.com/images/zeit-persona.png</loc>
+    <lastmod>2017-08-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://bolshchikova.com/images/zeit-sitemap.png</loc>
+    <lastmod>2017-08-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://bolshchikova.com/images/zeit-wireframes.jpg</loc>
+    <lastmod>2017-08-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://bolshchikova.com/images/zeit-hero.jpg</loc>
+    <lastmod>2017-08-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://bolshchikova.com/images/zeit-design-1.jpg</loc>
+    <lastmod>2017-08-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://bolshchikova.com/images/zeit-design-2.jpg</loc>
+    <lastmod>2017-08-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://bolshchikova.com/images/homepage-presentation437x336.png</loc>
+    <lastmod>2017-08-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://bolshchikova.com/images/zeit-empathy-map565x346.png</loc>
+    <lastmod>2017-08-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://bolshchikova.com/images/zeit-persona565x335.png</loc>
+    <lastmod>2017-08-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://bolshchikova.com/images/zeit-sitemap565x398.png</loc>
+    <lastmod>2017-08-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://bolshchikova.com/images/zeit-wireframes565x596.jpg</loc>
+    <lastmod>2017-08-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://bolshchikova.com/images/zeit-hero408x305.jpg</loc>
+    <lastmod>2017-08-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://bolshchikova.com/images/zeit-design-1565x763.jpg</loc>
+    <lastmod>2017-08-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://bolshchikova.com/images/zeit-design-2565x1060.jpg</loc>
+    <lastmod>2017-08-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://bolshchikova.com/images/homepage-presentation353x271.png</loc>
+    <lastmod>2017-08-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://bolshchikova.com/images/zeit-empathy-map456x279.png</loc>
+    <lastmod>2017-08-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://bolshchikova.com/images/zeit-persona456x270.png</loc>
+    <lastmod>2017-08-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://bolshchikova.com/images/zeit-sitemap456x321.png</loc>
+    <lastmod>2017-08-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://bolshchikova.com/images/zeit-wireframes456x481.jpg</loc>
+    <lastmod>2017-08-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://bolshchikova.com/images/zeit-hero330x246.jpg</loc>
+    <lastmod>2017-08-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://bolshchikova.com/images/zeit-design-1456x616.jpg</loc>
+    <lastmod>2017-08-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://bolshchikova.com/images/zeit-design-2456x856.jpg</loc>
+    <lastmod>2017-08-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://bolshchikova.com/images/homepage-presentation242x186.png</loc>
+    <lastmod>2017-08-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://bolshchikova.com/images/zeit-empathy-map313x191.png</loc>
+    <lastmod>2017-08-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://bolshchikova.com/images/zeit-persona313x186.png</loc>
+    <lastmod>2017-08-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://bolshchikova.com/images/zeit-sitemap313x220.png</loc>
+    <lastmod>2017-08-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://bolshchikova.com/images/zeit-wireframes313x330.jpg</loc>
+    <lastmod>2017-08-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://bolshchikova.com/images/zeit-hero226x169.jpg</loc>
+    <lastmod>2017-08-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://bolshchikova.com/images/zeit-design-1313x422.jpg</loc>
+    <lastmod>2017-08-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://bolshchikova.com/images/zeit-design-2313x587.jpg</loc>
+    <lastmod>2017-08-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://bolshchikova.com/assets/goodmarket-wireframes.pdf</loc>
+    <lastmod>2017-03-06</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://bolshchikova.com/assets/goodmarket-sitemap-with-wireframes.pdf</loc>
     <lastmod>2017-03-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -469,14 +685,14 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://bolshchikova.com/images/goodmarket-wireframes540x311.jpg</loc>
-    <lastmod>2017-08-19</lastmod>
+    <loc>http://bolshchikova.com/images/collage-2214x322.jpg</loc>
+    <lastmod>2017-08-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://bolshchikova.com/images/goodmarket-sw540x257.jpg</loc>
-    <lastmod>2017-08-19</lastmod>
+    <loc>http://bolshchikova.com/images/collage-1301x322.jpg</loc>
+    <lastmod>2017-08-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>

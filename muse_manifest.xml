@@ -1,20 +1,23 @@
-<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="bolshchikova.com" resolutions="1x" timestamp="1503182770412">
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="bolshchikova.com" resolutions="1x" timestamp="1503361293564">
   <folder name="css">
-    <file name="site_global.css" crc="3818883610"/>
-    <file name="master_b-master.css" crc="176816364" ref="index:about:good-market:graphic"/>
-    <file name="nomq_preview_master_b-master.css" crc="4169259878" ref="index:about:good-market:graphic"/>
-    <file name="index.css" crc="4149371454" ref="index"/>
-    <file name="nomq_index.css" crc="3853553612" ref="index"/>
-    <file name="iefonts_index.css" crc="108522288" ref="index"/>
-    <file name="about.css" crc="197730883" ref="about"/>
-    <file name="nomq_about.css" crc="4015541591" ref="about"/>
-    <file name="good-market.css" crc="3836213932" ref="good-market"/>
-    <file name="nomq_good-market.css" crc="4121993743" ref="good-market"/>
-    <file name="iefonts_good-market.css" crc="108522288" ref="good-market"/>
-    <file name="graphic.css" crc="489177763" ref="graphic"/>
-    <file name="nomq_graphic.css" crc="4009041072" ref="graphic"/>
-    <file name="iefonts_graphic.css" crc="108522288" ref="graphic"/>
-    <file name="iefonts_about.css" crc="108522288" ref="about"/>
+    <file name="site_global.css" crc="4055823724"/>
+    <file name="master_b-master.css" crc="4042114130" ref="index:about:good-market:graphic:zeit"/>
+    <file name="nomq_preview_master_b-master.css" crc="4169259878" ref="index:about:good-market:graphic:zeit"/>
+    <file name="index.css" crc="3920466280" ref="index"/>
+    <file name="nomq_index.css" crc="3874020861" ref="index"/>
+    <file name="iefonts_index.css" crc="499065934" ref="index"/>
+    <file name="about.css" crc="3859669670" ref="about"/>
+    <file name="nomq_about.css" crc="3904886908" ref="about"/>
+    <file name="good-market.css" crc="4154227295" ref="good-market"/>
+    <file name="nomq_good-market.css" crc="100495304" ref="good-market"/>
+    <file name="iefonts_good-market.css" crc="499065934" ref="good-market"/>
+    <file name="graphic.css" crc="69474745" ref="graphic"/>
+    <file name="nomq_graphic.css" crc="3966115607" ref="graphic"/>
+    <file name="iefonts_graphic.css" crc="499065934" ref="graphic"/>
+    <file name="iefonts_about.css" crc="499065934" ref="about"/>
+    <file name="zeit.css" crc="3892018144" ref="zeit"/>
+    <file name="nomq_zeit.css" crc="261466115" ref="zeit"/>
+    <file name="iefonts_zeit.css" crc="499065934" ref="zeit"/>
   </folder>
   <folder name="assets">
     <file name="olga-bolshchikova-resume.pdf" crc="270327932" seo="true" mt="1492661389000"/>
@@ -26,36 +29,36 @@
     <file name="goodmarket-card-sort-3.jpg" crc="3906677110" seo="true" mt="1488860874000"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about:good-market:graphic"/>
-    <file name="museutils.js" crc="163421577" ref="index:about:good-market:graphic"/>
-    <file name="whatinput.js" crc="86476730" ref="index:about:good-market:graphic"/>
-    <file name="museconfig.js" crc="168988563" ref="index:about:good-market:graphic"/>
-    <file name="jquery.musemenu.js" crc="146495465" ref="index:about:good-market:graphic"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="379354253" ref="index:about:good-market:graphic"/>
-    <file name="jquery.watch.js" crc="104486786" ref="index:about:good-market:graphic"/>
-    <file name="webpro.js" crc="3848665353" ref="index:about:good-market:graphic"/>
-    <file name="musewpdisclosure.js" crc="4275188064" ref="index:about:good-market:graphic"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index:about:good-market:graphic"/>
-    <file name="jquery.museresponsive.js" crc="4146931122" ref="index:about:good-market:graphic"/>
-    <file name="require.js" crc="244322403" ref="index:about:good-market:graphic"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about:good-market:graphic:zeit"/>
+    <file name="museutils.js" crc="163421577" ref="index:about:good-market:graphic:zeit"/>
+    <file name="whatinput.js" crc="86476730" ref="index:about:good-market:graphic:zeit"/>
+    <file name="museconfig.js" crc="168988563" ref="index:about:good-market:graphic:zeit"/>
+    <file name="jquery.musemenu.js" crc="146495465" ref="index:about:good-market:graphic:zeit"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="379354253" ref="index:about:good-market:graphic:zeit"/>
+    <file name="jquery.watch.js" crc="104486786" ref="index:about:good-market:graphic:zeit"/>
+    <file name="webpro.js" crc="3848665353" ref="index:about:good-market:graphic:zeit"/>
+    <file name="musewpdisclosure.js" crc="4275188064" ref="index:about:good-market:graphic:zeit"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:about:good-market:graphic:zeit"/>
+    <file name="jquery.museresponsive.js" crc="4146931122" ref="index:about:good-market:graphic:zeit"/>
+    <file name="require.js" crc="244322403" ref="index:about:good-market:graphic:zeit"/>
     <file name="musewpslideshow.js" crc="4041717617" ref="good-market"/>
     <file name="jquery.museoverlay.js" crc="36492500" ref="good-market"/>
     <file name="touchswipe.js" crc="404375771" ref="good-market"/>
   </folder>
   <folder name="images">
-    <file name="favicon.ico" crc="3991844578" ref="index"/>
-    <file name="blank.gif" crc="4208392903" ref="index:about:good-market:graphic"/>
-    <file name="mobile-menu.jpg" crc="3954470239" ref="index"/>
-    <file name="mobile-menu-550.jpg" crc="3782482782" ref="index"/>
+    <file name="favicon.ico" crc="488095949" ref="index:zeit"/>
+    <file name="blank.gif" crc="4208392903" ref="index:about:good-market:graphic:zeit"/>
+    <file name="mobile-menu.jpg" crc="3954470239" ref="index:zeit"/>
+    <file name="mobile-menu-550.jpg" crc="3782482782" ref="index:zeit"/>
     <file name="ayla-e-book-1.jpg" crc="4219238459" seo="true" ref="graphic"/>
     <file name="ayla-e-book-1540x243.jpg" crc="4179715059" seo="true" ref="graphic"/>
     <file name="about-toys.jpg" crc="4100217880" ref="about"/>
-    <file name="email-1.svg" crc="4100113511" ref="index"/>
-    <file name="email-1_poster_u322117.png" crc="3909256717" ref="index"/>
-    <file name="linkedin-1.svg" crc="4075482461" ref="index"/>
-    <file name="linkedin-1_poster_u322125.png" crc="81371700" ref="index"/>
-    <file name="facebook-1.svg" crc="532332797" ref="index"/>
-    <file name="facebook-1_poster_u322133.png" crc="3869347577" ref="index"/>
+    <file name="email-1.svg" crc="4100113511" ref="index:zeit"/>
+    <file name="email-1_poster_u322117.png" crc="3909256717" ref="index:zeit"/>
+    <file name="linkedin-1.svg" crc="4075482461" ref="index:zeit"/>
+    <file name="linkedin-1_poster_u322125.png" crc="81371700" ref="index:zeit"/>
+    <file name="facebook-1.svg" crc="532332797" ref="index:zeit"/>
+    <file name="facebook-1_poster_u322133.png" crc="3869347577" ref="index:zeit"/>
     <file name="collage-2.jpg" crc="4253925604" seo="true" ref="graphic"/>
     <file name="ayla-e-book-1686x308.jpg" crc="141491923" seo="true" ref="graphic"/>
     <file name="ayla-e-book-1370x167.jpg" crc="3843248329" seo="true" ref="graphic"/>
@@ -95,7 +98,7 @@
     <file name="goodmarket-card-sort-1287x160.jpg" crc="178125011" seo="true" ref="good-market"/>
     <file name="goodmarket-card-sort-2287x160.jpg" crc="3784876584" seo="true" ref="good-market"/>
     <file name="goodmarket-card-sort-3287x160.jpg" crc="460834367" seo="true" ref="good-market"/>
-    <file name="goodmarket-title-u411392-fr.jpg" crc="342496688" ref="good-market"/>
+    <file name="goodmarket-title-u411392-fr.jpg" crc="507784836" ref="good-market"/>
     <file name="goodmarket-1420x315.jpg" crc="134208176" seo="true" ref="good-market"/>
     <file name="goodmarket-usability688x879.jpg" crc="378527339" seo="true" ref="good-market"/>
     <file name="goodmarket-card-sort-1219x122.jpg" crc="4069165862" seo="true" ref="good-market"/>
@@ -103,7 +106,7 @@
     <file name="goodmarket-card-sort-3219x122.jpg" crc="4208786647" seo="true" ref="good-market"/>
     <file name="goodmarket-wireframes688x395.jpg" crc="14889697" seo="true" ref="good-market"/>
     <file name="goodmarket-sw688x328.jpg" crc="4187336914" seo="true" ref="good-market"/>
-    <file name="goodmarket-title-u411392-fr2.jpg" crc="4155374615" ref="good-market"/>
+    <file name="goodmarket-title-u411392-fr2.jpg" crc="124592034" ref="good-market"/>
     <file name="goodmarket-1-crop-u411482.jpg" crc="4033309055" ref="good-market"/>
     <file name="goodmarket-usability540x690.jpg" crc="171876628" seo="true" ref="good-market"/>
     <file name="goodmarket-card-sort-1.jpg" crc="447984337" seo="true" ref="good-market"/>
@@ -111,7 +114,6 @@
     <file name="goodmarket-card-sort-3.jpg" crc="3795299537" seo="true" ref="good-market"/>
     <file name="goodmarket-wireframes540x311.jpg" crc="3977682704" seo="true" ref="good-market"/>
     <file name="goodmarket-sw540x257.jpg" crc="3886865168" seo="true" ref="good-market"/>
-    <file name="goodmarket-title-u411392-fr3.jpg" crc="3808871325" ref="good-market"/>
     <file name="goodmarket-1370x278.jpg" crc="4194743363" seo="true" ref="good-market"/>
     <file name="goodmarket-card-sort-1371x206.jpg" crc="224446618" seo="true" ref="good-market"/>
     <file name="goodmarket-card-sort-2371x206.jpg" crc="151264732" seo="true" ref="good-market"/>
@@ -136,30 +138,98 @@
     <file name="posters1370x395.jpg" crc="303489838" seo="true" ref="graphic"/>
     <file name="collage-1370x394.jpg" crc="414545879" seo="true" ref="graphic"/>
     <file name="goodmarket-usability369x471.jpg" crc="21188913" seo="true" ref="good-market"/>
-    <file name="log-olga.svg" crc="4064784824" seo="true" ref="index:about:good-market:graphic"/>
-    <file name="log-olga_poster_.png" crc="367087102" ref="index"/>
-    <file name="homepage-presentation.png" crc="75482118" seo="true" ref="index"/>
-    <file name="homepage-presentation-crop-u509894.png" crc="3928692313" ref="index"/>
+    <file name="log-olga.svg" crc="4064784824" seo="true" ref="index:about:good-market:graphic:zeit"/>
+    <file name="log-olga_poster_.png" crc="367087102" ref="index:zeit"/>
+    <file name="homepage-presentation.png" crc="224287299" seo="true" ref="index:zeit"/>
+    <file name="homepage-presentation-crop-u509894.png" crc="399144559" ref="index"/>
     <file name="goodmarket-1.png" crc="3809509608" seo="true" ref="index"/>
     <file name="ayla-e-books.png" crc="269676350" seo="true" ref="index"/>
-    <file name="goodmarket-1214x342.png" crc="329088770" seo="true" ref="index"/>
-    <file name="homepage-presentation416x320.png" crc="426260393" seo="true" ref="index"/>
-    <file name="goodmarket-1161x256.png" crc="183271018" seo="true" ref="index"/>
-    <file name="ayla-e-books347x240.png" crc="256360940" seo="true" ref="index"/>
-    <file name="homepage-presentation336x258.png" crc="23030435" seo="true" ref="index"/>
+    <file name="homepage-presentation336x258.png" crc="4036293706" seo="true" ref="index"/>
     <file name="goodmarket-1130x207.png" crc="378321874" seo="true" ref="index"/>
     <file name="ayla-e-books280x194.png" crc="4230118271" seo="true" ref="index"/>
-    <file name="homepage-presentation231x177.png" crc="488388789" seo="true" ref="index"/>
+    <file name="homepage-presentation231x177.png" crc="3864922631" seo="true" ref="index"/>
     <file name="goodmarket-189x142.png" crc="337775560" seo="true" ref="index"/>
     <file name="ayla-e-books192x133.png" crc="189076997" seo="true" ref="index"/>
     <file name="ayla-book-crop-u510535.jpg" crc="372152066" ref="graphic"/>
-    <file name="ayla-book-crop-u5105352.jpg" crc="259828733" ref="graphic"/>
+    <file name="ayla-book-crop-u5105352.jpg" crc="161780619" ref="graphic"/>
     <file name="ayla-book-crop-u5105353.jpg" crc="38669899" ref="graphic"/>
     <file name="ayla-book-crop-u5105354.jpg" crc="3856989373" ref="graphic"/>
     <file name="ayla-book-crop-u5105355.jpg" crc="4060373313" ref="graphic"/>
+    <file name="homepage-presentation-crop-u5098942.png" crc="513280022" ref="index"/>
+    <file name="homepage-presentation433x333.png" crc="4203009774" seo="true" ref="index"/>
+    <file name="homepage-presentation-crop-u5098943.png" crc="4201133066" ref="index"/>
+    <file name="goodmarket-1181x288.png" crc="420040357" seo="true" ref="index"/>
+    <file name="ayla-e-books355x246.png" crc="3820139919" seo="true" ref="index"/>
+    <file name="logo-zeit-05.svg" crc="324827151" seo="true" ref="zeit"/>
+    <file name="logo zeit-05_poster_.png" crc="4127737867" ref="zeit"/>
+    <file name="noun_928796_cc.svg" crc="3952607698" seo="true" ref="zeit"/>
+    <file name="noun_928796_cc_poster_.png" crc="4114638221" ref="zeit"/>
+    <file name="noun_967919_cc.svg" crc="4291137646" seo="true" ref="zeit"/>
+    <file name="noun_967919_cc_poster_.png" crc="3767503260" ref="zeit"/>
+    <file name="noun_118163_cc.svg" crc="433753923" seo="true" ref="zeit"/>
+    <file name="noun_118163_cc_poster_.png" crc="4109898420" ref="zeit"/>
+    <file name="noun_118168_cc.svg" crc="50760417" seo="true" ref="zeit"/>
+    <file name="noun_118168_cc_poster_.png" crc="165791109" ref="zeit"/>
+    <file name="zeit-empathy-map.png" crc="4145561521" seo="true" ref="zeit"/>
+    <file name="zeit-persona.png" crc="4039240908" seo="true" ref="zeit"/>
+    <file name="zeit-sitemap.png" crc="6393975" seo="true" ref="zeit"/>
+    <file name="zeit-user-flow-crop-u526146.jpg" crc="136700261" ref="zeit"/>
+    <file name="zeit-wireframes.jpg" crc="400076049" seo="true" ref="zeit"/>
+    <file name="zeit-hero.jpg" crc="83475901" seo="true" ref="zeit"/>
+    <file name="zeit-ui-kit-crop-u526191.jpg" crc="445121694" ref="zeit"/>
+    <file name="u526446-4.png" crc="3996060204" ref="zeit"/>
+    <file name="u526460-4.png" crc="3996060204" ref="zeit"/>
+    <file name="zeit-affinity-map-crop-u526500.jpg" crc="407800667" ref="zeit"/>
+    <file name="zeit-design-1.jpg" crc="327064170" seo="true" ref="zeit"/>
+    <file name="zeit-design-2.jpg" crc="461469557" seo="true" ref="zeit"/>
+    <file name="zeit-user-flow-crop-u5261462.jpg" crc="4074628242" ref="zeit"/>
+    <file name="zeit-ui-kit-crop-u5261912.jpg" crc="173682586" ref="zeit"/>
+    <file name="u526446-42.png" crc="487825521" ref="zeit"/>
+    <file name="u526460-42.png" crc="487825521" ref="zeit"/>
+    <file name="zeit-affinity-map-crop-u5265002.jpg" crc="100813607" ref="zeit"/>
+    <file name="homepage-presentation437x336.png" crc="4218194133" seo="true" ref="zeit"/>
+    <file name="zeit-empathy-map565x346.png" crc="109112411" seo="true" ref="zeit"/>
+    <file name="zeit-persona565x335.png" crc="237611589" seo="true" ref="zeit"/>
+    <file name="zeit-sitemap565x398.png" crc="202733776" seo="true" ref="zeit"/>
+    <file name="zeit-user-flow-crop-u5261463.jpg" crc="3813021467" ref="zeit"/>
+    <file name="zeit-wireframes565x596.jpg" crc="518906022" seo="true" ref="zeit"/>
+    <file name="zeit-hero408x305.jpg" crc="3780351253" seo="true" ref="zeit"/>
+    <file name="zeit-ui-kit-crop-u5261913.jpg" crc="4056684541" ref="zeit"/>
+    <file name="u526446-43.png" crc="487825521" ref="zeit"/>
+    <file name="u526460-43.png" crc="487825521" ref="zeit"/>
+    <file name="zeit-affinity-map-crop-u5265003.jpg" crc="289673750" ref="zeit"/>
+    <file name="zeit-design-1565x763.jpg" crc="314503156" seo="true" ref="zeit"/>
+    <file name="zeit-design-2565x1060.jpg" crc="4099669197" seo="true" ref="zeit"/>
+    <file name="homepage-presentation353x271.png" crc="188045482" seo="true" ref="zeit"/>
+    <file name="zeit-empathy-map456x279.png" crc="3861531210" seo="true" ref="zeit"/>
+    <file name="zeit-persona456x270.png" crc="112493761" seo="true" ref="zeit"/>
+    <file name="zeit-sitemap456x321.png" crc="3904963797" seo="true" ref="zeit"/>
+    <file name="zeit-user-flow-crop-u5261464.jpg" crc="4206031465" ref="zeit"/>
+    <file name="zeit-wireframes456x481.jpg" crc="3849261990" seo="true" ref="zeit"/>
+    <file name="zeit-hero330x246.jpg" crc="3836863929" seo="true" ref="zeit"/>
+    <file name="zeit-ui-kit-crop-u5261914.jpg" crc="3934376943" ref="zeit"/>
+    <file name="u526446-44.png" crc="487825521" ref="zeit"/>
+    <file name="u526460-44.png" crc="487825521" ref="zeit"/>
+    <file name="zeit-affinity-map-crop-u5265004.jpg" crc="361565954" ref="zeit"/>
+    <file name="zeit-design-1456x616.jpg" crc="87427056" seo="true" ref="zeit"/>
+    <file name="zeit-design-2456x856.jpg" crc="472036593" seo="true" ref="zeit"/>
+    <file name="homepage-presentation242x186.png" crc="3852332374" seo="true" ref="zeit"/>
+    <file name="zeit-empathy-map313x191.png" crc="3918769561" seo="true" ref="zeit"/>
+    <file name="zeit-persona313x186.png" crc="374012949" seo="true" ref="zeit"/>
+    <file name="zeit-sitemap313x220.png" crc="4038125134" seo="true" ref="zeit"/>
+    <file name="zeit-user-flow-crop-u5261465.jpg" crc="4279448225" ref="zeit"/>
+    <file name="zeit-wireframes313x330.jpg" crc="291187474" seo="true" ref="zeit"/>
+    <file name="zeit-hero226x169.jpg" crc="3887606733" seo="true" ref="zeit"/>
+    <file name="zeit-ui-kit-crop-u5261915.jpg" crc="4163660271" ref="zeit"/>
+    <file name="u526446-45.png" crc="3955677169" ref="zeit"/>
+    <file name="zeit-affinity-map-crop-u5265005.jpg" crc="7069676" ref="zeit"/>
+    <file name="u526460-45.png" crc="3955677169" ref="zeit"/>
+    <file name="zeit-design-1313x422.jpg" crc="3932474951" seo="true" ref="zeit"/>
+    <file name="zeit-design-2313x587.jpg" crc="500971338" seo="true" ref="zeit"/>
   </folder>
-  <file name="index.html" crc="3935512106" seo="true" mt="1503182687236" redirect="true"/>
-  <file name="about.html" crc="214270677" seo="true" mt="1503182687236" redirect="true"/>
-  <file name="good-market.html" crc="273872022" seo="true" mt="1503182687236" redirect="true"/>
-  <file name="graphic.html" crc="420204673" seo="true" mt="1503182687236" redirect="true"/>
+  <file name="index.html" crc="3948987926" seo="true" mt="1503359852903" redirect="true"/>
+  <file name="about.html" crc="49848508" seo="true" mt="1503359145388" redirect="true"/>
+  <file name="good-market.html" crc="59505386" seo="true" mt="1503358102210" redirect="true"/>
+  <file name="graphic.html" crc="406254269" seo="true" mt="1503359078679" redirect="true"/>
+  <file name="zeit.html" crc="4018050979" seo="true" mt="1503361250586" redirect="true"/>
 </manifest>
