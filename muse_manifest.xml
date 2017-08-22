@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="bolshchikova.com" resolutions="1x" timestamp="1503361293564">
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="bolshchikova.com" resolutions="1x" timestamp="1503362389566">
   <folder name="css">
     <file name="site_global.css" crc="4055823724"/>
     <file name="master_b-master.css" crc="4042114130" ref="index:about:good-market:graphic:zeit"/>
@@ -15,8 +15,8 @@
     <file name="nomq_graphic.css" crc="3966115607" ref="graphic"/>
     <file name="iefonts_graphic.css" crc="499065934" ref="graphic"/>
     <file name="iefonts_about.css" crc="499065934" ref="about"/>
-    <file name="zeit.css" crc="3892018144" ref="zeit"/>
-    <file name="nomq_zeit.css" crc="261466115" ref="zeit"/>
+    <file name="zeit.css" crc="314601865" ref="zeit"/>
+    <file name="nomq_zeit.css" crc="3853770035" ref="zeit"/>
     <file name="iefonts_zeit.css" crc="499065934" ref="zeit"/>
   </folder>
   <folder name="assets">
@@ -231,5 +231,5 @@
   <file name="about.html" crc="49848508" seo="true" mt="1503359145388" redirect="true"/>
   <file name="good-market.html" crc="59505386" seo="true" mt="1503358102210" redirect="true"/>
   <file name="graphic.html" crc="406254269" seo="true" mt="1503359078679" redirect="true"/>
-  <file name="zeit.html" crc="4018050979" seo="true" mt="1503361250586" redirect="true"/>
+  <file name="zeit.html" crc="148265311" seo="true" mt="1503362351038" redirect="true"/>
 </manifest>
