@@ -1,12 +1,12 @@
-<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="bolshchikova.com" resolutions="1x,2x" timestamp="1508399023237">
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="bolshchikova.com" resolutions="1x,2x" timestamp="1508534255921">
   <folder name="css">
     <file name="site_global.css" crc="4179785818"/>
-    <file name="master_b-master.css" crc="47884894" ref="index:about:graphic:zeit:getpet:citi-mobile"/>
-    <file name="nomq_preview_master_b-master.css" crc="155312177" ref="index:about:graphic:zeit:getpet:citi-mobile"/>
-    <file name="index.css" crc="3882598067" ref="index"/>
-    <file name="nomq_index.css" crc="4176481579" ref="index"/>
+    <file name="master_b-master.css" crc="337708467" ref="index:about:graphic:zeit:getpet:citi-mobile"/>
+    <file name="nomq_preview_master_b-master.css" crc="419233102" ref="index:about:graphic:zeit:getpet:citi-mobile"/>
+    <file name="index.css" crc="4269758049" ref="index"/>
+    <file name="nomq_index.css" crc="138907055" ref="index"/>
     <file name="iefonts_index.css" crc="124058032" ref="index"/>
-    <file name="about.css" crc="291633047" ref="about"/>
+    <file name="about.css" crc="47242651" ref="about"/>
     <file name="nomq_about.css" crc="488667762" ref="about"/>
     <file name="graphic.css" crc="403090532" ref="graphic"/>
     <file name="nomq_graphic.css" crc="519080498" ref="graphic"/>
@@ -718,8 +718,8 @@
     <file name="u556310-4_2x5.png" crc="78651148" ref="citi-mobile"/>
     <file name="about-map.jpg" crc="3926439881" ref="about"/>
   </folder>
-  <file name="index.html" crc="3845128994" seo="true" mt="1508398606897" redirect="true"/>
-  <file name="about.html" crc="3986042221" seo="true" mt="1508398878322" redirect="true"/>
+  <file name="index.html" crc="4267664643" seo="true" mt="1508534178885" redirect="true"/>
+  <file name="about.html" crc="4018504697" seo="true" mt="1508534232947" redirect="true"/>
   <file name="graphic.html" crc="72775153" seo="true" mt="1508398606897" redirect="true"/>
   <file name="zeit.html" crc="3779570725" seo="true" mt="1508398606897" redirect="true"/>
   <file name="getpet.html" crc="447433036" seo="true" mt="1508398606897" redirect="true"/>
