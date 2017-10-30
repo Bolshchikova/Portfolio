@@ -1,25 +1,25 @@
-<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="bolshchikova.com" resolutions="1x,2x" timestamp="1508534255921">
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="bolshchikova.com" resolutions="1x,2x" timestamp="1509335612359">
   <folder name="css">
     <file name="site_global.css" crc="4179785818"/>
-    <file name="master_b-master.css" crc="337708467" ref="index:about:graphic:zeit:getpet:citi-mobile"/>
-    <file name="nomq_preview_master_b-master.css" crc="419233102" ref="index:about:graphic:zeit:getpet:citi-mobile"/>
-    <file name="index.css" crc="4269758049" ref="index"/>
-    <file name="nomq_index.css" crc="138907055" ref="index"/>
+    <file name="master_b-master.css" crc="4217479637" ref="index:about:graphic:zeit:getpet:citi-mobile"/>
+    <file name="nomq_preview_master_b-master.css" crc="238398257" ref="index:about:graphic:zeit:getpet:citi-mobile"/>
+    <file name="index.css" crc="3926194160" ref="index"/>
+    <file name="nomq_index.css" crc="3781029650" ref="index"/>
     <file name="iefonts_index.css" crc="124058032" ref="index"/>
-    <file name="about.css" crc="47242651" ref="about"/>
-    <file name="nomq_about.css" crc="488667762" ref="about"/>
-    <file name="graphic.css" crc="403090532" ref="graphic"/>
+    <file name="about.css" crc="3826243343" ref="about"/>
+    <file name="nomq_about.css" crc="4019960639" ref="about"/>
+    <file name="graphic.css" crc="533091009" ref="graphic"/>
     <file name="nomq_graphic.css" crc="519080498" ref="graphic"/>
     <file name="iefonts_graphic.css" crc="124058032" ref="graphic"/>
     <file name="iefonts_about.css" crc="124058032" ref="about"/>
-    <file name="zeit.css" crc="202084785" ref="zeit"/>
+    <file name="zeit.css" crc="4245258051" ref="zeit"/>
     <file name="nomq_zeit.css" crc="3867511108" ref="zeit"/>
     <file name="iefonts_zeit.css" crc="124058032" ref="zeit"/>
-    <file name="getpet.css" crc="4073641417" ref="getpet"/>
-    <file name="nomq_getpet.css" crc="4005732485" ref="getpet"/>
+    <file name="getpet.css" crc="93282757" ref="getpet"/>
+    <file name="nomq_getpet.css" crc="3903496406" ref="getpet"/>
     <file name="iefonts_getpet.css" crc="124058032" ref="getpet"/>
-    <file name="citi-mobile.css" crc="241376601" ref="citi-mobile"/>
-    <file name="nomq_citi-mobile.css" crc="400357043" ref="citi-mobile"/>
+    <file name="citi-mobile.css" crc="4161816723" ref="citi-mobile"/>
+    <file name="nomq_citi-mobile.css" crc="4269478212" ref="citi-mobile"/>
     <file name="iefonts_citi-mobile.css" crc="124058032" ref="citi-mobile"/>
   </folder>
   <folder name="assets">
@@ -718,10 +718,10 @@
     <file name="u556310-4_2x5.png" crc="78651148" ref="citi-mobile"/>
     <file name="about-map.jpg" crc="3926439881" ref="about"/>
   </folder>
-  <file name="index.html" crc="4267664643" seo="true" mt="1508534178885" redirect="true"/>
-  <file name="about.html" crc="4018504697" seo="true" mt="1508534232947" redirect="true"/>
-  <file name="graphic.html" crc="72775153" seo="true" mt="1508398606897" redirect="true"/>
-  <file name="zeit.html" crc="3779570725" seo="true" mt="1508398606897" redirect="true"/>
-  <file name="getpet.html" crc="447433036" seo="true" mt="1508398606897" redirect="true"/>
-  <file name="citi-mobile.html" crc="4106154212" seo="true" mt="1508398606897" redirect="true"/>
+  <file name="index.html" crc="352544254" seo="true" mt="1509335418990" redirect="true"/>
+  <file name="about.html" crc="413267202" seo="true" mt="1509335481294" redirect="true"/>
+  <file name="graphic.html" crc="4116491164" seo="true" mt="1509335418990" redirect="true"/>
+  <file name="zeit.html" crc="4209556872" seo="true" mt="1509335418990" redirect="true"/>
+  <file name="getpet.html" crc="15377386" seo="true" mt="1509335418990" redirect="true"/>
+  <file name="citi-mobile.html" crc="271373797" seo="true" mt="1509335418990" redirect="true"/>
 </manifest>
