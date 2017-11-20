@@ -11,20 +11,20 @@
 document.documentElement.className = document.documentElement.className.replace(/\bnojs\b/g, 'js');
 
 // Check that all required assets are uploaded and up-to-date
-if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["museutils.js", "museconfig.js", "jquery.musemenu.js", "jquery.watch.js", "webpro.js", "musewpdisclosure.js", "jquery.museresponsive.js", "require.js", "windowear.css"], "outOfDate":[]};
+if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["museutils.js", "museconfig.js", "jquery.musemenu.js", "jquery.watch.js", "jquery.musepolyfill.bgsize.js", "webpro.js", "musewpdisclosure.js", "jquery.museresponsive.js", "require.js", "windowear.css"], "outOfDate":[]};
 </script>
   
   <link rel="shortcut icon" href="images/favicon.ico?crc=3973083464"/>
   <title>Windowear</title>
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=4179785818"/>
-  <link rel="stylesheet" type="text/css" href="css/master_b-master.css?crc=264848716"/>
-  <link rel="stylesheet" type="text/css" href="css/windowear.css?crc=4027119733" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/master_b-master.css?crc=4071276220"/>
+  <link rel="stylesheet" type="text/css" href="css/windowear.css?crc=3814405927" id="pagesheet"/>
   <!-- IE-only CSS -->
   <!--[if lt IE 9]>
   <link rel="stylesheet" type="text/css" href="css/iefonts_windowear.css?crc=124058032"/>
-  <link rel="stylesheet" type="text/css" href="css/nomq_preview_master_b-master.css?crc=4233376496"/>
-  <link rel="stylesheet" type="text/css" href="css/nomq_windowear.css?crc=4063486138" id="nomq_pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/nomq_preview_master_b-master.css?crc=155312177"/>
+  <link rel="stylesheet" type="text/css" href="css/nomq_windowear.css?crc=26804556" id="nomq_pagesheet"/>
   <![endif]-->
   <!-- Other scripts -->
   <script type="text/javascript">
@@ -48,7 +48,7 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
      <a class="anchor_item colelem shared_content" id="home" data-content-guid="home_content"></a>
      <div class="clearfix colelem shared_content" id="pu151888" data-content-guid="pu151888_content"><!-- group -->
       <div class="browser_width" id="u151888-bw">
-       <div id="u151888"><!-- simple frame --></div>
+       <div class="shadow rgba-background" id="u151888"><!-- simple frame --></div>
       </div>
       <a class="nonblock nontext clip_frame" id="u154205" href="index.html#home"><!-- svg --><img class="svg temp_no_img_src" id="u154206" data-orig-src="images/log-olga.svg?crc=4064784824" width="63" height="59" alt="" data-mu-svgfallback="images/log-olga_poster_.png?crc=367087102" src="images/blank.gif?crc=4208392903"/></a>
      </div>
@@ -96,7 +96,7 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
        <div class="clearfix" id="u621955_align_to_page">
         <div class="clearfix grpelem" id="u621896"><!-- column -->
          <div class="clip_frame colelem" id="u621898"><!-- svg -->
-          <img class="svg svg_mar temp_no_img_src" id="u621899" data-orig-src="images/noun_928796_cc.svg?crc=4252898806" onload="this.style.height=(this.offsetWidth*28/28)+'px'" alt="" data-mu-svgfallback="images/noun_928796_cc_poster_.png?crc=173486841" data-image-width="28" data-image-height="28" src="images/blank.gif?crc=4208392903"/>
+          <img class="svg svg_mar temp_no_img_src" id="u621899" data-orig-src="images/noun_928796_cc.svg?crc=4252898806" onload="this.style.height=(this.offsetWidth*28/28)+'px'" alt="" data-mu-svgfallback="images/noun_928796_cc_poster_.png?crc=40368138" data-image-width="28" data-image-height="28" src="images/blank.gif?crc=4208392903"/>
          </div>
          <div class="Body clearfix colelem shared_content" id="u621897-10" data-content-guid="u621897-10_content"><!-- content -->
           <p id="u621897-2">Research</p>
@@ -107,7 +107,7 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
         </div>
         <div class="clearfix grpelem" id="u621915"><!-- column -->
          <div class="clip_frame colelem" id="u621916"><!-- svg -->
-          <img class="svg svg_mar temp_no_img_src" id="u621917" data-orig-src="images/noun_967919_cc.svg?crc=484634284" onload="this.style.height=(this.offsetWidth*28/28)+'px'" alt="" data-mu-svgfallback="images/noun_967919_cc_poster_.png?crc=4222918831" data-image-width="28" data-image-height="28" src="images/blank.gif?crc=4208392903"/>
+          <img class="svg svg_mar temp_no_img_src" id="u621917" data-orig-src="images/noun_967919_cc.svg?crc=484634284" onload="this.style.height=(this.offsetWidth*28/28)+'px'" alt="" data-mu-svgfallback="images/noun_967919_cc_poster_.png?crc=392339064" data-image-width="28" data-image-height="28" src="images/blank.gif?crc=4208392903"/>
          </div>
          <div class="Body clearfix colelem shared_content" id="u621918-12" data-content-guid="u621918-12_content"><!-- content -->
           <p id="u621918-2">Strategy</p>
@@ -119,7 +119,7 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
         </div>
         <div class="clearfix grpelem" id="u621950"><!-- column -->
          <div class="clip_frame colelem" id="u621952"><!-- svg -->
-          <img class="svg svg_mar temp_no_img_src" id="u621953" data-orig-src="images/noun_118163_cc.svg?crc=4613746" onload="this.style.height=(this.offsetWidth*28/28)+'px'" alt="" data-mu-svgfallback="images/noun_118163_cc_poster_.png?crc=467830947" data-image-width="28" data-image-height="28" src="images/blank.gif?crc=4208392903"/>
+          <img class="svg svg_mar temp_no_img_src" id="u621953" data-orig-src="images/noun_118163_cc.svg?crc=4613746" onload="this.style.height=(this.offsetWidth*28/28)+'px'" alt="" data-mu-svgfallback="images/noun_118163_cc_poster_.png?crc=88279113" data-image-width="28" data-image-height="28" src="images/blank.gif?crc=4208392903"/>
          </div>
          <div class="Body clearfix colelem shared_content" id="u621951-10" data-content-guid="u621951-10_content"><!-- content -->
           <p id="u621951-2">Interaction Design</p>
@@ -130,7 +130,7 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
         </div>
         <div class="clearfix grpelem" id="u621930"><!-- column -->
          <div class="clip_frame colelem" id="u621932"><!-- svg -->
-          <img class="svg svg_mar temp_no_img_src" id="u621933" data-orig-src="images/noun_118168_cc.svg?crc=3815716674" onload="this.style.height=(this.offsetWidth*28/28)+'px'" alt="" data-mu-svgfallback="images/noun_118168_cc_poster_.png?crc=3979551415" data-image-width="28" data-image-height="28" src="images/blank.gif?crc=4208392903"/>
+          <img class="svg svg_mar temp_no_img_src" id="u621933" data-orig-src="images/noun_118168_cc.svg?crc=3815716674" onload="this.style.height=(this.offsetWidth*28/28)+'px'" alt="" data-mu-svgfallback="images/noun_118168_cc_poster_.png?crc=31037566" data-image-width="28" data-image-height="28" src="images/blank.gif?crc=4208392903"/>
          </div>
          <div class="Body clearfix colelem shared_content" id="u621931-10" data-content-guid="u621931-10_content"><!-- content -->
           <p id="u621931-2">UI Design</p>
@@ -222,7 +222,7 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
       <p id="u622681-7">This approach worked well to get me to an understanding of what I needed to do.</p>
      </div>
      <div class="stroke clip_frame colelem shared_content" id="u622599" data-content-guid="u622599_content"><!-- image -->
-      <img class="block temp_no_img_src" id="u622599_img" data-orig-src="images/ww-user-flow-fructions%402x.jpg?crc=4043565328" data-hidpi-src="images/ww-user-flow-fructions%402x_2x.jpg?crc=370657174" alt="" data-image-width="900" data-image-height="144" src="images/blank.gif?crc=4208392903"/>
+      <img class="block temp_no_img_src" id="u622599_img" data-orig-src="images/ww-user-flow-fructions%402x.jpg?crc=4265641797" data-hidpi-src="images/ww-user-flow-fructions%402x_2x.jpg?crc=474725996" alt="" data-image-width="899" data-image-height="342" src="images/blank.gif?crc=4208392903"/>
      </div>
      <div class="clearfix colelem shared_content" id="u621947-20" data-content-guid="u621947-20_content"><!-- content -->
       <p class="Body shared_content" id="u621947-4" data-content-guid="u621947-4_content">I decided to proceed with creating of <span class="Character-Style" id="u621947-2">high-fidelity wireframes</span> directly bypassing the low-fi wireframe stage. I wanted to show the actual interaction with the &quot;window in my room.&quot; I couldn't do that with black-and-white wireframes.</p>
@@ -235,7 +235,7 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
       </ul>
      </div>
      <div class="stroke clip_frame colelem shared_content" id="u622689" data-content-guid="u622689_content"><!-- image -->
-      <img class="block temp_no_img_src" id="u622689_img" data-orig-src="images/ww-ui-kit%402x.jpg?crc=3912200800" data-hidpi-src="images/ww-ui-kit%402x_2x.jpg?crc=84731881" alt="" data-image-width="900" data-image-height="399" src="images/blank.gif?crc=4208392903"/>
+      <img class="block temp_no_img_src" id="u622689_img" data-orig-src="images/ww-ui-kit%402x.jpg?crc=4122245503" data-hidpi-src="images/ww-ui-kit%402x_2x.jpg?crc=3946263872" alt="" data-image-width="900" data-image-height="399" src="images/blank.gif?crc=4208392903"/>
      </div>
      <div class="Body clearfix colelem shared_content" id="u622725-10" data-content-guid="u622725-10_content"><!-- content -->
       <p id="u622725-2"><span class="Character-Style" id="u622725">High-Fidelity Wireframes</span></p>
@@ -303,9 +303,9 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
      <div class="browser_width colelem" id="u621906-bw">
       <div id="u621906"><!-- column -->
        <div class="clearfix" id="u621906_align_to_page">
-        <img class="colelem temp_no_img_src" id="u621913-4" alt="" data-orig-src="images/u621913-4.png?crc=280098912" data-hidpi-src="images/u621913-4_2x.png?crc=4124719906" data-image-width="20" src="images/blank.gif?crc=4208392903"/><!-- rasterized frame -->
+        <img class="colelem temp_no_img_src" id="u621913-4" alt="" data-orig-src="images/u621913-4.png?crc=280098912" data-hidpi-src="images/u621913-4_2x.png?crc=4124719906" data-image-width="25" src="images/blank.gif?crc=4208392903"/><!-- rasterized frame -->
         <div class="clearfix colelem" id="pu621884-4"><!-- group -->
-         <img class="grpelem temp_no_img_src" id="u621884-4" alt="" data-orig-src="images/u621884-4.png?crc=280098912" data-hidpi-src="images/u621884-4_2x.png?crc=4124719906" data-image-width="20" src="images/blank.gif?crc=4208392903"/><!-- rasterized frame -->
+         <img class="grpelem temp_no_img_src" id="u621884-4" alt="" data-orig-src="images/u621884-4.png?crc=280098912" data-hidpi-src="images/u621884-4_2x.png?crc=4124719906" data-image-width="25" src="images/blank.gif?crc=4208392903"/><!-- rasterized frame -->
          <div class="Body clearfix grpelem shared_content" id="u621935-4" data-content-guid="u621935-4_content"><!-- content -->
           <p id="u621935-2"><span class="Quote" id="u621935">The interface design was like a good framing rather than distracting. I didn't really think about it and I was focused on the product.</span></p>
          </div>
@@ -313,7 +313,7 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
         <div class="Body clearfix colelem shared_content" id="u621886-4" data-content-guid="u621886-4_content"><!-- content -->
          <p id="u621886-2"><span class="Quote" id="u621886">For me, it's always an issue to imagine how curtains will look in my room. And this app can help me with it.</span></p>
         </div>
-        <img class="colelem temp_no_img_src" id="u621934-4" alt="" data-orig-src="images/u621934-4.png?crc=280098912" data-hidpi-src="images/u621934-4_2x.png?crc=4124719906" data-image-width="20" src="images/blank.gif?crc=4208392903"/><!-- rasterized frame -->
+        <img class="colelem temp_no_img_src" id="u621934-4" alt="" data-orig-src="images/u621934-4.png?crc=280098912" data-hidpi-src="images/u621934-4_2x.png?crc=4124719906" data-image-width="25" src="images/blank.gif?crc=4208392903"/><!-- rasterized frame -->
         <div class="Body clearfix colelem shared_content" id="u621922-4" data-content-guid="u621922-4_content"><!-- content -->
          <p id="u621922-2"><span class="Quote" id="u621922">The app is very helpful in choosing a product based on the projected view. Would recommend this app.</span></p>
         </div>
@@ -342,20 +342,20 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
        </div>
       </div>
      </div>
-     <div class="verticalspacer" data-offset-top="14209" data-content-above-spacer="14208" data-content-below-spacer="260"></div>
+     <div class="verticalspacer" data-offset-top="14405" data-content-above-spacer="14404" data-content-below-spacer="260"></div>
      <div class="clearfix colelem shared_content" id="u621903" data-content-guid="u621903_content"><!-- group -->
       <a class="nonblock nontext anim_swing grpelem" id="u621904" href="windowear.html#home" data-mu-ie-matrix="progid:DXImageTransform.Microsoft.Matrix(M11=0.7071,M12=0.7071,M21=-0.7071,M22=0.7071,SizingMethod='auto expand')" data-mu-ie-matrix-dx="-4" data-mu-ie-matrix-dy="-4"><!-- simple frame --></a>
       <a class="nonblock nontext anim_swing clearfix grpelem" id="u621905-4" href="windowear.html#home"><!-- content --><p class="Body" id="u621905-2">Back to top</p></a>
      </div>
      <div class="browser_width colelem shared_content" id="u151611-bw" data-content-guid="u151611-bw_content">
-      <div id="u151611"><!-- group -->
+      <div class="rgba-background" id="u151611"><!-- group -->
        <div class="clearfix" id="u151611_align_to_page">
         <div class="clearfix grpelem shared_content" id="u154602-4" data-content-guid="u154602-4_content"><!-- content -->
          <p id="u154602-2">© 2017 • Olga Bolshchikova</p>
         </div>
-        <a class="nonblock nontext transition grpelem shared_content" id="u154605" href="mailto:olga.bolshchikova@gmail.com" target="_blank" data-content-guid="u154605_content"><!-- simple frame --></a>
-        <a class="nonblock nontext transition grpelem shared_content" id="u154604" href="https://www.linkedin.com/in/olgabolshchikova" target="_blank" data-content-guid="u154604_content"><!-- simple frame --></a>
-        <a class="nonblock nontext transition grpelem shared_content" id="u154603" href="https://www.facebook.com/olga.bolshchikova" target="_blank" data-content-guid="u154603_content"><!-- simple frame --></a>
+        <a class="nonblock nontext transition museBGSize grpelem shared_content" id="u154605" href="mailto:olga.bolshchikova@gmail.com" target="_blank" data-content-guid="u154605_content"><!-- simple frame --></a>
+        <a class="nonblock nontext transition museBGSize grpelem shared_content" id="u154604" href="https://www.linkedin.com/in/olgabolshchikova" target="_blank" data-content-guid="u154604_content"><!-- simple frame --></a>
+        <a class="nonblock nontext transition museBGSize grpelem shared_content" id="u154603" href="https://www.facebook.com/olga.bolshchikova" target="_blank" data-content-guid="u154603_content"><!-- simple frame --></a>
        </div>
       </div>
      </div>
@@ -400,25 +400,25 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
        <div class="clearfix temp_no_id" data-orig-id="u621955_align_to_page">
         <div class="clearfix grpelem temp_no_id shared_content" data-orig-id="u621896" data-content-guid="u621896_content"><!-- column -->
          <div class="clip_frame colelem temp_no_id" data-orig-id="u621898"><!-- svg -->
-          <img class="svg svg_mar temp_no_id temp_no_img_src" data-orig-src="images/noun_928796_cc.svg?crc=4252898806" onload="this.style.height=(this.offsetWidth*27/27)+'px'" alt="" data-mu-svgfallback="images/noun_928796_cc_poster_.png?crc=173486841" data-image-width="27" data-image-height="27" data-orig-id="u621899" src="images/blank.gif?crc=4208392903"/>
+          <img class="svg svg_mar temp_no_id temp_no_img_src" data-orig-src="images/noun_928796_cc.svg?crc=4252898806" onload="this.style.height=(this.offsetWidth*27/27)+'px'" alt="" data-mu-svgfallback="images/noun_928796_cc_poster_.png?crc=40368138" data-image-width="27" data-image-height="27" data-orig-id="u621899" src="images/blank.gif?crc=4208392903"/>
          </div>
          <span class="Body clearfix colelem placeholder" data-placeholder-for="u621897-10_content"><!-- placeholder node --></span>
         </div>
         <div class="clearfix grpelem temp_no_id shared_content" data-orig-id="u621915" data-content-guid="u621915_content"><!-- column -->
          <div class="clip_frame colelem temp_no_id" data-orig-id="u621916"><!-- svg -->
-          <img class="svg svg_mar temp_no_id temp_no_img_src" data-orig-src="images/noun_967919_cc.svg?crc=484634284" onload="this.style.height=(this.offsetWidth*27/27)+'px'" alt="" data-mu-svgfallback="images/noun_967919_cc_poster_.png?crc=4222918831" data-image-width="27" data-image-height="27" data-orig-id="u621917" src="images/blank.gif?crc=4208392903"/>
+          <img class="svg svg_mar temp_no_id temp_no_img_src" data-orig-src="images/noun_967919_cc.svg?crc=484634284" onload="this.style.height=(this.offsetWidth*27/27)+'px'" alt="" data-mu-svgfallback="images/noun_967919_cc_poster_.png?crc=392339064" data-image-width="27" data-image-height="27" data-orig-id="u621917" src="images/blank.gif?crc=4208392903"/>
          </div>
          <span class="Body clearfix colelem placeholder" data-placeholder-for="u621918-12_content"><!-- placeholder node --></span>
         </div>
         <div class="clearfix grpelem temp_no_id shared_content" data-orig-id="u621950" data-content-guid="u621950_content"><!-- column -->
          <div class="clip_frame colelem temp_no_id" data-orig-id="u621952"><!-- svg -->
-          <img class="svg svg_mar temp_no_id temp_no_img_src" data-orig-src="images/noun_118163_cc.svg?crc=4613746" onload="this.style.height=(this.offsetWidth*27/27)+'px'" alt="" data-mu-svgfallback="images/noun_118163_cc_poster_.png?crc=467830947" data-image-width="27" data-image-height="27" data-orig-id="u621953" src="images/blank.gif?crc=4208392903"/>
+          <img class="svg svg_mar temp_no_id temp_no_img_src" data-orig-src="images/noun_118163_cc.svg?crc=4613746" onload="this.style.height=(this.offsetWidth*27/27)+'px'" alt="" data-mu-svgfallback="images/noun_118163_cc_poster_.png?crc=88279113" data-image-width="27" data-image-height="27" data-orig-id="u621953" src="images/blank.gif?crc=4208392903"/>
          </div>
          <span class="Body clearfix colelem placeholder" data-placeholder-for="u621951-10_content"><!-- placeholder node --></span>
         </div>
         <div class="clearfix grpelem temp_no_id shared_content" data-orig-id="u621930" data-content-guid="u621930_content"><!-- column -->
          <div class="clip_frame colelem temp_no_id" data-orig-id="u621932"><!-- svg -->
-          <img class="svg svg_mar temp_no_id temp_no_img_src" data-orig-src="images/noun_118168_cc.svg?crc=3815716674" onload="this.style.height=(this.offsetWidth*29/27)+'px'" alt="" data-mu-svgfallback="images/noun_118168_cc_poster_.png?crc=3979551415" data-image-width="27" data-image-height="29" data-orig-id="u621933" src="images/blank.gif?crc=4208392903"/>
+          <img class="svg svg_mar temp_no_id temp_no_img_src" data-orig-src="images/noun_118168_cc.svg?crc=3815716674" onload="this.style.height=(this.offsetWidth*29/27)+'px'" alt="" data-mu-svgfallback="images/noun_118168_cc_poster_.png?crc=31037566" data-image-width="27" data-image-height="29" data-orig-id="u621933" src="images/blank.gif?crc=4208392903"/>
          </div>
          <span class="Body clearfix colelem placeholder" data-placeholder-for="u621931-10_content"><!-- placeholder node --></span>
         </div>
@@ -505,7 +505,7 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
      <span class="colelem placeholder" data-placeholder-for="u623208_content"><!-- placeholder node --></span>
      <span class="clearfix colelem placeholder" data-placeholder-for="u621890-13_content"><!-- placeholder node --></span>
      <span class="browser_width colelem placeholder" data-placeholder-for="u621948-bw_content"><!-- placeholder node --></span>
-     <div class="verticalspacer" data-offset-top="13955" data-content-above-spacer="13955" data-content-below-spacer="260"></div>
+     <div class="verticalspacer" data-offset-top="14154" data-content-above-spacer="14153" data-content-below-spacer="260"></div>
      <span class="clearfix colelem placeholder" data-placeholder-for="u621903_content"><!-- placeholder node --></span>
      <span class="browser_width colelem placeholder" data-placeholder-for="u151611-bw_content"><!-- placeholder node --></span>
     </div>
@@ -517,7 +517,7 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
      <span class="anchor_item colelem placeholder" data-placeholder-for="home_content"><!-- placeholder node --></span>
      <div class="clearfix colelem" id="pu152176"><!-- group -->
       <div class="browser_width shared_content" id="u152176-bw" data-content-guid="u152176-bw_content">
-       <div id="u152176"><!-- simple frame --></div>
+       <div class="shadow" id="u152176"><!-- simple frame --></div>
       </div>
       <div class="browser_width" id="accordionu152177-bw">
        <ul class="AccordionWidget clearfix" id="accordionu152177"><!-- vertical box -->
@@ -595,11 +595,11 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
      </div>
      <span class="Body clearfix colelem placeholder" data-placeholder-for="u622681-9_content"><!-- placeholder node --></span>
      <div class="stroke clip_frame colelem temp_no_id" data-orig-id="u622599"><!-- image -->
-      <img class="block temp_no_id temp_no_img_src" data-orig-src="images/ww-user-flow-fructions%402x720x116.jpg?crc=4280291836" data-hidpi-src="images/ww-user-flow-fructions%402x720x116_2x.jpg?crc=115023599" alt="" data-image-width="720" data-image-height="116" data-orig-id="u622599_img" src="images/blank.gif?crc=4208392903"/>
+      <img class="block temp_no_id temp_no_img_src" data-orig-src="images/ww-user-flow-fructions%402x721x275.jpg?crc=4043680803" data-hidpi-src="images/ww-user-flow-fructions%402x721x275_2x.jpg?crc=392969601" alt="" data-image-width="720" data-image-height="274" data-orig-id="u622599_img" src="images/blank.gif?crc=4208392903"/>
      </div>
      <span class="clearfix colelem placeholder" data-placeholder-for="u621947-20_content"><!-- placeholder node --></span>
      <div class="stroke clip_frame colelem temp_no_id" data-orig-id="u622689"><!-- image -->
-      <img class="block temp_no_id temp_no_img_src" data-orig-src="images/ww-ui-kit%402x720x320.jpg?crc=4003532945" data-hidpi-src="images/ww-ui-kit%402x720x320_2x.jpg?crc=4287536319" alt="" data-image-width="720" data-image-height="319" data-orig-id="u622689_img" src="images/blank.gif?crc=4208392903"/>
+      <img class="block temp_no_id temp_no_img_src" data-orig-src="images/ww-ui-kit%402x720x320.jpg?crc=330295834" data-hidpi-src="images/ww-ui-kit%402x720x320_2x.jpg?crc=4229210853" alt="" data-image-width="720" data-image-height="319" data-orig-id="u622689_img" src="images/blank.gif?crc=4208392903"/>
      </div>
      <span class="Body clearfix colelem placeholder" data-placeholder-for="u622725-10_content"><!-- placeholder node --></span>
      <div class="stroke clip_frame colelem temp_no_id" data-orig-id="u622707"><!-- image -->
@@ -640,7 +640,7 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
      <span class="colelem placeholder" data-placeholder-for="u623208_content"><!-- placeholder node --></span>
      <span class="clearfix colelem placeholder" data-placeholder-for="u621890-13_content"><!-- placeholder node --></span>
      <span class="browser_width colelem placeholder" data-placeholder-for="u621948-bw_content"><!-- placeholder node --></span>
-     <div class="verticalspacer" data-offset-top="12296" data-content-above-spacer="12296" data-content-below-spacer="251"></div>
+     <div class="verticalspacer" data-offset-top="12459" data-content-above-spacer="12458" data-content-below-spacer="251"></div>
      <span class="clearfix colelem placeholder" data-placeholder-for="u621903_content"><!-- placeholder node --></span>
      <span class="browser_width colelem placeholder" data-placeholder-for="u151611-bw_content"><!-- placeholder node --></span>
     </div>
@@ -682,13 +682,13 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
       <div class="clearfix grpelem temp_no_id" data-orig-id="pu621896"><!-- column -->
        <div class="clearfix colelem temp_no_id" data-orig-id="u621896"><!-- column -->
         <div class="clip_frame colelem temp_no_id" data-orig-id="u621898"><!-- svg -->
-         <img class="svg svg_mar temp_no_id temp_no_img_src" data-orig-src="images/noun_928796_cc.svg?crc=4252898806" onload="this.style.height=(this.offsetWidth*25/25)+'px'" alt="" data-mu-svgfallback="images/noun_928796_cc_poster_.png?crc=173486841" data-image-width="25" data-image-height="25" data-orig-id="u621899" src="images/blank.gif?crc=4208392903"/>
+         <img class="svg svg_mar temp_no_id temp_no_img_src" data-orig-src="images/noun_928796_cc.svg?crc=4252898806" onload="this.style.height=(this.offsetWidth*25/25)+'px'" alt="" data-mu-svgfallback="images/noun_928796_cc_poster_.png?crc=40368138" data-image-width="25" data-image-height="25" data-orig-id="u621899" src="images/blank.gif?crc=4208392903"/>
         </div>
         <span class="Body clearfix colelem placeholder" data-placeholder-for="u621897-10_content"><!-- placeholder node --></span>
        </div>
        <div class="clearfix colelem temp_no_id" data-orig-id="u621950"><!-- column -->
         <div class="clip_frame colelem temp_no_id" data-orig-id="u621952"><!-- svg -->
-         <img class="svg svg_mar temp_no_id temp_no_img_src" data-orig-src="images/noun_118163_cc.svg?crc=4613746" onload="this.style.height=(this.offsetWidth*25/25)+'px'" alt="" data-mu-svgfallback="images/noun_118163_cc_poster_.png?crc=467830947" data-image-width="25" data-image-height="25" data-orig-id="u621953" src="images/blank.gif?crc=4208392903"/>
+         <img class="svg svg_mar temp_no_id temp_no_img_src" data-orig-src="images/noun_118163_cc.svg?crc=4613746" onload="this.style.height=(this.offsetWidth*25/25)+'px'" alt="" data-mu-svgfallback="images/noun_118163_cc_poster_.png?crc=88279113" data-image-width="25" data-image-height="25" data-orig-id="u621953" src="images/blank.gif?crc=4208392903"/>
         </div>
         <span class="Body clearfix colelem placeholder" data-placeholder-for="u621951-10_content"><!-- placeholder node --></span>
        </div>
@@ -696,13 +696,13 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
       <div class="clearfix grpelem temp_no_id" data-orig-id="pu621915"><!-- column -->
        <div class="clearfix colelem temp_no_id" data-orig-id="u621915"><!-- column -->
         <div class="clip_frame colelem temp_no_id" data-orig-id="u621916"><!-- svg -->
-         <img class="svg svg_mar temp_no_id temp_no_img_src" data-orig-src="images/noun_967919_cc.svg?crc=484634284" onload="this.style.height=(this.offsetWidth*25/25)+'px'" alt="" data-mu-svgfallback="images/noun_967919_cc_poster_.png?crc=4222918831" data-image-width="25" data-image-height="25" data-orig-id="u621917" src="images/blank.gif?crc=4208392903"/>
+         <img class="svg svg_mar temp_no_id temp_no_img_src" data-orig-src="images/noun_967919_cc.svg?crc=484634284" onload="this.style.height=(this.offsetWidth*25/25)+'px'" alt="" data-mu-svgfallback="images/noun_967919_cc_poster_.png?crc=392339064" data-image-width="25" data-image-height="25" data-orig-id="u621917" src="images/blank.gif?crc=4208392903"/>
         </div>
         <span class="Body clearfix colelem placeholder" data-placeholder-for="u621918-12_content"><!-- placeholder node --></span>
        </div>
        <div class="clearfix colelem temp_no_id" data-orig-id="u621930"><!-- column -->
         <div class="clip_frame colelem temp_no_id" data-orig-id="u621932"><!-- svg -->
-         <img class="svg svg_mar temp_no_id temp_no_img_src" data-orig-src="images/noun_118168_cc.svg?crc=3815716674" onload="this.style.height=(this.offsetWidth*25/24)+'px'" alt="" data-mu-svgfallback="images/noun_118168_cc_poster_.png?crc=3979551415" data-image-width="24" data-image-height="25" data-orig-id="u621933" src="images/blank.gif?crc=4208392903"/>
+         <img class="svg svg_mar temp_no_id temp_no_img_src" data-orig-src="images/noun_118168_cc.svg?crc=3815716674" onload="this.style.height=(this.offsetWidth*25/24)+'px'" alt="" data-mu-svgfallback="images/noun_118168_cc_poster_.png?crc=31037566" data-image-width="24" data-image-height="25" data-orig-id="u621933" src="images/blank.gif?crc=4208392903"/>
         </div>
         <span class="Body clearfix colelem placeholder" data-placeholder-for="u621931-10_content"><!-- placeholder node --></span>
        </div>
@@ -760,7 +760,7 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
      </div>
      <span class="Body clearfix colelem placeholder" data-placeholder-for="u622681-9_content"><!-- placeholder node --></span>
      <div class="stroke clip_frame colelem temp_no_id" data-orig-id="u622599"><!-- image -->
-      <img class="block temp_no_id temp_no_img_src" data-orig-src="images/ww-user-flow-fructions%402x540x87.jpg?crc=448261891" data-hidpi-src="images/ww-user-flow-fructions%402x540x87_2x.jpg?crc=3877158248" alt="" data-image-width="540" data-image-height="87" data-orig-id="u622599_img" src="images/blank.gif?crc=4208392903"/>
+      <img class="block temp_no_id temp_no_img_src" data-orig-src="images/ww-user-flow-fructions%402x540x206.jpg?crc=261355940" data-hidpi-src="images/ww-user-flow-fructions%402x540x206_2x.jpg?crc=3973733578" alt="" data-image-width="540" data-image-height="205" data-orig-id="u622599_img" src="images/blank.gif?crc=4208392903"/>
      </div>
      <div class="clearfix colelem temp_no_id" data-orig-id="u621947-20"><!-- content -->
       <span class="Body placeholder" data-placeholder-for="u621947-4_content"><!-- placeholder node --></span>
@@ -770,7 +770,7 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
       <span class="list0 nls-None placeholder" data-placeholder-for="u621947-18_content"><!-- placeholder node --></span>
      </div>
      <div class="stroke clip_frame colelem temp_no_id" data-orig-id="u622689"><!-- image -->
-      <img class="block temp_no_id temp_no_img_src" data-orig-src="images/ww-ui-kit%402x540x240.jpg?crc=4179879983" data-hidpi-src="images/ww-ui-kit%402x540x240_2x.jpg?crc=391481788" alt="" data-image-width="540" data-image-height="239" data-orig-id="u622689_img" src="images/blank.gif?crc=4208392903"/>
+      <img class="block temp_no_id temp_no_img_src" data-orig-src="images/ww-ui-kit%402x540x240.jpg?crc=4027025616" data-hidpi-src="images/ww-ui-kit%402x540x240_2x.jpg?crc=126936250" alt="" data-image-width="540" data-image-height="239" data-orig-id="u622689_img" src="images/blank.gif?crc=4208392903"/>
      </div>
      <span class="Body clearfix colelem placeholder" data-placeholder-for="u622725-10_content"><!-- placeholder node --></span>
      <div class="stroke clip_frame colelem temp_no_id" data-orig-id="u622707"><!-- image -->
@@ -825,7 +825,7 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
       <span class="Body placeholder" data-placeholder-for="u621890-11_content"><!-- placeholder node --></span>
      </div>
      <span class="browser_width colelem placeholder" data-placeholder-for="u621948-bw_content"><!-- placeholder node --></span>
-     <div class="verticalspacer" data-offset-top="11513" data-content-above-spacer="11513" data-content-below-spacer="251"></div>
+     <div class="verticalspacer" data-offset-top="11634" data-content-above-spacer="11634" data-content-below-spacer="251"></div>
      <span class="clearfix colelem placeholder" data-placeholder-for="u621903_content"><!-- placeholder node --></span>
      <span class="browser_width colelem placeholder" data-placeholder-for="u151611-bw_content"><!-- placeholder node --></span>
     </div>
@@ -836,7 +836,7 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
     <span class="anchor_item colelem placeholder" data-placeholder-for="home_content"><!-- placeholder node --></span>
     <div class="clearfix colelem" id="pu152562"><!-- group -->
      <div class="browser_width" id="u152562-bw">
-      <div id="u152562"><!-- simple frame --></div>
+      <div class="shadow" id="u152562"><!-- simple frame --></div>
      </div>
      <div class="browser_width" id="accordionu152563-bw">
       <ul class="AccordionWidget clearfix" id="accordionu152563"><!-- vertical box -->
@@ -868,13 +868,13 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
      <div class="clearfix grpelem temp_no_id" data-orig-id="pu621896"><!-- column -->
       <div class="clearfix colelem temp_no_id" data-orig-id="u621896"><!-- column -->
        <div class="clip_frame colelem temp_no_id" data-orig-id="u621898"><!-- svg -->
-        <img class="svg svg_mar temp_no_id temp_no_img_src" data-orig-src="images/noun_928796_cc.svg?crc=4252898806" onload="this.style.height=(this.offsetWidth*23/23)+'px'" alt="" data-mu-svgfallback="images/noun_928796_cc_poster_.png?crc=173486841" data-image-width="23" data-image-height="23" data-orig-id="u621899" src="images/blank.gif?crc=4208392903"/>
+        <img class="svg svg_mar temp_no_id temp_no_img_src" data-orig-src="images/noun_928796_cc.svg?crc=4252898806" onload="this.style.height=(this.offsetWidth*23/23)+'px'" alt="" data-mu-svgfallback="images/noun_928796_cc_poster_.png?crc=40368138" data-image-width="23" data-image-height="23" data-orig-id="u621899" src="images/blank.gif?crc=4208392903"/>
        </div>
        <span class="Body-425 clearfix colelem placeholder" data-placeholder-for="u621897-10_content"><!-- placeholder node --></span>
       </div>
       <div class="clearfix colelem temp_no_id" data-orig-id="u621950"><!-- column -->
        <div class="clip_frame colelem temp_no_id" data-orig-id="u621952"><!-- svg -->
-        <img class="svg svg_mar temp_no_id temp_no_img_src" data-orig-src="images/noun_118163_cc.svg?crc=4613746" onload="this.style.height=(this.offsetWidth*23/23)+'px'" alt="" data-mu-svgfallback="images/noun_118163_cc_poster_.png?crc=467830947" data-image-width="23" data-image-height="23" data-orig-id="u621953" src="images/blank.gif?crc=4208392903"/>
+        <img class="svg svg_mar temp_no_id temp_no_img_src" data-orig-src="images/noun_118163_cc.svg?crc=4613746" onload="this.style.height=(this.offsetWidth*23/23)+'px'" alt="" data-mu-svgfallback="images/noun_118163_cc_poster_.png?crc=88279113" data-image-width="23" data-image-height="23" data-orig-id="u621953" src="images/blank.gif?crc=4208392903"/>
        </div>
        <span class="Body-425 clearfix colelem placeholder" data-placeholder-for="u621951-10_content"><!-- placeholder node --></span>
       </div>
@@ -882,13 +882,13 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
      <div class="clearfix grpelem temp_no_id" data-orig-id="pu621915"><!-- column -->
       <div class="clearfix colelem temp_no_id" data-orig-id="u621915"><!-- column -->
        <div class="clip_frame colelem temp_no_id" data-orig-id="u621916"><!-- svg -->
-        <img class="svg svg_mar temp_no_id temp_no_img_src" data-orig-src="images/noun_967919_cc.svg?crc=484634284" onload="this.style.height=(this.offsetWidth*23/23)+'px'" alt="" data-mu-svgfallback="images/noun_967919_cc_poster_.png?crc=4222918831" data-image-width="23" data-image-height="23" data-orig-id="u621917" src="images/blank.gif?crc=4208392903"/>
+        <img class="svg svg_mar temp_no_id temp_no_img_src" data-orig-src="images/noun_967919_cc.svg?crc=484634284" onload="this.style.height=(this.offsetWidth*23/23)+'px'" alt="" data-mu-svgfallback="images/noun_967919_cc_poster_.png?crc=392339064" data-image-width="23" data-image-height="23" data-orig-id="u621917" src="images/blank.gif?crc=4208392903"/>
        </div>
        <span class="Body-425 clearfix colelem placeholder" data-placeholder-for="u621918-12_content"><!-- placeholder node --></span>
       </div>
       <div class="clearfix colelem temp_no_id" data-orig-id="u621930"><!-- column -->
        <div class="clip_frame colelem temp_no_id" data-orig-id="u621932"><!-- svg -->
-        <img class="svg svg_mar temp_no_id temp_no_img_src" data-orig-src="images/noun_118168_cc.svg?crc=3815716674" onload="this.style.height=(this.offsetWidth*23/22)+'px'" alt="" data-mu-svgfallback="images/noun_118168_cc_poster_.png?crc=3979551415" data-image-width="22" data-image-height="23" data-orig-id="u621933" src="images/blank.gif?crc=4208392903"/>
+        <img class="svg svg_mar temp_no_id temp_no_img_src" data-orig-src="images/noun_118168_cc.svg?crc=3815716674" onload="this.style.height=(this.offsetWidth*23/22)+'px'" alt="" data-mu-svgfallback="images/noun_118168_cc_poster_.png?crc=31037566" data-image-width="22" data-image-height="23" data-orig-id="u621933" src="images/blank.gif?crc=4208392903"/>
        </div>
        <span class="Body-425 clearfix colelem placeholder" data-placeholder-for="u621931-10_content"><!-- placeholder node --></span>
       </div>
@@ -952,7 +952,7 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
     </div>
     <span class="Body-425 clearfix colelem placeholder" data-placeholder-for="u622681-9_content"><!-- placeholder node --></span>
     <div class="stroke clip_frame colelem temp_no_id" data-orig-id="u622599"><!-- image -->
-     <img class="block temp_no_id temp_no_img_src" data-orig-src="images/ww-user-flow-fructions%402x384x62.jpg?crc=4137544714" data-hidpi-src="images/ww-user-flow-fructions%402x384x62_2x.jpg?crc=449771903" alt="" data-image-width="384" data-image-height="62" data-orig-id="u622599_img" src="images/blank.gif?crc=4208392903"/>
+     <img class="block temp_no_id temp_no_img_src" data-orig-src="images/ww-user-flow-fructions%402x-crop-u622599.jpg?crc=430030850" data-hidpi-src="images/ww-user-flow-fructions%402x-crop-u622599_2x.jpg?crc=3865392379" alt="" data-image-width="384" data-image-height="145" data-orig-id="u622599_img" src="images/blank.gif?crc=4208392903"/>
     </div>
     <div class="clearfix colelem temp_no_id" data-orig-id="u621947-20"><!-- content -->
      <span class="Body-425 placeholder" data-placeholder-for="u621947-4_content"><!-- placeholder node --></span>
@@ -965,7 +965,7 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
      </ul>
     </div>
     <div class="stroke clip_frame colelem temp_no_id" data-orig-id="u622689"><!-- image -->
-     <img class="block temp_no_id temp_no_img_src" data-orig-src="images/ww-ui-kit%402x384x171.jpg?crc=148112490" data-hidpi-src="images/ww-ui-kit%402x384x171_2x.jpg?crc=4161308323" alt="" data-image-width="384" data-image-height="170" data-orig-id="u622689_img" src="images/blank.gif?crc=4208392903"/>
+     <img class="block temp_no_id temp_no_img_src" data-orig-src="images/ww-ui-kit%402x384x171.jpg?crc=7616478" data-hidpi-src="images/ww-ui-kit%402x384x171_2x.jpg?crc=120994597" alt="" data-image-width="384" data-image-height="170" data-orig-id="u622689_img" src="images/blank.gif?crc=4208392903"/>
     </div>
     <span class="Body-425 clearfix colelem placeholder" data-placeholder-for="u622725-10_content"><!-- placeholder node --></span>
     <div class="stroke clip_frame colelem temp_no_id" data-orig-id="u622707"><!-- image -->
@@ -1023,15 +1023,15 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
      <span class="Body-425 placeholder" data-placeholder-for="u621890-11_content"><!-- placeholder node --></span>
     </div>
     <span class="browser_width colelem placeholder" data-placeholder-for="u621948-bw_content"><!-- placeholder node --></span>
-    <div class="verticalspacer" data-offset-top="10715" data-content-above-spacer="10715" data-content-below-spacer="231"></div>
+    <div class="verticalspacer" data-offset-top="10791" data-content-above-spacer="10790" data-content-below-spacer="231"></div>
     <span class="clearfix colelem placeholder" data-placeholder-for="u621903_content"><!-- placeholder node --></span>
     <div class="browser_width colelem temp_no_id" data-orig-id="u151611-bw">
-     <div class="temp_no_id" data-orig-id="u151611"><!-- column -->
+     <div class="rgba-background temp_no_id" data-orig-id="u151611"><!-- column -->
       <div class="clearfix temp_no_id" data-orig-id="u151611_align_to_page">
        <div class="clearfix colelem" id="pu154605"><!-- group -->
-        <span class="nonblock nontext transition grpelem placeholder" data-placeholder-for="u154605_content"><!-- placeholder node --></span>
-        <span class="nonblock nontext transition grpelem placeholder" data-placeholder-for="u154604_content"><!-- placeholder node --></span>
-        <span class="nonblock nontext transition grpelem placeholder" data-placeholder-for="u154603_content"><!-- placeholder node --></span>
+        <span class="nonblock nontext transition museBGSize grpelem placeholder" data-placeholder-for="u154605_content"><!-- placeholder node --></span>
+        <span class="nonblock nontext transition museBGSize grpelem placeholder" data-placeholder-for="u154604_content"><!-- placeholder node --></span>
+        <span class="nonblock nontext transition museBGSize grpelem placeholder" data-placeholder-for="u154603_content"><!-- placeholder node --></span>
        </div>
        <span class="clearfix colelem placeholder" data-placeholder-for="u154602-4_content"><!-- placeholder node --></span>
       </div>
@@ -1045,7 +1045,7 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
 16);return 0},g=function(g){for(var f=document.getElementsByTagName("link"),h=0;h<f.length;h++)if("text/css"==f[h].type){var i=(f[h].href||"").match(/\/?css\/([\w\-]+\.css)\?crc=(\d+)/);if(!i||!i[1]||!i[2])break;b[i[1]]=i[2]}f=document.createElement("div");f.className="version";f.style.cssText="display:none; width:1px; height:1px;";document.getElementsByTagName("body")[0].appendChild(f);for(h=0;h<Muse.assets.required.length;){var i=Muse.assets.required[h],l=i.match(/([\w\-\.]+)\.(\w+)$/),k=l&&l[1]?
 l[1]:null,l=l&&l[2]?l[2]:null;switch(l.toLowerCase()){case "css":k=k.replace(/\W/gi,"_").replace(/^([^a-z])/gi,"_$1");f.className+=" "+k;k=a(c(f,"color"));l=a(c(f,"backgroundColor"));k!=0||l!=0?(Muse.assets.required.splice(h,1),"undefined"!=typeof b[i]&&(k!=b[i]>>>24||l!=(b[i]&16777215))&&Muse.assets.outOfDate.push(i)):h++;f.className="version";break;case "js":h++;break;default:throw Error("Unsupported file type: "+l);}}d?d().jquery!="1.8.3"&&Muse.assets.outOfDate.push("jquery-1.8.3.min.js"):Muse.assets.required.push("jquery-1.8.3.min.js");
 f.parentNode.removeChild(f);if(Muse.assets.outOfDate.length||Muse.assets.required.length)f="Some files on the server may be missing or incorrect. Clear browser cache and try again. If the problem persists please contact website author.",g&&Muse.assets.outOfDate.length&&(f+="\nOut of date: "+Muse.assets.outOfDate.join(",")),g&&Muse.assets.required.length&&(f+="\nMissing: "+Muse.assets.required.join(",")),alert(f)};location&&location.search&&location.search.match&&location.search.match(/muse_debug/gi)?setTimeout(function(){g(!0)},5E3):g()}};
-var muse_init=function(){require.config({baseUrl:""});require(["jquery","museutils","whatinput","jquery.musemenu","jquery.watch","webpro","musewpdisclosure","jquery.museresponsive"],function(d){var $ = d;$(document).ready(function(){try{
+var muse_init=function(){require.config({baseUrl:""});require(["jquery","museutils","whatinput","jquery.musemenu","jquery.watch","jquery.musepolyfill.bgsize","webpro","musewpdisclosure","jquery.museresponsive"],function(d){var $ = d;$(document).ready(function(){try{
 window.Muse.assets.check($);/* body */
 Muse.Utils.transformMarkupToFixBrowserProblemsPreInit();/* body */
 Muse.Utils.detectScreenResolution();/* HiDPI screens */
