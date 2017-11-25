@@ -1,28 +1,28 @@
-<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="bolshchikova.com" resolutions="1x,2x" timestamp="1511156281832">
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="bolshchikova.com" resolutions="1x,2x" timestamp="1511594572416">
   <folder name="css">
     <file name="site_global.css" crc="4179785818"/>
-    <file name="master_b-master.css" crc="4071276220" ref="index:about:graphic:zeit:getpet:citi-mobile:windowear"/>
-    <file name="nomq_preview_master_b-master.css" crc="155312177" ref="index:about:graphic:zeit:getpet:citi-mobile:windowear"/>
-    <file name="index.css" crc="4097327705" ref="index"/>
-    <file name="nomq_index.css" crc="4206332702" ref="index"/>
+    <file name="master_b-master.css" crc="96959244" ref="index:about:graphic:zeit:getpet:citi-mobile:windowear"/>
+    <file name="nomq_preview_master_b-master.css" crc="450727737" ref="index:about:graphic:zeit:getpet:citi-mobile:windowear"/>
+    <file name="index.css" crc="259860994" ref="index"/>
+    <file name="nomq_index.css" crc="193934806" ref="index"/>
     <file name="iefonts_index.css" crc="124058032" ref="index"/>
-    <file name="about.css" crc="501759855" ref="about"/>
-    <file name="nomq_about.css" crc="405658842" ref="about"/>
-    <file name="graphic.css" crc="3943458756" ref="graphic"/>
-    <file name="nomq_graphic.css" crc="4251806669" ref="graphic"/>
+    <file name="about.css" crc="3888335482" ref="about"/>
+    <file name="nomq_about.css" crc="4029958299" ref="about"/>
+    <file name="graphic.css" crc="189091792" ref="graphic"/>
+    <file name="nomq_graphic.css" crc="4142036085" ref="graphic"/>
     <file name="iefonts_graphic.css" crc="124058032" ref="graphic"/>
     <file name="iefonts_about.css" crc="124058032" ref="about"/>
-    <file name="zeit.css" crc="251147697" ref="zeit"/>
-    <file name="nomq_zeit.css" crc="60497949" ref="zeit"/>
+    <file name="zeit.css" crc="383397498" ref="zeit"/>
+    <file name="nomq_zeit.css" crc="303155086" ref="zeit"/>
     <file name="iefonts_zeit.css" crc="124058032" ref="zeit"/>
-    <file name="getpet.css" crc="198730896" ref="getpet"/>
-    <file name="nomq_getpet.css" crc="83324020" ref="getpet"/>
+    <file name="getpet.css" crc="3825476626" ref="getpet"/>
+    <file name="nomq_getpet.css" crc="4280502765" ref="getpet"/>
     <file name="iefonts_getpet.css" crc="124058032" ref="getpet"/>
-    <file name="citi-mobile.css" crc="162733558" ref="citi-mobile"/>
-    <file name="nomq_citi-mobile.css" crc="384641623" ref="citi-mobile"/>
+    <file name="citi-mobile.css" crc="4127502152" ref="citi-mobile"/>
+    <file name="nomq_citi-mobile.css" crc="4163635526" ref="citi-mobile"/>
     <file name="iefonts_citi-mobile.css" crc="124058032" ref="citi-mobile"/>
-    <file name="windowear.css" crc="3814405927" ref="windowear"/>
-    <file name="nomq_windowear.css" crc="26804556" ref="windowear"/>
+    <file name="windowear.css" crc="331569218" ref="windowear"/>
+    <file name="nomq_windowear.css" crc="3986022586" ref="windowear"/>
     <file name="iefonts_windowear.css" crc="124058032" ref="windowear"/>
   </folder>
   <folder name="assets">
@@ -34,7 +34,7 @@
     <file name="whatinput.js" crc="86476730" ref="index:about:graphic:zeit:getpet:citi-mobile:windowear"/>
     <file name="museconfig.js" crc="168988563" ref="index:about:graphic:zeit:getpet:citi-mobile:windowear"/>
     <file name="jquery.musemenu.js" crc="146495465" ref="index:about:graphic:zeit:getpet:citi-mobile:windowear"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="379354253" ref="index:about:citi-mobile:windowear"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="379354253" ref="index:about"/>
     <file name="jquery.watch.js" crc="104486786" ref="index:about:graphic:zeit:getpet:citi-mobile:windowear"/>
     <file name="webpro.js" crc="3848665353" ref="index:about:graphic:zeit:getpet:citi-mobile:windowear"/>
     <file name="musewpdisclosure.js" crc="4275188064" ref="index:about:graphic:zeit:getpet:citi-mobile:windowear"/>
@@ -43,33 +43,33 @@
     <file name="require.js" crc="244322403" ref="index:about:graphic:zeit:getpet:citi-mobile:windowear"/>
   </folder>
   <folder name="images">
-    <file name="favicon.ico" crc="3973083464" ref="index:citi-mobile:windowear"/>
+    <file name="favicon.ico" crc="3973083464" ref="index"/>
     <file name="blank.gif" crc="4208392903" ref="index:about:graphic:zeit:getpet:citi-mobile:windowear"/>
-    <file name="mobile-menu.jpg" crc="3954470239" ref="index:citi-mobile:windowear"/>
-    <file name="mobile-menu-550.jpg" crc="3782482782" ref="index:citi-mobile:windowear"/>
+    <file name="mobile-menu.jpg" crc="3954470239" ref="index"/>
+    <file name="mobile-menu-550.jpg" crc="3782482782" ref="index"/>
     <file name="about-toys.jpg" crc="204774399" ref="about"/>
-    <file name="email-1.svg" crc="4100113511" ref="index:citi-mobile:windowear"/>
-    <file name="email-1_poster_u322117.png" crc="3909256717" ref="index:citi-mobile:windowear"/>
-    <file name="linkedin-1.svg" crc="4075482461" ref="index:citi-mobile:windowear"/>
-    <file name="linkedin-1_poster_u322125.png" crc="81371700" ref="index:citi-mobile:windowear"/>
-    <file name="facebook-1.svg" crc="532332797" ref="index:citi-mobile:windowear"/>
-    <file name="facebook-1_poster_u322133.png" crc="3869347577" ref="index:citi-mobile:windowear"/>
+    <file name="email-1.svg" crc="4100113511" ref="index"/>
+    <file name="email-1_poster_u322117.png" crc="3909256717" ref="index"/>
+    <file name="linkedin-1.svg" crc="4075482461" ref="index"/>
+    <file name="linkedin-1_poster_u322125.png" crc="81371700" ref="index"/>
+    <file name="facebook-1.svg" crc="532332797" ref="index"/>
+    <file name="facebook-1_poster_u322133.png" crc="3869347577" ref="index"/>
     <file name="me-5.jpg" crc="4074973348" ref="about"/>
     <file name="me-5-u383956-fr.jpg" crc="4171732431" ref="about"/>
     <file name="about-map-u383838-fr.jpg" crc="3813302288" ref="about"/>
     <file name="about-map-u383838-fr2.jpg" crc="347528954" ref="about"/>
     <file name="log-olga.svg" crc="4064784824" seo="true" ref="index:about:graphic:zeit:getpet:citi-mobile:windowear"/>
-    <file name="log-olga_poster_.png" crc="367087102" ref="index:citi-mobile:windowear"/>
+    <file name="log-olga_poster_.png" crc="367087102" ref="index"/>
     <file name="logo-zeit-05.svg" crc="324827151" seo="true" ref="zeit"/>
     <file name="logo zeit-05_poster_.png" crc="4127737867" ref="zeit"/>
     <file name="noun_928796_cc.svg" crc="4252898806" seo="true" ref="zeit:getpet:citi-mobile:windowear"/>
-    <file name="noun_928796_cc_poster_.png" crc="40368138" ref="zeit:citi-mobile:windowear"/>
+    <file name="noun_928796_cc_poster_.png" crc="173486841" ref="zeit"/>
     <file name="noun_967919_cc.svg" crc="484634284" seo="true" ref="zeit:getpet:citi-mobile:windowear"/>
-    <file name="noun_967919_cc_poster_.png" crc="392339064" ref="zeit:citi-mobile:windowear"/>
+    <file name="noun_967919_cc_poster_.png" crc="4222918831" ref="zeit"/>
     <file name="noun_118163_cc.svg" crc="4613746" seo="true" ref="zeit:getpet:citi-mobile:windowear"/>
-    <file name="noun_118163_cc_poster_.png" crc="88279113" ref="zeit:citi-mobile:windowear"/>
+    <file name="noun_118163_cc_poster_.png" crc="467830947" ref="zeit"/>
     <file name="noun_118168_cc.svg" crc="3815716674" seo="true" ref="zeit:getpet:citi-mobile:windowear"/>
-    <file name="noun_118168_cc_poster_.png" crc="31037566" ref="zeit:citi-mobile:windowear"/>
+    <file name="noun_118168_cc_poster_.png" crc="3979551415" ref="zeit"/>
     <file name="u526446-4.png" crc="280098912" ref="zeit"/>
     <file name="u526460-4.png" crc="280098912" ref="zeit"/>
     <file name="u526446-42.png" crc="3955677169" ref="zeit"/>
@@ -120,7 +120,7 @@
     <file name="zeit-hp3@2x_2x.jpg" crc="80092985" seo="true" ref="zeit"/>
     <file name="zeit-pp1@2x.jpg" crc="410612143" seo="true" ref="zeit"/>
     <file name="zeit-pp1@2x_2x.jpg" crc="4055348655" seo="true" ref="zeit"/>
-    <file name="zeit-pp2@2x-crop-u547497.jpg" crc="117772552" ref="zeit"/>
+    <file name="zeit-pp2@2x-crop-u547497.jpg" crc="3996792867" ref="zeit"/>
     <file name="zeit-pp2@2x-crop-u547497_2x.jpg" crc="3960352722" ref="zeit"/>
     <file name="zeit-pp3@2x-crop-u547515.jpg" crc="79119040" ref="zeit"/>
     <file name="zeit-pp3@2x-crop-u547515_2x.jpg" crc="3977055297" ref="zeit"/>
@@ -210,8 +210,6 @@
     <file name="getpet-site-map@2x_2x.jpg" crc="305396496" seo="true" ref="getpet"/>
     <file name="getpet-user-flow@2x.jpg" crc="3923503515" seo="true" ref="getpet"/>
     <file name="getpet-user-flow@2x_2x.jpg" crc="324236988" seo="true" ref="getpet"/>
-    <file name="getpet-wireframes@2x.jpg" crc="3907640737" seo="true" ref="getpet"/>
-    <file name="getpet-wireframes@2x_2x.jpg" crc="408706700" seo="true" ref="getpet"/>
     <file name="u543038-4.png" crc="280098912" ref="getpet"/>
     <file name="u543038-4_2x.png" crc="4124719906" ref="getpet"/>
     <file name="u543062-4.png" crc="280098912" ref="getpet"/>
@@ -250,8 +248,6 @@
     <file name="getpet-persona@2x-crop-u546041_2x2.jpg" crc="113341788" ref="getpet"/>
     <file name="getpet-site-map@2x898x616.jpg" crc="246930634" seo="true" ref="getpet"/>
     <file name="getpet-site-map@2x898x616_2x.jpg" crc="4115639896" seo="true" ref="getpet"/>
-    <file name="getpet-wireframes@2x898x1138.jpg" crc="4077210489" seo="true" ref="getpet"/>
-    <file name="getpet-wireframes@2x898x1138_2x.jpg" crc="408706700" seo="true" ref="getpet"/>
     <file name="u543038-42.png" crc="3955677169" ref="getpet"/>
     <file name="u543038-4_2x2.png" crc="306711575" ref="getpet"/>
     <file name="u543062-42.png" crc="3955677169" ref="getpet"/>
@@ -306,30 +302,28 @@
     <file name="u546408-4_2x5.png" crc="78651148" ref="getpet"/>
     <file name="u545974-45.png" crc="3955677169" ref="getpet"/>
     <file name="u545974-4_2x5.png" crc="78651148" ref="getpet"/>
-    <file name="citi-homepage-crop-u564575.png" crc="150728312" ref="index"/>
-    <file name="citi-homepage-crop-u564575_2x.png" crc="520236391" ref="index"/>
-    <file name="getpet-homepage@2x595x324.png" crc="233434789" seo="true" ref="index"/>
-    <file name="getpet-homepage@2x595x324_2x.png" crc="533741649" seo="true" ref="index"/>
-    <file name="zeit-homepage@2x-crop-u509894.png" crc="4195399375" ref="index"/>
+    <file name="citi-homepage-crop-u564575.png" crc="168765362" ref="index"/>
+    <file name="citi-homepage-crop-u564575_2x.png" crc="4198055805" ref="index"/>
+    <file name="zeit-homepage@2x-crop-u509894.png" crc="55606699" ref="index"/>
     <file name="zeit-homepage@2x-crop-u509894_2x.png" crc="354433838" ref="index"/>
-    <file name="citi-homepage-crop-u5645752.png" crc="68002261" ref="index"/>
-    <file name="citi-homepage-crop-u564575_2x2.png" crc="3958437085" ref="index"/>
+    <file name="citi-homepage-crop-u5645752.png" crc="4264815379" ref="index"/>
+    <file name="citi-homepage-crop-u564575_2x2.png" crc="240785045" ref="index"/>
     <file name="getpet-homepage@2x506x275.png" crc="4107515698" seo="true" ref="index"/>
     <file name="getpet-homepage@2x506x275_2x.png" crc="289155763" seo="true" ref="index"/>
     <file name="zeit-homepage@2x-crop-u5098942.png" crc="3804503053" ref="index"/>
     <file name="zeit-homepage@2x-crop-u509894_2x2.png" crc="127559001" ref="index"/>
-    <file name="citi-homepage-crop-u5645753.png" crc="4069370766" ref="index"/>
-    <file name="citi-homepage-crop-u564575_2x3.png" crc="265261024" ref="index"/>
+    <file name="citi-homepage-crop-u5645753.png" crc="522510052" ref="index"/>
+    <file name="citi-homepage-crop-u564575_2x3.png" crc="4167732849" ref="index"/>
     <file name="getpet-homepage@2x538x293.png" crc="4008067691" seo="true" ref="index"/>
     <file name="getpet-homepage@2x538x293_2x.png" crc="409011100" seo="true" ref="index"/>
     <file name="zeit-homepage@2x-crop-u5098943.png" crc="171374406" ref="index"/>
     <file name="zeit-homepage@2x-crop-u509894_2x3.png" crc="72006411" ref="index"/>
-    <file name="citi-homepage-crop-u5645754.png" crc="470740107" ref="index"/>
-    <file name="citi-homepage-crop-u564575_2x4.png" crc="211032721" ref="index"/>
+    <file name="citi-homepage-crop-u5645754.png" crc="409976852" ref="index"/>
+    <file name="citi-homepage-crop-u564575_2x4.png" crc="185952476" ref="index"/>
     <file name="zeit-homepage@2x-crop-u5098944.png" crc="3849937785" ref="index"/>
     <file name="zeit-homepage@2x-crop-u509894_2x4.png" crc="481419467" ref="index"/>
-    <file name="citi-homepage-crop-u5645755.png" crc="4253298268" ref="index"/>
-    <file name="citi-homepage-crop-u564575_2x5.png" crc="4111499617" ref="index"/>
+    <file name="citi-homepage-crop-u5645755.png" crc="3858348055" ref="index"/>
+    <file name="citi-homepage-crop-u564575_2x5.png" crc="462799062" ref="index"/>
     <file name="zeit-homepage@2x-crop-u5098945.png" crc="29477228" ref="index"/>
     <file name="zeit-homepage@2x-crop-u509894_2x5.png" crc="404141911" ref="index"/>
     <file name="about-toys-u603451-fr.jpg" crc="4291455606" ref="about"/>
@@ -428,8 +422,6 @@
     <file name="getpet-site-map@2x720x494_2x.jpg" crc="55706914" seo="true" ref="getpet"/>
     <file name="getpet-user-flow@2x720x565.jpg" crc="174018349" seo="true" ref="getpet"/>
     <file name="getpet-user-flow@2x720x565_2x.jpg" crc="93933405" seo="true" ref="getpet"/>
-    <file name="getpet-wireframes@2x721x913.jpg" crc="4054685637" seo="true" ref="getpet"/>
-    <file name="getpet-wireframes@2x721x913_2x.jpg" crc="513270609" seo="true" ref="getpet"/>
     <file name="getpet-affinity-map@2x720x478.jpg" crc="3918537800" seo="true" ref="getpet"/>
     <file name="getpet-affinity-map@2x720x478_2x.jpg" crc="202385590" seo="true" ref="getpet"/>
     <file name="getpet logo-1-03624x82.jpg" crc="3893250170" seo="true" ref="getpet"/>
@@ -458,8 +450,6 @@
     <file name="getpet-site-map@2x540x370_2x.jpg" crc="4201270879" seo="true" ref="getpet"/>
     <file name="getpet-user-flow@2x541x424.jpg" crc="140690235" seo="true" ref="getpet"/>
     <file name="getpet-user-flow@2x541x424_2x.jpg" crc="495575029" seo="true" ref="getpet"/>
-    <file name="getpet-wireframes@2x540x684.jpg" crc="3922069183" seo="true" ref="getpet"/>
-    <file name="getpet-wireframes@2x540x684_2x.jpg" crc="265113459" seo="true" ref="getpet"/>
     <file name="getpet-affinity-map@2x540x359.jpg" crc="335557399" seo="true" ref="getpet"/>
     <file name="getpet-affinity-map@2x540x359_2x.jpg" crc="125448546" seo="true" ref="getpet"/>
     <file name="getpet logo-1-03544x72.jpg" crc="4221729189" seo="true" ref="getpet"/>
@@ -490,8 +480,6 @@
     <file name="getpet-site-map@2x385x264_2x.jpg" crc="3872948466" seo="true" ref="getpet"/>
     <file name="getpet-user-flow@2x385x303.jpg" crc="3853244080" seo="true" ref="getpet"/>
     <file name="getpet-user-flow@2x385x303_2x.jpg" crc="4044597579" seo="true" ref="getpet"/>
-    <file name="getpet-wireframes@2x385x488.jpg" crc="246404300" seo="true" ref="getpet"/>
-    <file name="getpet-wireframes@2x385x488_2x.jpg" crc="54223972" seo="true" ref="getpet"/>
     <file name="getpet-affinity-map@2x385x256.jpg" crc="4118300455" seo="true" ref="getpet"/>
     <file name="getpet-affinity-map@2x385x256_2x.jpg" crc="4135046516" seo="true" ref="getpet"/>
     <file name="getpet logo-1-03385x51.jpg" crc="3790333807" seo="true" ref="getpet"/>
@@ -875,16 +863,14 @@
     <file name="u621884-4_2x5.png" crc="78651148" ref="windowear"/>
     <file name="u621934-45.png" crc="3955677169" ref="windowear"/>
     <file name="u621934-4_2x5.png" crc="78651148" ref="windowear"/>
-    <file name="ww-homepage-crop-u623751.jpg" crc="76209620" ref="index"/>
-    <file name="ww-homepage-crop-u623751_2x.jpg" crc="516913871" ref="index"/>
-    <file name="ww-homepage417x365.jpg" crc="4184588949" seo="true" ref="index"/>
-    <file name="ww-homepage417x365_2x.jpg" crc="417049718" seo="true" ref="index"/>
-    <file name="ww-homepage384x335.jpg" crc="3987991545" seo="true" ref="index"/>
-    <file name="ww-homepage384x335_2x.jpg" crc="63499786" seo="true" ref="index"/>
-    <file name="ww-homepage329x288.jpg" crc="4002129273" seo="true" ref="index"/>
-    <file name="ww-homepage329x288_2x.jpg" crc="425307116" seo="true" ref="index"/>
-    <file name="ww-homepage301x263.jpg" crc="4106780947" seo="true" ref="index"/>
-    <file name="ww-homepage301x263_2x.jpg" crc="3944642683" seo="true" ref="index"/>
+    <file name="ww-homepage-crop-u623751.jpg" crc="178042630" ref="index"/>
+    <file name="ww-homepage-crop-u623751_2x.jpg" crc="371097938" ref="index"/>
+    <file name="ww-homepage384x335.jpg" crc="174597698" seo="true" ref="index"/>
+    <file name="ww-homepage384x335_2x.jpg" crc="3888583975" seo="true" ref="index"/>
+    <file name="ww-homepage329x288.jpg" crc="3797191182" seo="true" ref="index"/>
+    <file name="ww-homepage329x288_2x.jpg" crc="470545588" seo="true" ref="index"/>
+    <file name="ww-homepage301x263.jpg" crc="4245631233" seo="true" ref="index"/>
+    <file name="ww-homepage301x263_2x.jpg" crc="3791142564" seo="true" ref="index"/>
     <file name="ww-homepage-1-crop-u621936.jpg" crc="3780929357" ref="windowear"/>
     <file name="ww-homepage-1-crop-u621936_2x.jpg" crc="424801112" ref="windowear"/>
     <file name="ww-homepage-1-crop-u6219362.jpg" crc="162589012" ref="windowear"/>
@@ -895,24 +881,14 @@
     <file name="ww-homepage-1-crop-u621936_2x4.jpg" crc="4062631122" ref="windowear"/>
     <file name="ww-homepage-1-crop-u6219365.jpg" crc="3783996793" ref="windowear"/>
     <file name="ww-homepage-1-crop-u621936_2x5.jpg" crc="3940245430" ref="windowear"/>
-    <file name="homepage@2x-crop-u503687.jpg" crc="3827096783" ref="index"/>
-    <file name="homepage@2x-crop-u503687_2x.jpg" crc="4207196833" ref="index"/>
-    <file name="posters0@2x-crop-u510040.jpg" crc="123769527" ref="index"/>
-    <file name="posters0@2x-crop-u510040_2x.jpg" crc="3980298441" ref="index"/>
-    <file name="homepage@2x-crop-u5036872.jpg" crc="3821392221" ref="index"/>
-    <file name="homepage@2x-crop-u503687_2x2.jpg" crc="4094929925" ref="index"/>
+    <file name="posters0@2x-crop-u510040.jpg" crc="313921632" ref="index"/>
+    <file name="posters0@2x-crop-u510040_2x.jpg" crc="373558189" ref="index"/>
     <file name="posters0@2x-crop-u5100402.jpg" crc="3836143819" ref="index"/>
     <file name="posters0@2x-crop-u510040_2x2.jpg" crc="4033750621" ref="index"/>
-    <file name="homepage@2x-crop-u5036873.jpg" crc="3826670151" ref="index"/>
-    <file name="homepage@2x-crop-u503687_2x3.jpg" crc="146732651" ref="index"/>
     <file name="posters0@2x-crop-u5100403.jpg" crc="318547411" ref="index"/>
     <file name="posters0@2x-crop-u510040_2x3.jpg" crc="468525904" ref="index"/>
-    <file name="homepage@2x-crop-u5036874.jpg" crc="159026044" ref="index"/>
-    <file name="homepage@2x-crop-u503687_2x4.jpg" crc="470564400" ref="index"/>
     <file name="posters0@2x-crop-u5100404.jpg" crc="3788394047" ref="index"/>
     <file name="posters0@2x-crop-u510040_2x4.jpg" crc="179132461" ref="index"/>
-    <file name="homepage@2x-crop-u5036875.jpg" crc="3775579037" ref="index"/>
-    <file name="homepage@2x-crop-u503687_2x5.jpg" crc="96355658" ref="index"/>
     <file name="posters0@2x-crop-u5100405.jpg" crc="3774275755" ref="index"/>
     <file name="posters0@2x-crop-u510040_2x5.jpg" crc="239792946" ref="index"/>
     <file name="citibank-persona@2x899x683.jpg" crc="305071892" seo="true" ref="citi-mobile"/>
@@ -931,14 +907,60 @@
     <file name="ww-user-flow-fructions@2x721x275_2x.jpg" crc="392969601" seo="true" ref="windowear"/>
     <file name="ww-user-flow-fructions@2x540x206.jpg" crc="261355940" seo="true" ref="windowear"/>
     <file name="ww-user-flow-fructions@2x540x206_2x.jpg" crc="3973733578" seo="true" ref="windowear"/>
-    <file name="ww-user-flow-fructions@2x-crop-u622599.jpg" crc="430030850" ref="windowear"/>
-    <file name="ww-user-flow-fructions@2x-crop-u622599_2x.jpg" crc="3865392379" ref="windowear"/>
+    <file name="ww-user-flow-fructions@2x-crop-u622599.jpg" crc="4277686204" ref="windowear"/>
+    <file name="ww-user-flow-fructions@2x-crop-u622599_2x.jpg" crc="154834641" ref="windowear"/>
+    <file name="getpet-homepage@2x588x320.png" crc="3825799150" seo="true" ref="index"/>
+    <file name="getpet-homepage@2x588x320_2x.png" crc="468351389" seo="true" ref="index"/>
+    <file name="twitter-1.svg" crc="254890639" ref="index"/>
+    <file name="twitter-1_poster_u659824.png" crc="4276885610" ref="index"/>
+    <file name="ww-homepage-crop-u6237512.jpg" crc="103401570" ref="index"/>
+    <file name="ww-homepage-crop-u623751_2x2.jpg" crc="414634405" ref="index"/>
+    <file name="getpet-home-desktop@2x.jpg" crc="4190334757" seo="true" ref="getpet"/>
+    <file name="getpet-home-desktop@2x_2x.jpg" crc="3840065835" seo="true" ref="getpet"/>
+    <file name="getpet-favorite@2x.jpg" crc="74840319" seo="true" ref="getpet"/>
+    <file name="getpet-favorite@2x_2x.jpg" crc="455493980" seo="true" ref="getpet"/>
+    <file name="getpet-search-results@2x.jpg" crc="133961401" seo="true" ref="getpet"/>
+    <file name="getpet-search-results@2x_2x.jpg" crc="109914386" seo="true" ref="getpet"/>
+    <file name="getpet-product@2x.jpg" crc="406266332" seo="true" ref="getpet"/>
+    <file name="getpet-product@2x_2x.jpg" crc="4184607975" seo="true" ref="getpet"/>
+    <file name="getpet-home-desktop@2x431x677.jpg" crc="250829861" seo="true" ref="getpet"/>
+    <file name="getpet-home-desktop@2x431x677_2x.jpg" crc="119933692" seo="true" ref="getpet"/>
+    <file name="getpet-favorite@2x430x390.jpg" crc="4120106778" seo="true" ref="getpet"/>
+    <file name="getpet-favorite@2x430x390_2x.jpg" crc="3795500262" seo="true" ref="getpet"/>
+    <file name="getpet-search-results@2x430x578.jpg" crc="375183220" seo="true" ref="getpet"/>
+    <file name="getpet-search-results@2x430x578_2x.jpg" crc="4257485774" seo="true" ref="getpet"/>
+    <file name="getpet-product@2x430x701.jpg" crc="216496850" seo="true" ref="getpet"/>
+    <file name="getpet-product@2x430x701_2x.jpg" crc="3776032389" seo="true" ref="getpet"/>
+    <file name="getpet-home-desktop@2x340x534.jpg" crc="4145189896" seo="true" ref="getpet"/>
+    <file name="getpet-home-desktop@2x340x534_2x.jpg" crc="3937597758" seo="true" ref="getpet"/>
+    <file name="getpet-favorite@2x340x308.jpg" crc="4269781925" seo="true" ref="getpet"/>
+    <file name="getpet-favorite@2x340x308_2x.jpg" crc="439265070" seo="true" ref="getpet"/>
+    <file name="getpet-search-results@2x340x457.jpg" crc="4270225253" seo="true" ref="getpet"/>
+    <file name="getpet-search-results@2x340x457_2x.jpg" crc="4188307532" seo="true" ref="getpet"/>
+    <file name="getpet-product@2x340x555.jpg" crc="4294842347" seo="true" ref="getpet"/>
+    <file name="getpet-product@2x340x555_2x.jpg" crc="4119043502" seo="true" ref="getpet"/>
+    <file name="getpet-home-desktop@2x250x393.jpg" crc="4105745468" seo="true" ref="getpet"/>
+    <file name="getpet-home-desktop@2x250x393_2x.jpg" crc="4142323482" seo="true" ref="getpet"/>
+    <file name="getpet-search-results@2x250x336.jpg" crc="252526380" seo="true" ref="getpet"/>
+    <file name="getpet-search-results@2x250x336_2x.jpg" crc="4238236546" seo="true" ref="getpet"/>
+    <file name="getpet-favorite@2x250x227.jpg" crc="98593214" seo="true" ref="getpet"/>
+    <file name="getpet-favorite@2x250x227_2x.jpg" crc="4057217324" seo="true" ref="getpet"/>
+    <file name="getpet-product@2x250x408.jpg" crc="326979767" seo="true" ref="getpet"/>
+    <file name="getpet-product@2x250x408_2x.jpg" crc="4176290543" seo="true" ref="getpet"/>
+    <file name="getpet-home-desktop@2x180x283.jpg" crc="4164958507" seo="true" ref="getpet"/>
+    <file name="getpet-home-desktop@2x180x283_2x.jpg" crc="4023868730" seo="true" ref="getpet"/>
+    <file name="getpet-search-results@2x180x242.jpg" crc="4087623742" seo="true" ref="getpet"/>
+    <file name="getpet-search-results@2x180x242_2x.jpg" crc="317032940" seo="true" ref="getpet"/>
+    <file name="getpet-favorite@2x180x164.jpg" crc="3883023008" seo="true" ref="getpet"/>
+    <file name="getpet-favorite@2x180x164_2x.jpg" crc="281117549" seo="true" ref="getpet"/>
+    <file name="getpet-product@2x180x294.jpg" crc="3820673302" seo="true" ref="getpet"/>
+    <file name="getpet-product@2x180x294_2x.jpg" crc="378667254" seo="true" ref="getpet"/>
   </folder>
-  <file name="index.html" crc="73391896" seo="true" mt="1510876121682" redirect="true"/>
-  <file name="about.html" crc="3884465009" seo="true" mt="1510824646701" redirect="true"/>
-  <file name="graphic.html" crc="3973541343" seo="true" mt="1510824646701" redirect="true"/>
-  <file name="zeit.html" crc="3758194887" seo="true" mt="1510873179393" redirect="true"/>
-  <file name="getpet.html" crc="243774307" seo="true" mt="1510873659257" redirect="true"/>
-  <file name="citi-mobile.html" crc="4154020770" seo="true" mt="1511059193050" redirect="true"/>
-  <file name="windowear.html" crc="3930687800" seo="true" mt="1511156229971" redirect="true"/>
+  <file name="index.html" crc="3763228487" seo="true" mt="1511594358262" redirect="true"/>
+  <file name="about.html" crc="382130209" seo="true" mt="1511594358262" redirect="true"/>
+  <file name="graphic.html" crc="415241722" seo="true" mt="1511594358262" redirect="true"/>
+  <file name="zeit.html" crc="3927140225" seo="true" mt="1511594358262" redirect="true"/>
+  <file name="getpet.html" crc="533649906" seo="true" mt="1511594358262" redirect="true"/>
+  <file name="citi-mobile.html" crc="3798302268" seo="true" mt="1511594358262" redirect="true"/>
+  <file name="windowear.html" crc="143025610" seo="true" mt="1511594358262" redirect="true"/>
 </manifest>
