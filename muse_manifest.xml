@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="bolshchikova.com" resolutions="1x,2x" timestamp="1513127631485">
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="bolshchikova.com" resolutions="1x,2x" timestamp="1513213693592">
   <folder name="css">
     <file name="site_global.css" crc="3781079441"/>
     <file name="master_b-master.css" crc="384993699" ref="index:about:graphic:zeit:getpet:citi-mobile:windowear"/>
@@ -26,7 +26,7 @@
     <file name="iefonts_windowear.css" crc="414609551" ref="windowear"/>
   </folder>
   <folder name="assets">
-    <file name="olga-bolshchikova-ux-designer-2017-dec.pdf" crc="170350551" seo="true" mt="1513124302000"/>
+    <file name="olga-bolshchikova-ux-designer-2017-dec.pdf" crc="4097889277" seo="true" mt="1513213496000"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about:graphic:zeit:getpet:citi-mobile:windowear"/>
