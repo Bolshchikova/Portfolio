@@ -1,25 +1,25 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="bolshchikova.com" resolutions="1x,2x" timestamp="1516002822333">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="bolshchikova.com" resolutions="1x,2x" timestamp="1516003670548">
   <folder name="css">
     <file name="site_global.css" crc="4281026069"/>
-    <file name="master_b-master.css" crc="312404433" ref="about:getpet:index:zeit:windowear:citi-mobile"/>
+    <file name="master_b-master.css" crc="4137098455" ref="about:getpet:index:zeit:windowear:citi-mobile"/>
     <file name="nomq_preview_master_b-master.css" crc="4206525683" ref="about:getpet:index:zeit:windowear:citi-mobile"/>
-    <file name="about.css" crc="40175469" ref="about"/>
-    <file name="nomq_about.css" crc="346586215" ref="about"/>
+    <file name="about.css" crc="505277196" ref="about"/>
+    <file name="nomq_about.css" crc="4188232" ref="about"/>
     <file name="iefonts_about.css" crc="414609551" ref="about"/>
-    <file name="getpet.css" crc="4083192523" ref="getpet"/>
-    <file name="nomq_getpet.css" crc="3889442077" ref="getpet"/>
+    <file name="getpet.css" crc="4222943303" ref="getpet"/>
+    <file name="nomq_getpet.css" crc="340050840" ref="getpet"/>
     <file name="iefonts_getpet.css" crc="414609551" ref="getpet"/>
-    <file name="index.css" crc="4170502044" ref="index"/>
-    <file name="nomq_index.css" crc="99953150" ref="index"/>
+    <file name="index.css" crc="3826806608" ref="index"/>
+    <file name="nomq_index.css" crc="113369106" ref="index"/>
     <file name="iefonts_index.css" crc="414609551" ref="index"/>
-    <file name="zeit.css" crc="264125664" ref="zeit"/>
-    <file name="nomq_zeit.css" crc="4031830097" ref="zeit"/>
+    <file name="zeit.css" crc="4288942562" ref="zeit"/>
+    <file name="nomq_zeit.css" crc="184254623" ref="zeit"/>
     <file name="iefonts_zeit.css" crc="414609551" ref="zeit"/>
-    <file name="windowear.css" crc="3966085953" ref="windowear"/>
-    <file name="nomq_windowear.css" crc="528251862" ref="windowear"/>
+    <file name="windowear.css" crc="3821186224" ref="windowear"/>
+    <file name="nomq_windowear.css" crc="3987912718" ref="windowear"/>
     <file name="iefonts_windowear.css" crc="414609551" ref="windowear"/>
-    <file name="citi-mobile.css" crc="3956968125" ref="citi-mobile"/>
-    <file name="nomq_citi-mobile.css" crc="440938029" ref="citi-mobile"/>
+    <file name="citi-mobile.css" crc="277145514" ref="citi-mobile"/>
+    <file name="nomq_citi-mobile.css" crc="4249024654" ref="citi-mobile"/>
     <file name="iefonts_citi-mobile.css" crc="414609551" ref="citi-mobile"/>
   </folder>
   <folder name="assets">
@@ -2297,10 +2297,10 @@
     <file name="u621934-45.png" crc="3955677169" ref="windowear"/>
     <file name="u621934-4_2x5.png" crc="78651148" ref="windowear"/>
   </folder>
-  <file name="index.html" crc="11198138" seo="true" mt="1516002629585" redirect="true"/>
-  <file name="about.html" crc="4040637585" seo="true" mt="1516002629585" redirect="true"/>
-  <file name="zeit.html" crc="334261970" seo="true" mt="1516002629585" redirect="true"/>
-  <file name="getpet.html" crc="4073499586" seo="true" mt="1516002629585" redirect="true"/>
-  <file name="citi-mobile.html" crc="371392142" seo="true" mt="1516002629585" redirect="true"/>
-  <file name="windowear.html" crc="88252305" seo="true" mt="1516002629585" redirect="true"/>
+  <file name="index.html" crc="379563904" seo="true" mt="1516003486304" redirect="true"/>
+  <file name="about.html" crc="3863512900" seo="true" mt="1516003486304" redirect="true"/>
+  <file name="zeit.html" crc="4075893122" seo="true" mt="1516003486304" redirect="true"/>
+  <file name="getpet.html" crc="4277810271" seo="true" mt="1516003486304" redirect="true"/>
+  <file name="citi-mobile.html" crc="3956607054" seo="true" mt="1516003486304" redirect="true"/>
+  <file name="windowear.html" crc="132758361" seo="true" mt="1516003486304" redirect="true"/>
 </manifest>
