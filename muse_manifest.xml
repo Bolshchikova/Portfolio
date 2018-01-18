@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="bolshchikova.com" resolutions="1x,2x" timestamp="1516255659921">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="bolshchikova.com" resolutions="1x,2x" timestamp="1516256269729">
   <folder name="css">
     <file name="site_global.css" crc="3931710868"/>
     <file name="master_b-master.css" crc="3999454067" ref="about:getpet:index:zeit:windowear:citi-mobile"/>
@@ -9,8 +9,8 @@
     <file name="getpet.css" crc="143388588" ref="getpet"/>
     <file name="nomq_getpet.css" crc="149488112" ref="getpet"/>
     <file name="iefonts_getpet.css" crc="3789757433" ref="getpet"/>
-    <file name="index.css" crc="983462" ref="index"/>
-    <file name="nomq_index.css" crc="184028241" ref="index"/>
+    <file name="index.css" crc="501571280" ref="index"/>
+    <file name="nomq_index.css" crc="4254380148" ref="index"/>
     <file name="iefonts_index.css" crc="3789757433" ref="index"/>
     <file name="zeit.css" crc="3951943470" ref="zeit"/>
     <file name="nomq_zeit.css" crc="325467133" ref="zeit"/>
@@ -87,7 +87,7 @@
     <file name="getpet-homepage@2x588x320_2x.png" crc="468351389" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="zeit-homepage@2x-crop-u509894.png" crc="55606699" seo="true" ref="index">
+    <file name="zeit-homepage@2x-crop-u509894.png" crc="4195399375" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="zeit-homepage@2x-crop-u509894_2x.png" crc="354433838" seo="true" ref="index">
@@ -2266,38 +2266,38 @@
     <file name="ww-homepage-1@2x-crop-u621936_2x5.jpg" crc="4196970915" seo="true" ref="windowear">
       <caption webpage="windowear" alt=""/>
     </file>
-    <file name="ww-homepage@2x.png" crc="4117625979" seo="true" ref="index">
+    <file name="ww-homepage@2x-crop-u714897.png" crc="21576783" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="ww-homepage@2x_2x.png" crc="404893312" seo="true" ref="index">
+    <file name="ww-homepage@2x-crop-u714897_2x.png" crc="162595544" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="ww-homepage@2x417x359.png" crc="84243727" seo="true" ref="index">
+    <file name="ww-homepage@2x-crop-u7148972.png" crc="3801073730" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="ww-homepage@2x417x359_2x.png" crc="4103843198" seo="true" ref="index">
+    <file name="ww-homepage@2x-crop-u714897_2x2.png" crc="4125604940" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="ww-homepage@2x326x280.png" crc="169558921" seo="true" ref="index">
+    <file name="ww-homepage@2x-crop-u7148973.png" crc="376123861" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="ww-homepage@2x326x280_2x.png" crc="4229599720" seo="true" ref="index">
+    <file name="ww-homepage@2x-crop-u714897_2x3.png" crc="431450008" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="ww-homepage@2x253x217.png" crc="285848289" seo="true" ref="index">
+    <file name="ww-homepage@2x-crop-u7148974.png" crc="88864937" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="ww-homepage@2x253x217_2x.png" crc="4242263464" seo="true" ref="index">
+    <file name="ww-homepage@2x-crop-u714897_2x4.png" crc="400222838" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="ww-homepage@2x173x149.png" crc="4102409306" seo="true" ref="index">
+    <file name="ww-homepage@2x-crop-u7148975.png" crc="4258523837" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="ww-homepage@2x173x149_2x.png" crc="3923168452" seo="true" ref="index">
+    <file name="ww-homepage@2x-crop-u714897_2x5.png" crc="3828364898" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4198694636" seo="true" mt="1516255639825" redirect="true"/>
+  <file name="index.html" crc="513505695" seo="true" mt="1516256232262" redirect="true"/>
   <file name="about.html" crc="4160714680" seo="true" mt="1516254505876" redirect="true"/>
   <file name="zeit.html" crc="200739930" seo="true" mt="1516254505876" redirect="true"/>
   <file name="getpet.html" crc="4195214629" seo="true" mt="1516254910885" redirect="true"/>
