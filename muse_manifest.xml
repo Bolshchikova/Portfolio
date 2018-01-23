@@ -1,15 +1,15 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="bolshchikova.com" resolutions="1x,2x" timestamp="1516730108988">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="bolshchikova.com" resolutions="1x,2x" timestamp="1516730966629">
   <folder name="css">
     <file name="site_global.css" crc="3995742382"/>
-    <file name="master_b-master.css" crc="3768951602" ref="about:getpet:index:zeit:windowear:citi-mobile"/>
-    <file name="nomq_preview_master_b-master.css" crc="4259634550" ref="about:getpet:index:zeit:windowear:citi-mobile"/>
+    <file name="master_b-master.css" crc="309497002" ref="about:getpet:index:zeit:windowear:citi-mobile"/>
+    <file name="nomq_preview_master_b-master.css" crc="338613514" ref="about:getpet:index:zeit:windowear:citi-mobile"/>
     <file name="about.css" crc="3586345" ref="about"/>
     <file name="nomq_about.css" crc="223963697" ref="about"/>
     <file name="iefonts_about.css" crc="457707385" ref="about"/>
     <file name="getpet.css" crc="496005747" ref="getpet"/>
     <file name="nomq_getpet.css" crc="4051297617" ref="getpet"/>
     <file name="iefonts_getpet.css" crc="457707385" ref="getpet"/>
-    <file name="index.css" crc="190794762" ref="index"/>
+    <file name="index.css" crc="4098090214" ref="index"/>
     <file name="nomq_index.css" crc="3891400506" ref="index"/>
     <file name="iefonts_index.css" crc="457707385" ref="index"/>
     <file name="zeit.css" crc="520855069" ref="zeit"/>
@@ -2294,7 +2294,7 @@
       <caption webpage="getpet" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4237765851" seo="true" mt="1516729929585" redirect="true"/>
+  <file name="index.html" crc="492025397" seo="true" mt="1516730936266" redirect="true"/>
   <file name="about.html" crc="271245792" seo="true" mt="1516689523067" redirect="true"/>
   <file name="zeit.html" crc="95083329" seo="true" mt="1516729887276" redirect="true"/>
   <file name="getpet.html" crc="506658104" seo="true" mt="1516729729209" redirect="true"/>
