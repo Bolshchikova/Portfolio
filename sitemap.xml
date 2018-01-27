@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://bolshchikova.com/index.html</loc>
-    <lastmod>2018-01-23</lastmod>
+    <lastmod>2018-01-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -131,7 +131,7 @@
   </url>
   <url>
     <loc>http://bolshchikova.com/zeit.html</loc>
-    <lastmod>2018-01-24</lastmod>
+    <lastmod>2018-01-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -581,7 +581,7 @@
   </url>
   <url>
     <loc>http://bolshchikova.com/about.html</loc>
-    <lastmod>2018-01-22</lastmod>
+    <lastmod>2018-01-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -692,7 +692,7 @@
   </url>
   <url>
     <loc>http://bolshchikova.com/citi-mobile.html</loc>
-    <lastmod>2018-01-24</lastmod>
+    <lastmod>2018-01-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1013,17 +1013,11 @@
   </url>
   <url>
     <loc>http://bolshchikova.com/getpet.html</loc>
-    <lastmod>2018-01-24</lastmod>
+    <lastmod>2018-01-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
       <image:loc>http://bolshchikova.com/images/log-olga.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://bolshchikova.com/images/getpet-homepage@2x506x275.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://bolshchikova.com/images/getpet-homepage@2x506x275_2x.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://bolshchikova.com/images/getpet-logo-03.svg</image:loc>
@@ -1613,7 +1607,7 @@
   </url>
   <url>
     <loc>http://bolshchikova.com/windowear.html</loc>
-    <lastmod>2018-01-24</lastmod>
+    <lastmod>2018-01-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
