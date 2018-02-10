@@ -705,12 +705,6 @@
       <image:loc>http://bolshchikova.com/images/citibank-logo_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://bolshchikova.com/images/citi-homepage-1-crop-u558318.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://bolshchikova.com/images/citi-homepage-1-crop-u558318_2x.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://bolshchikova.com/images/citibank-empathy-map@2x-crop-u558462.jpg</image:loc>
     </image:image>
     <image:image>
@@ -771,12 +765,6 @@
       <image:loc>http://bolshchikova.com/images/citibank-logo171x57_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://bolshchikova.com/images/citi-homepage-1-crop-u5583182.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://bolshchikova.com/images/citi-homepage-1-crop-u558318_2x2.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://bolshchikova.com/images/citibank-empathy-map@2x-crop-u5584622.jpg</image:loc>
     </image:image>
     <image:image>
@@ -817,12 +805,6 @@
     </image:image>
     <image:image>
       <image:loc>http://bolshchikova.com/images/citibank-logo134x45_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://bolshchikova.com/images/citi-homepage-1-crop-u5583183.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://bolshchikova.com/images/citi-homepage-1-crop-u558318_2x3.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://bolshchikova.com/images/citibank-empathy-map@2x-crop-u5584623.jpg</image:loc>
@@ -885,12 +867,6 @@
       <image:loc>http://bolshchikova.com/images/citibank-logo115x39_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://bolshchikova.com/images/citi-homepage-1-crop-u5583184.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://bolshchikova.com/images/citi-homepage-1-crop-u558318_2x4.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://bolshchikova.com/images/citibank-empathy-map@2x-crop-u5584624.jpg</image:loc>
     </image:image>
     <image:image>
@@ -943,12 +919,6 @@
     </image:image>
     <image:image>
       <image:loc>http://bolshchikova.com/images/citi-visual-design@2x540x641_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://bolshchikova.com/images/citi-homepage-1-crop-u5583185.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://bolshchikova.com/images/citi-homepage-1-crop-u558318_2x5.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://bolshchikova.com/images/citibank-empathy-map@2x-crop-u5584625.jpg</image:loc>
@@ -1009,6 +979,36 @@
     </image:image>
     <image:image>
       <image:loc>http://bolshchikova.com/images/citibank-logo113x38_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bolshchikova.com/images/citi-homepage1@2x-crop-u558318.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bolshchikova.com/images/citi-homepage1@2x-crop-u558318_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bolshchikova.com/images/citi-homepage1@2x-crop-u5583182.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bolshchikova.com/images/citi-homepage1@2x-crop-u558318_2x2.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bolshchikova.com/images/citi-homepage1@2x-crop-u5583183.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bolshchikova.com/images/citi-homepage1@2x-crop-u558318_2x3.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bolshchikova.com/images/citi-homepage1@2x-crop-u5583184.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bolshchikova.com/images/citi-homepage1@2x-crop-u558318_2x4.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bolshchikova.com/images/citi-homepage1@2x-crop-u5583185.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bolshchikova.com/images/citi-homepage1@2x-crop-u558318_2x5.png</image:loc>
     </image:image>
   </url>
   <url>
