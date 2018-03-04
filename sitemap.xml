@@ -735,12 +735,6 @@
       <image:loc>http://bolshchikova.com/images/citibank-task-flow@2x-crop-u558541_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://bolshchikova.com/images/citi-sketches.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://bolshchikova.com/images/citi-sketches_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://bolshchikova.com/images/citibank-affinity-map@2x-crop-u558584.jpg</image:loc>
     </image:image>
     <image:image>
@@ -837,12 +831,6 @@
       <image:loc>http://bolshchikova.com/images/citibank-task-flow@2x-crop-u558541_2x3.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://bolshchikova.com/images/citi-sketches720x284.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://bolshchikova.com/images/citi-sketches720x284_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://bolshchikova.com/images/citibank-affinity-map@2x-crop-u5585843.jpg</image:loc>
     </image:image>
     <image:image>
@@ -897,12 +885,6 @@
       <image:loc>http://bolshchikova.com/images/citibank-task-flow@2x-crop-u558541_2x4.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://bolshchikova.com/images/citi-sketches541x213.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://bolshchikova.com/images/citi-sketches541x213_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://bolshchikova.com/images/citibank-affinity-map@2x-crop-u5585844.jpg</image:loc>
     </image:image>
     <image:image>
@@ -949,12 +931,6 @@
     </image:image>
     <image:image>
       <image:loc>http://bolshchikova.com/images/citibank-task-flow@2x-crop-u558541_2x5.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://bolshchikova.com/images/citi-sketches385x152.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://bolshchikova.com/images/citi-sketches385x152_2x.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://bolshchikova.com/images/citibank-affinity-map@2x-crop-u5585845.jpg</image:loc>
@@ -1009,6 +985,36 @@
     </image:image>
     <image:image>
       <image:loc>http://bolshchikova.com/images/citi-homepage1@2x-crop-u558318_2x5.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bolshchikova.com/images/citi-sketches@2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bolshchikova.com/images/citi-sketches@2x_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bolshchikova.com/images/citi-sketches@2x900x370.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bolshchikova.com/images/citi-sketches@2x900x370_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bolshchikova.com/images/citi-sketches@2x719x296.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bolshchikova.com/images/citi-sketches@2x719x296_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bolshchikova.com/images/citi-sketches@2x541x223.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bolshchikova.com/images/citi-sketches@2x541x223_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bolshchikova.com/images/citi-sketches@2x385x159.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bolshchikova.com/images/citi-sketches@2x385x159_2x.jpg</image:loc>
     </image:image>
   </url>
   <url>
