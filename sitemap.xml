@@ -1019,11 +1019,17 @@
   </url>
   <url>
     <loc>http://bolshchikova.com/getpet.html</loc>
-    <lastmod>2018-03-03</lastmod>
+    <lastmod>2018-03-04</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
       <image:loc>http://bolshchikova.com/images/log-olga.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bolshchikova.com/images/getpet-homepage@2x506x275.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bolshchikova.com/images/getpet-homepage@2x506x275_2x.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://bolshchikova.com/images/getpet-logo-03.svg</image:loc>
@@ -1087,12 +1093,6 @@
     </image:image>
     <image:image>
       <image:loc>http://bolshchikova.com/images/getpet-product@2x-crop-u658088_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://bolshchikova.com/images/getpet-affinity-map@2x.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://bolshchikova.com/images/getpet-affinity-map@2x_2x.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://bolshchikova.com/images/getpet%20logo-1-03.jpg</image:loc>
@@ -1317,12 +1317,6 @@
       <image:loc>http://bolshchikova.com/images/getpet-product@2x-crop-u658088_2x3.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://bolshchikova.com/images/getpet-affinity-map@2x720x478.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://bolshchikova.com/images/getpet-affinity-map@2x720x478_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://bolshchikova.com/images/getpet%20logo-1-03624x82.jpg</image:loc>
     </image:image>
     <image:image>
@@ -1429,12 +1423,6 @@
     </image:image>
     <image:image>
       <image:loc>http://bolshchikova.com/images/getpet-product@2x-crop-u658088_2x4.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://bolshchikova.com/images/getpet-affinity-map@2x540x359.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://bolshchikova.com/images/getpet-affinity-map@2x540x359_2x.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://bolshchikova.com/images/getpet%20logo-1-03544x72.jpg</image:loc>
@@ -1551,12 +1539,6 @@
       <image:loc>http://bolshchikova.com/images/getpet-product@2x-crop-u658088_2x5.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://bolshchikova.com/images/getpet-affinity-map@2x385x256.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://bolshchikova.com/images/getpet-affinity-map@2x385x256_2x.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://bolshchikova.com/images/getpet%20logo-1-03385x51.jpg</image:loc>
     </image:image>
     <image:image>
@@ -1609,6 +1591,36 @@
     </image:image>
     <image:image>
       <image:loc>http://bolshchikova.com/images/getpet%20logo-2-03152x63_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bolshchikova.com/images/getpet-affinity-map@2x-crop-u546552.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bolshchikova.com/images/getpet-affinity-map@2x-crop-u546552_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bolshchikova.com/images/getpet-affinity-map@2x-crop-u5465522.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bolshchikova.com/images/getpet-affinity-map@2x-crop-u546552_2x2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bolshchikova.com/images/getpet-affinity-map@2x-crop-u5465523.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bolshchikova.com/images/getpet-affinity-map@2x-crop-u546552_2x3.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bolshchikova.com/images/getpet-affinity-map@2x-crop-u5465524.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bolshchikova.com/images/getpet-affinity-map@2x-crop-u546552_2x4.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bolshchikova.com/images/getpet-affinity-map@2x-crop-u5465525.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bolshchikova.com/images/getpet-affinity-map@2x-crop-u546552_2x5.jpg</image:loc>
     </image:image>
   </url>
   <url>
