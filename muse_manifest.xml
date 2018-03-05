@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="bolshchikova.com" resolutions="1x,2x" timestamp="1520197617677">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="bolshchikova.com" resolutions="1x,2x" timestamp="1520232462111">
   <folder name="css">
     <file name="site_global.css" crc="3995742382"/>
-    <file name="master_b-master.css" crc="4100104840" ref="about:getpet:index:zeit:windowear:citi-mobile"/>
-    <file name="nomq_preview_master_b-master.css" crc="186770443" ref="about:getpet:index:zeit:windowear:citi-mobile"/>
+    <file name="master_b-master.css" crc="3853323321" ref="about:getpet:index:zeit:windowear:citi-mobile"/>
+    <file name="nomq_preview_master_b-master.css" crc="3988541077" ref="about:getpet:index:zeit:windowear:citi-mobile"/>
     <file name="about.css" crc="199032378" ref="about"/>
     <file name="nomq_about.css" crc="3966409859" ref="about"/>
     <file name="iefonts_about.css" crc="457707385" ref="about"/>
@@ -15,11 +15,11 @@
     <file name="zeit.css" crc="4098810524" ref="zeit"/>
     <file name="nomq_zeit.css" crc="3981531981" ref="zeit"/>
     <file name="iefonts_zeit.css" crc="457707385" ref="zeit"/>
-    <file name="windowear.css" crc="4156223994" ref="windowear"/>
-    <file name="nomq_windowear.css" crc="4288757686" ref="windowear"/>
+    <file name="windowear.css" crc="3895796126" ref="windowear"/>
+    <file name="nomq_windowear.css" crc="4268593120" ref="windowear"/>
     <file name="iefonts_windowear.css" crc="457707385" ref="windowear"/>
-    <file name="citi-mobile.css" crc="4179398636" ref="citi-mobile"/>
-    <file name="nomq_citi-mobile.css" crc="139130666" ref="citi-mobile"/>
+    <file name="citi-mobile.css" crc="4198509266" ref="citi-mobile"/>
+    <file name="nomq_citi-mobile.css" crc="3781105724" ref="citi-mobile"/>
     <file name="iefonts_citi-mobile.css" crc="457707385" ref="citi-mobile"/>
   </folder>
   <folder name="assets">
@@ -32,7 +32,7 @@
     <file name="museconfig.js" crc="380897831" ref="index:about:zeit:getpet:citi-mobile:windowear"/>
     <file name="jquery.musemenu.js" crc="3784699396" ref="index:about:zeit:getpet:citi-mobile:windowear"/>
     <file name="jquery.watch.js" crc="99325471" ref="index:about:zeit:getpet:citi-mobile:windowear"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index:windowear:getpet:about"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index:getpet:about:citi-mobile"/>
     <file name="webpro.js" crc="242022427" ref="index:about:zeit:getpet:citi-mobile:windowear"/>
     <file name="musewpdisclosure.js" crc="119288625" ref="index:about:zeit:getpet:citi-mobile:windowear"/>
     <file name="html5shiv.js" crc="4241844378" ref="index:about:zeit:getpet:citi-mobile:windowear"/>
@@ -40,7 +40,7 @@
     <file name="require.js" crc="4157109226" ref="index:about:zeit:getpet:citi-mobile:windowear"/>
   </folder>
   <folder name="images">
-    <file name="favicon.ico" crc="3973083464" ref="index:windowear:getpet:about"/>
+    <file name="favicon.ico" crc="3973083464" ref="index:getpet:about:citi-mobile"/>
     <file name="blank.gif" crc="4208392903" ref="index:about:zeit:getpet:citi-mobile:windowear"/>
     <file name="log-olga.svg" crc="4064784824" seo="true" ref="index:about:zeit:getpet:citi-mobile:windowear">
       <caption webpage="index" alt=""/>
@@ -53,28 +53,28 @@
       <caption webpage="zeit" alt=""/>
       <caption webpage="zeit" alt=""/>
       <caption webpage="zeit" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="citi-mobile" alt=""/>
-      <caption webpage="citi-mobile" alt=""/>
-      <caption webpage="citi-mobile" alt=""/>
-      <caption webpage="citi-mobile" alt=""/>
-      <caption webpage="citi-mobile" alt=""/>
       <caption webpage="windowear" alt=""/>
       <caption webpage="windowear" alt=""/>
       <caption webpage="windowear" alt=""/>
       <caption webpage="windowear" alt=""/>
       <caption webpage="windowear" alt=""/>
+      <caption webpage="citi-mobile" alt=""/>
+      <caption webpage="citi-mobile" alt=""/>
+      <caption webpage="citi-mobile" alt=""/>
+      <caption webpage="citi-mobile" alt=""/>
+      <caption webpage="citi-mobile" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
       <caption webpage="getpet" alt=""/>
       <caption webpage="getpet" alt=""/>
       <caption webpage="getpet" alt=""/>
       <caption webpage="getpet" alt=""/>
       <caption webpage="getpet" alt=""/>
     </file>
-    <file name="log-olga_poster_.png" crc="367087102" ref="index:windowear:getpet:about"/>
+    <file name="log-olga_poster_.png" crc="367087102" ref="index:getpet:about:citi-mobile"/>
     <file name="citi-homepage@2x-crop-u564575.png" crc="4002967844" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -93,16 +93,16 @@
     <file name="zeit-homepage@2x-crop-u509894_2x.png" crc="354433838" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="email-1.svg" crc="4100113511" ref="index:windowear:getpet:about"/>
-    <file name="email-1_poster_u322117.png" crc="3909256717" ref="index:windowear:getpet:about"/>
-    <file name="linkedin-1.svg" crc="4075482461" ref="index:windowear:getpet:about"/>
-    <file name="linkedin-1_poster_u322125.png" crc="81371700" ref="index:windowear:getpet:about"/>
-    <file name="facebook-1.svg" crc="532332797" ref="index:windowear:getpet:about"/>
-    <file name="facebook-1_poster_u322133.png" crc="3869347577" ref="index:windowear:getpet:about"/>
-    <file name="twitter-1.svg" crc="3987562197" ref="index:windowear:getpet:about"/>
-    <file name="twitter-1_poster_u687961.png" crc="432385642" ref="index:windowear:getpet:about"/>
-    <file name="dribbble-1.svg" crc="3903799572" ref="index:windowear:getpet:about"/>
-    <file name="dribbble-1_poster_u687969.png" crc="22000768" ref="index:windowear:getpet:about"/>
+    <file name="email-1.svg" crc="4100113511" ref="index:getpet:about:citi-mobile"/>
+    <file name="email-1_poster_u322117.png" crc="3909256717" ref="index:getpet:about:citi-mobile"/>
+    <file name="linkedin-1.svg" crc="4075482461" ref="index:getpet:about:citi-mobile"/>
+    <file name="linkedin-1_poster_u322125.png" crc="81371700" ref="index:getpet:about:citi-mobile"/>
+    <file name="facebook-1.svg" crc="532332797" ref="index:getpet:about:citi-mobile"/>
+    <file name="facebook-1_poster_u322133.png" crc="3869347577" ref="index:getpet:about:citi-mobile"/>
+    <file name="twitter-1.svg" crc="3987562197" ref="index:getpet:about:citi-mobile"/>
+    <file name="twitter-1_poster_u687961.png" crc="432385642" ref="index:getpet:about:citi-mobile"/>
+    <file name="dribbble-1.svg" crc="3903799572" ref="index:getpet:about:citi-mobile"/>
+    <file name="dribbble-1_poster_u687969.png" crc="22000768" ref="index:getpet:about:citi-mobile"/>
     <file name="citi-homepage@2x-crop-u5645752.png" crc="4258472235" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -141,17 +141,17 @@
     <file name="zeit-homepage@2x-crop-u509894_2x3.png" crc="72006411" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="mobile-menu.jpg" crc="3954470239" ref="index:windowear:getpet:about">
+    <file name="mobile-menu.jpg" crc="3954470239" ref="index:getpet:about:citi-mobile">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="zeit" alt=""/>
       <caption webpage="zeit" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="citi-mobile" alt=""/>
-      <caption webpage="citi-mobile" alt=""/>
       <caption webpage="windowear" alt=""/>
       <caption webpage="windowear" alt=""/>
+      <caption webpage="citi-mobile" alt=""/>
+      <caption webpage="citi-mobile" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
       <caption webpage="getpet" alt=""/>
       <caption webpage="getpet" alt=""/>
     </file>
@@ -173,12 +173,12 @@
     <file name="zeit-homepage@2x-crop-u509894_2x4.png" crc="481419467" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="mobile-menu-550.jpg" crc="3782482782" ref="index:windowear:getpet:about">
+    <file name="mobile-menu-550.jpg" crc="3782482782" ref="index:getpet:about:citi-mobile">
       <caption webpage="index" alt=""/>
       <caption webpage="zeit" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="citi-mobile" alt=""/>
       <caption webpage="windowear" alt=""/>
+      <caption webpage="citi-mobile" alt=""/>
+      <caption webpage="about" alt=""/>
       <caption webpage="getpet" alt=""/>
     </file>
     <file name="citi-homepage@2x-crop-u5645755.png" crc="112425253" seo="true" ref="index">
@@ -1313,10 +1313,10 @@
     <file name="u556270-4_2x.png" crc="4124719906" ref="citi-mobile"/>
     <file name="u558399-4.png" crc="280098912" ref="citi-mobile"/>
     <file name="u558399-4_2x.png" crc="4124719906" ref="citi-mobile"/>
-    <file name="citibank-empathy-map@2x-crop-u558462.jpg" crc="4184149111" seo="true" ref="citi-mobile">
+    <file name="citibank-empathy-map@2x-crop-u558462.jpg" crc="3983904863" seo="true" ref="citi-mobile">
       <caption webpage="citi-mobile" alt=""/>
     </file>
-    <file name="citibank-empathy-map@2x-crop-u558462_2x.jpg" crc="3847843489" seo="true" ref="citi-mobile">
+    <file name="citibank-empathy-map@2x-crop-u558462_2x.jpg" crc="173474531" seo="true" ref="citi-mobile">
       <caption webpage="citi-mobile" alt=""/>
     </file>
     <file name="citibank-persona@2x-crop-u558487.jpg" crc="3941931568" seo="true" ref="citi-mobile">
@@ -1345,10 +1345,10 @@
     <file name="citibank-task-flow@2x-crop-u558541_2x.jpg" crc="4133347012" seo="true" ref="citi-mobile">
       <caption webpage="citi-mobile" alt=""/>
     </file>
-    <file name="citibank-affinity-map@2x-crop-u558584.jpg" crc="469190623" seo="true" ref="citi-mobile">
+    <file name="citibank-affinity-map@2x-crop-u558584.jpg" crc="4149703089" seo="true" ref="citi-mobile">
       <caption webpage="citi-mobile" alt=""/>
     </file>
-    <file name="citibank-affinity-map@2x-crop-u558584_2x.jpg" crc="448409606" seo="true" ref="citi-mobile">
+    <file name="citibank-affinity-map@2x-crop-u558584_2x.jpg" crc="507004061" seo="true" ref="citi-mobile">
       <caption webpage="citi-mobile" alt=""/>
     </file>
     <file name="citi-ui-kit@2x-crop-u558602.jpg" crc="3824171708" seo="true" ref="citi-mobile">
@@ -1383,10 +1383,10 @@
     <file name="u556270-4_2x2.png" crc="306711575" ref="citi-mobile"/>
     <file name="u558399-42.png" crc="3955677169" ref="citi-mobile"/>
     <file name="u558399-4_2x2.png" crc="306711575" ref="citi-mobile"/>
-    <file name="citibank-empathy-map@2x-crop-u5584622.jpg" crc="3933299664" seo="true" ref="citi-mobile">
+    <file name="citibank-empathy-map@2x-crop-u5584622.jpg" crc="4205466084" seo="true" ref="citi-mobile">
       <caption webpage="citi-mobile" alt=""/>
     </file>
-    <file name="citibank-empathy-map@2x-crop-u558462_2x2.jpg" crc="4220423435" seo="true" ref="citi-mobile">
+    <file name="citibank-empathy-map@2x-crop-u558462_2x2.jpg" crc="97668405" seo="true" ref="citi-mobile">
       <caption webpage="citi-mobile" alt=""/>
     </file>
     <file name="citibank-persona@2x-crop-u5584872.jpg" crc="113660732" seo="true" ref="citi-mobile">
@@ -1407,10 +1407,10 @@
     <file name="citibank-task-flow@2x-crop-u558541_2x2.jpg" crc="4133347012" seo="true" ref="citi-mobile">
       <caption webpage="citi-mobile" alt=""/>
     </file>
-    <file name="citibank-affinity-map@2x-crop-u5585842.jpg" crc="469190623" seo="true" ref="citi-mobile">
+    <file name="citibank-affinity-map@2x-crop-u5585842.jpg" crc="4149703089" seo="true" ref="citi-mobile">
       <caption webpage="citi-mobile" alt=""/>
     </file>
-    <file name="citibank-affinity-map@2x-crop-u558584_2x2.jpg" crc="3922164087" seo="true" ref="citi-mobile">
+    <file name="citibank-affinity-map@2x-crop-u558584_2x2.jpg" crc="3882357387" seo="true" ref="citi-mobile">
       <caption webpage="citi-mobile" alt=""/>
     </file>
     <file name="citi-ui-kit@2x-crop-u5586022.jpg" crc="4019633422" seo="true" ref="citi-mobile">
@@ -1437,10 +1437,10 @@
     <file name="u556270-4_2x3.png" crc="78651148" ref="citi-mobile"/>
     <file name="u558399-43.png" crc="157318091" ref="citi-mobile"/>
     <file name="u558399-4_2x3.png" crc="78651148" ref="citi-mobile"/>
-    <file name="citibank-empathy-map@2x-crop-u5584623.jpg" crc="3811623186" seo="true" ref="citi-mobile">
+    <file name="citibank-empathy-map@2x-crop-u5584623.jpg" crc="3817662766" seo="true" ref="citi-mobile">
       <caption webpage="citi-mobile" alt=""/>
     </file>
-    <file name="citibank-empathy-map@2x-crop-u558462_2x3.jpg" crc="4027818027" seo="true" ref="citi-mobile">
+    <file name="citibank-empathy-map@2x-crop-u558462_2x3.jpg" crc="3919521041" seo="true" ref="citi-mobile">
       <caption webpage="citi-mobile" alt=""/>
     </file>
     <file name="citibank-persona@2x-crop-u5584873.jpg" crc="4000743628" seo="true" ref="citi-mobile">
@@ -1467,10 +1467,10 @@
     <file name="citibank-task-flow@2x-crop-u558541_2x3.jpg" crc="186811521" seo="true" ref="citi-mobile">
       <caption webpage="citi-mobile" alt=""/>
     </file>
-    <file name="citibank-affinity-map@2x-crop-u5585843.jpg" crc="357261403" seo="true" ref="citi-mobile">
+    <file name="citibank-affinity-map@2x-crop-u5585843.jpg" crc="3999941744" seo="true" ref="citi-mobile">
       <caption webpage="citi-mobile" alt=""/>
     </file>
-    <file name="citibank-affinity-map@2x-crop-u558584_2x3.jpg" crc="3877886586" seo="true" ref="citi-mobile">
+    <file name="citibank-affinity-map@2x-crop-u558584_2x3.jpg" crc="4259261872" seo="true" ref="citi-mobile">
       <caption webpage="citi-mobile" alt=""/>
     </file>
     <file name="citi-ui-kit@2x-crop-u5586023.jpg" crc="4065607359" seo="true" ref="citi-mobile">
@@ -1503,10 +1503,10 @@
     <file name="u556270-4_2x4.png" crc="78651148" ref="citi-mobile"/>
     <file name="u558399-44.png" crc="110128136" ref="citi-mobile"/>
     <file name="u558399-4_2x4.png" crc="78651148" ref="citi-mobile"/>
-    <file name="citibank-empathy-map@2x-crop-u5584624.jpg" crc="60038350" seo="true" ref="citi-mobile">
+    <file name="citibank-empathy-map@2x-crop-u5584624.jpg" crc="341216254" seo="true" ref="citi-mobile">
       <caption webpage="citi-mobile" alt=""/>
     </file>
-    <file name="citibank-empathy-map@2x-crop-u558462_2x4.jpg" crc="339834347" seo="true" ref="citi-mobile">
+    <file name="citibank-empathy-map@2x-crop-u558462_2x4.jpg" crc="332579497" seo="true" ref="citi-mobile">
       <caption webpage="citi-mobile" alt=""/>
     </file>
     <file name="citibank-persona@2x-crop-u5584874.jpg" crc="4213145133" seo="true" ref="citi-mobile">
@@ -1533,10 +1533,10 @@
     <file name="citibank-task-flow@2x-crop-u558541_2x4.jpg" crc="311610148" seo="true" ref="citi-mobile">
       <caption webpage="citi-mobile" alt=""/>
     </file>
-    <file name="citibank-affinity-map@2x-crop-u5585844.jpg" crc="293770987" seo="true" ref="citi-mobile">
+    <file name="citibank-affinity-map@2x-crop-u5585844.jpg" crc="193354847" seo="true" ref="citi-mobile">
       <caption webpage="citi-mobile" alt=""/>
     </file>
-    <file name="citibank-affinity-map@2x-crop-u558584_2x4.jpg" crc="4019775692" seo="true" ref="citi-mobile">
+    <file name="citibank-affinity-map@2x-crop-u558584_2x4.jpg" crc="3871944772" seo="true" ref="citi-mobile">
       <caption webpage="citi-mobile" alt=""/>
     </file>
     <file name="citi-ui-kit@2x-crop-u5586024.jpg" crc="217380384" seo="true" ref="citi-mobile">
@@ -1563,10 +1563,10 @@
     <file name="u556270-4_2x5.png" crc="78651148" ref="citi-mobile"/>
     <file name="u558399-45.png" crc="3955677169" ref="citi-mobile"/>
     <file name="u558399-4_2x5.png" crc="78651148" ref="citi-mobile"/>
-    <file name="citibank-empathy-map@2x-crop-u5584625.jpg" crc="38209537" seo="true" ref="citi-mobile">
+    <file name="citibank-empathy-map@2x-crop-u5584625.jpg" crc="66787840" seo="true" ref="citi-mobile">
       <caption webpage="citi-mobile" alt=""/>
     </file>
-    <file name="citibank-empathy-map@2x-crop-u558462_2x5.jpg" crc="323644771" seo="true" ref="citi-mobile">
+    <file name="citibank-empathy-map@2x-crop-u558462_2x5.jpg" crc="2223158" seo="true" ref="citi-mobile">
       <caption webpage="citi-mobile" alt=""/>
     </file>
     <file name="citibank-persona@2x-crop-u5584875.jpg" crc="3922202815" seo="true" ref="citi-mobile">
@@ -1593,10 +1593,10 @@
     <file name="citibank-task-flow@2x-crop-u558541_2x5.jpg" crc="4200794338" seo="true" ref="citi-mobile">
       <caption webpage="citi-mobile" alt=""/>
     </file>
-    <file name="citibank-affinity-map@2x-crop-u5585845.jpg" crc="357058438" seo="true" ref="citi-mobile">
+    <file name="citibank-affinity-map@2x-crop-u5585845.jpg" crc="3841594323" seo="true" ref="citi-mobile">
       <caption webpage="citi-mobile" alt=""/>
     </file>
-    <file name="citibank-affinity-map@2x-crop-u558584_2x5.jpg" crc="4139573837" seo="true" ref="citi-mobile">
+    <file name="citibank-affinity-map@2x-crop-u558584_2x5.jpg" crc="200036491" seo="true" ref="citi-mobile">
       <caption webpage="citi-mobile" alt=""/>
     </file>
     <file name="citi-ui-kit@2x-crop-u5586025.jpg" crc="526375547" seo="true" ref="citi-mobile">
@@ -2003,7 +2003,7 @@
     <file name="ww-user-flow-fructions@2x-crop-u622599_2x5.jpg" crc="359031294" seo="true" ref="windowear">
       <caption webpage="windowear" alt=""/>
     </file>
-    <file name="ww-ui-kit@2x-crop-u6226895.jpg" crc="4247655520" seo="true" ref="windowear">
+    <file name="ww-ui-kit@2x-crop-u6226895.jpg" crc="153000615" seo="true" ref="windowear">
       <caption webpage="windowear" alt=""/>
     </file>
     <file name="ww-ui-kit@2x-crop-u622689_2x5.jpg" crc="3941365335" seo="true" ref="windowear">
@@ -2330,6 +2330,6 @@
   <file name="about.html" crc="3759272418" seo="true" mt="1520197588964" redirect="true"/>
   <file name="zeit.html" crc="3964511514" seo="true" mt="1520147457753" redirect="true"/>
   <file name="getpet.html" crc="3940890021" seo="true" mt="1520196182619" redirect="true"/>
-  <file name="citi-mobile.html" crc="3795527121" seo="true" mt="1520147476767" redirect="true"/>
-  <file name="windowear.html" crc="4103326598" seo="true" mt="1520152194392" redirect="true"/>
+  <file name="citi-mobile.html" crc="153091169" seo="true" mt="1520221475819" redirect="true"/>
+  <file name="windowear.html" crc="469366278" seo="true" mt="1520230892474" redirect="true"/>
 </manifest>
