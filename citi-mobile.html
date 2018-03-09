@@ -11,20 +11,20 @@
 document.documentElement.className = document.documentElement.className.replace(/\bnojs\b/g, 'js');
 
 // Check that all required assets are uploaded and up-to-date
-if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["museutils.js", "museconfig.js", "jquery.watch.js", "jquery.musemenu.js", "jquery.musepolyfill.bgsize.js", "webpro.js", "musewpdisclosure.js", "jquery.museresponsive.js", "require.js", "citi-mobile.css"], "outOfDate":[]};
+if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["museutils.js", "museconfig.js", "jquery.musemenu.js", "jquery.watch.js", "webpro.js", "musewpdisclosure.js", "jquery.museresponsive.js", "require.js", "citi-mobile.css"], "outOfDate":[]};
 </script>
   
   <link rel="shortcut icon" href="images/favicon.ico?crc=3973083464"/>
   <title>Citi Mobile</title>
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=3995742382"/>
-  <link rel="stylesheet" type="text/css" href="css/master_b-master.css?crc=3853323321"/>
-  <link rel="stylesheet" type="text/css" href="css/citi-mobile.css?crc=4198509266" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/master_b-master.css?crc=4184163828"/>
+  <link rel="stylesheet" type="text/css" href="css/citi-mobile.css?crc=3908173822" id="pagesheet"/>
   <!-- IE-only CSS -->
   <!--[if lt IE 9]>
   <link rel="stylesheet" type="text/css" href="css/iefonts_citi-mobile.css?crc=457707385"/>
-  <link rel="stylesheet" type="text/css" href="css/nomq_preview_master_b-master.css?crc=3988541077"/>
-  <link rel="stylesheet" type="text/css" href="css/nomq_citi-mobile.css?crc=3781105724" id="nomq_pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/nomq_preview_master_b-master.css?crc=237527616"/>
+  <link rel="stylesheet" type="text/css" href="css/nomq_citi-mobile.css?crc=4114376843" id="nomq_pagesheet"/>
   <![endif]-->
   <!-- Other scripts -->
   <script type="text/javascript">
@@ -267,7 +267,7 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
     </div>
     <div class="clearfix grpelem" id="pu151888"><!-- group -->
      <div class="browser_width shared_content" id="u151888-bw" data-content-guid="u151888-bw_content">
-      <div class="shadow" id="u151888"><!-- simple frame --></div>
+      <div id="u151888"><!-- simple frame --></div>
      </div>
      <nav class="MenuBar clearfix" id="menuu154183"><!-- horizontal box -->
       <div class="MenuItemContainer clearfix grpelem" id="u154198"><!-- vertical box -->
@@ -292,16 +292,16 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
       <a class="nonblock nontext anim_swing clearfix grpelem" id="u556298-4" href="citi-mobile.html#home" data-sizePolicy="fluidWidth" data-pintopage="page_fixedCenter"><!-- content --><p class="Body" id="u556298-2">Back to top</p></a>
      </div>
      <div class="browser_width colelem" id="u151611-bw">
-      <div class="rgba-background" id="u151611"><!-- group -->
+      <div id="u151611"><!-- group -->
        <div class="clearfix" id="u151611_align_to_page">
         <div class="clearfix grpelem" id="u154602-4" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"><!-- content -->
          <p id="u154602-2" class="shared_content" data-content-guid="u154602-2_content">© 2017 • Olga Bolshchikova</p>
         </div>
-        <a class="nonblock nontext transition museBGSize grpelem" id="u154605" href="mailto:olga.bolshchikova@gmail.com" target="_blank" data-sizePolicy="fixed" data-pintopage="page_fixedRight"><!-- simple frame --></a>
-        <a class="nonblock nontext transition museBGSize grpelem" id="u154604" href="https://www.linkedin.com/in/olgabolshchikova" target="_blank" data-sizePolicy="fixed" data-pintopage="page_fixedRight"><!-- simple frame --></a>
-        <a class="nonblock nontext transition museBGSize grpelem" id="u154603" href="https://www.facebook.com/olga.bolshchikova" target="_blank" data-sizePolicy="fixed" data-pintopage="page_fixedRight"><!-- simple frame --></a>
-        <a class="nonblock nontext transition museBGSize grpelem" id="u659814" href="https://twitter.com/olgabolshchikov" target="_blank" data-sizePolicy="fixed" data-pintopage="page_fixedRight"><!-- simple frame --></a>
-        <a class="nonblock nontext transition museBGSize grpelem" id="u687920" href="https://dribbble.com/OlgaBolshchikova" target="_blank" data-sizePolicy="fixed" data-pintopage="page_fixedRight"><!-- simple frame --></a>
+        <a class="nonblock nontext transition grpelem" id="u154605" href="mailto:olga.bolshchikova@gmail.com" target="_blank" data-sizePolicy="fixed" data-pintopage="page_fixedRight"><!-- simple frame --></a>
+        <a class="nonblock nontext transition grpelem" id="u154604" href="https://www.linkedin.com/in/olgabolshchikova" target="_blank" data-sizePolicy="fixed" data-pintopage="page_fixedRight"><!-- simple frame --></a>
+        <a class="nonblock nontext transition grpelem" id="u154603" href="https://www.facebook.com/olga.bolshchikova" target="_blank" data-sizePolicy="fixed" data-pintopage="page_fixedRight"><!-- simple frame --></a>
+        <a class="nonblock nontext transition grpelem" id="u659814" href="https://twitter.com/olgabolshchikov" target="_blank" data-sizePolicy="fixed" data-pintopage="page_fixedRight"><!-- simple frame --></a>
+        <a class="nonblock nontext transition grpelem" id="u687920" href="https://dribbble.com/OlgaBolshchikova" target="_blank" data-sizePolicy="fixed" data-pintopage="page_fixedRight"><!-- simple frame --></a>
        </div>
       </div>
      </div>
@@ -421,11 +421,15 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
      </div>
      <span class="clip_frame colelem placeholder" data-placeholder-for="u558505_content"><!-- placeholder node --></span>
      <div class="Body clearfix colelem temp_no_id shared_content" data-muse-temp-textContainer-sizePolicy="true" data-muse-temp-textContainer-pinning="true" data-orig-id="u556253-19" data-content-guid="u556253-19_content"><!-- content -->
-      <span class="placeholder" data-placeholder-for="u556253-2_content"><!-- placeholder node --></span>
-      <span class="placeholder" data-placeholder-for="u556253-3_content"><!-- placeholder node --></span>
-      <span class="placeholder" data-placeholder-for="u556253-5_content"><!-- placeholder node --></span>
-      <span class="list0 nls-None placeholder" data-placeholder-for="u556253-12_content"><!-- placeholder node --></span>
-      <span class="placeholder" data-placeholder-for="u556253-13_content"><!-- placeholder node --></span>
+      <p class="temp_no_id" data-orig-id="u556253-2">After analyzing this exercise, I decided to focus on the idea of how Sean can get cash when he has forgotten his wallet. This is particularly interesting because Citibank doesn't provide this service to the clients yet.</p>
+      <p class="temp_no_id" data-orig-id="u556253-3">&nbsp;</p>
+      <p class="temp_no_id" data-orig-id="u556253-5">In developing the idea, I came up with three scenarios:</p>
+      <ul class="list0 nls-None temp_no_id" data-orig-id="u556253-12">
+       <li class="temp_no_id" data-orig-id="u556253-7">How Sean can withdraw cardless cash when he stands in front of the ATM</li>
+       <li class="temp_no_id" data-orig-id="u556253-9">How Sean can withdraw cardless cash if there is no ATM around him</li>
+       <li class="temp_no_id" data-orig-id="u556253-11">How Sean can allow his family members and friends to withdraw cardless cash from his account</li>
+      </ul>
+      <p class="temp_no_id" data-orig-id="u556253-13">&nbsp;</p>
       <p class="temp_no_id" data-orig-id="u556253-17">I created <span class="Character-Style temp_no_id" data-orig-id="u556253-15">storyboards</span> to visualize these scenarios.</p>
      </div>
      <div class="clip_frame colelem temp_no_id" data-orig-id="u558523"><!-- image -->
@@ -462,15 +466,19 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
      <span class="Body clearfix colelem placeholder" data-placeholder-for="u731014-4_content"><!-- placeholder node --></span>
      <span class="clip_frame colelem placeholder" data-placeholder-for="u566445_content"><!-- placeholder node --></span>
      <div class="clearfix colelem temp_no_id" data-muse-temp-textContainer-sizePolicy="true" data-muse-temp-textContainer-pinning="true" data-orig-id="u556300-32"><!-- content -->
-      <span class="Subtitle placeholder" data-placeholder-for="u556300-2_content"><!-- placeholder node --></span>
-      <p class="Body temp_no_id shared_content" data-orig-id="u556300-8" data-content-guid="u556300-8_content">I created a <span class="Character-Style temp_no_id" data-orig-id="u556300-4">Hi-Fi prototype</span> and <span class="temp_no_id" data-orig-id="u556300-6">tested</span> it with Citibank customers to get feedback.</p>
-      <span class="Body placeholder" data-placeholder-for="u556300-9_content"><!-- placeholder node --></span>
-      <p class="Body temp_no_id shared_content" data-orig-id="u556300-13" data-content-guid="u556300-13_content">All the participants successfully completed tasks by following the <span class="Character-Style temp_no_id" data-orig-id="u556300-11">scenarios</span>:</p>
-      <span class="list0 nls-None placeholder" data-placeholder-for="u556300-20_content"><!-- placeholder node --></span>
-      <span class="Body placeholder" data-placeholder-for="u556300-21_content"><!-- placeholder node --></span>
+      <p class="Subtitle temp_no_id" data-orig-id="u556300-2">Iteration</p>
+      <p class="Body temp_no_id" data-orig-id="u556300-8">I created a <span class="Character-Style temp_no_id" data-orig-id="u556300-4">Hi-Fi prototype</span> and <span class="temp_no_id" data-orig-id="u556300-6">tested</span> it with Citibank customers to get feedback.</p>
+      <p class="Body temp_no_id" data-orig-id="u556300-9">&nbsp;</p>
+      <p class="Body temp_no_id" data-orig-id="u556300-13">All the participants successfully completed tasks by following the <span class="Character-Style temp_no_id" data-orig-id="u556300-11">scenarios</span>:</p>
+      <ol class="list0 nls-None temp_no_id" data-orig-id="u556300-20">
+       <li class="Body temp_no_id" data-orig-id="u556300-15">You have forgotten your wallet, but you need cash. You are near the Citibank ATM and you are going to use your phone to withdraw the cash</li>
+       <li class="Body temp_no_id" data-orig-id="u556300-17">You really need cash but there is neither ATM nor Citibank office around you. For that reason, you are going to use your phone to withdraw cash from your banking account and order money delivery (like pizza delivery)</li>
+       <li class="Body temp_no_id" data-orig-id="u556300-19">Your brother has forgotten his wallet, but he needs cash. He is near the Citibank ATM. He calls you and asks for your help to withdraw cash from your account. You are going to use your phone to allow your brother to get cash</li>
+      </ol>
+      <p class="Body temp_no_id" data-orig-id="u556300-21">&nbsp;</p>
       <p class="Body temp_no_id" data-orig-id="u556300-27">There was a <span class="temp_no_id" data-orig-id="u556300-23">minor</span><span class="temp_no_id" data-orig-id="u556300-24"> </span><span class="Character-Style temp_no_id" data-orig-id="u556300-25">issue</span>. The main menu had two very similar menu items “Withdraw Cardless Cash” and “Send Cardless Cash”, which were confusing to participants. They suggested unifying these menu items under one &quot;Cardless Cash&quot; menu item. When tapped on it a new tab with these menu items opened.</p>
-      <span class="Body placeholder" data-placeholder-for="u556300-28_content"><!-- placeholder node --></span>
-      <span class="Body placeholder" data-placeholder-for="u556300-30_content"><!-- placeholder node --></span>
+      <p class="Body temp_no_id" data-orig-id="u556300-28">&nbsp;</p>
+      <p class="Body temp_no_id" data-orig-id="u556300-30">The feedback helped me iterate the initial design and ultimately create a more user-friendly experience.</p>
      </div>
      <div class="browser_width colelem temp_no_id" data-orig-id="u556249-bw">
       <div class="temp_no_id" data-orig-id="u556249"><!-- column -->
@@ -505,7 +513,7 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
       <div id="u152176"><!-- simple frame --></div>
      </div>
      <div class="browser_width" id="accordionu152177-bw">
-      <ul class="AccordionWidget shadow clearfix" id="accordionu152177"><!-- vertical box -->
+      <ul class="AccordionWidget clearfix" id="accordionu152177"><!-- vertical box -->
        <li class="AccordionPanel clearfix colelem100" id="u152178"><!-- vertical box --><div class="AccordionPanelTab transition clearfix colelem100" id="u152202-3" data-muse-temp-textContainer-sizePolicy="true" data-muse-temp-textContainer-pinning="true"><!-- content --><p class="shared_content" data-content-guid="u152202-3_0_content">&nbsp;</p></div><div class="AccordionPanelContent disn clearfix colelem100" id="u152179"><!-- group --><nav class="MenuBar clearfix grpelem" id="menuu152180" data-sizePolicy="fixed" data-pintopage="page_fixedCenter"><!-- vertical box --><div class="MenuItemContainer clearfix colelem" id="u152188"><!-- horizontal box --><a class="nonblock nontext MenuItem MenuItemWithSubMenu transition clearfix grpelem" id="u152189" href="index.html#portfolio"><!-- horizontal box --><div class="MenuItemLabel clearfix grpelem" id="u152191-4" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"><!-- content --><p id="u152191-2" class="shared_content" data-content-guid="u152191-2_content">Portfolio</p></div></a></div><div class="MenuItemContainer clearfix colelem" id="u152181"><!-- horizontal box --><a class="nonblock nontext MenuItem MenuItemWithSubMenu transition clearfix grpelem" id="u152182" href="about.html"><!-- horizontal box --><div class="MenuItemLabel clearfix grpelem" id="u152185-4" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"><!-- content --><p id="u152185-2" class="shared_content" data-content-guid="u152185-2_content">about</p></div></a></div><div class="MenuItemContainer clearfix colelem" id="u341836"><!-- horizontal box --><a class="nonblock nontext MenuItem MenuItemWithSubMenu transition clearfix grpelem" id="u341837" href="assets/olga-bolshchikova-product-ux-2018-mar.pdf" target="_blank"><!-- horizontal box --><div class="MenuItemLabel clearfix grpelem" id="u341840-4" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"><!-- content --><p id="u341840-2" class="shared_content" data-content-guid="u341840-2_content">REsumE</p></div></a></div><div class="MenuItemContainer clearfix colelem" id="u152195"><!-- horizontal box --><a class="nonblock nontext MenuItem MenuItemWithSubMenu transition clearfix grpelem" id="u152198" href="index.html#contact"><!-- horizontal box --><div class="MenuItemLabel clearfix grpelem" id="u152201-4" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"><!-- content --><p id="u152201-2" class="shared_content" data-content-guid="u152201-2_content">contact</p></div></a></div></nav></div></li>
       </ul>
      </div>
@@ -621,11 +629,11 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
      <div class="clip_frame colelem temp_no_id" data-orig-id="u566445"><!-- image -->
       <img class="block temp_no_id temp_no_img_src" data-orig-src="images/citi-visual-design%402x720x855.png?crc=369241618" data-hidpi-src="images/citi-visual-design%402x720x855_2x.png?crc=3772184724" alt="" data-heightwidthratio="1.1875" data-image-width="720" data-image-height="855" data-orig-id="u566445_img" src="images/blank.gif?crc=4208392903"/>
      </div>
-     <div class="clearfix colelem temp_no_id" data-muse-temp-textContainer-sizePolicy="true" data-muse-temp-textContainer-pinning="true" data-orig-id="u556300-32"><!-- content -->
+     <div class="clearfix colelem temp_no_id shared_content" data-muse-temp-textContainer-sizePolicy="true" data-muse-temp-textContainer-pinning="true" data-orig-id="u556300-32" data-content-guid="u556300-32_content"><!-- content -->
       <span class="Subtitle placeholder" data-placeholder-for="u556300-2_content"><!-- placeholder node --></span>
-      <span class="Body placeholder" data-placeholder-for="u556300-8_content"><!-- placeholder node --></span>
+      <p class="Body temp_no_id" data-orig-id="u556300-8">I created a <span class="Character-Style temp_no_id" data-orig-id="u556300-4">Hi-Fi prototype</span> and <span class="temp_no_id" data-orig-id="u556300-6">tested</span> it with Citibank customers to get feedback.</p>
       <span class="Body placeholder" data-placeholder-for="u556300-9_content"><!-- placeholder node --></span>
-      <span class="Body placeholder" data-placeholder-for="u556300-13_content"><!-- placeholder node --></span>
+      <p class="Body temp_no_id" data-orig-id="u556300-13">All the participants successfully completed tasks by following the <span class="Character-Style temp_no_id" data-orig-id="u556300-11">scenarios</span>:</p>
       <span class="list0 nls-None placeholder" data-placeholder-for="u556300-20_content"><!-- placeholder node --></span>
       <span class="Body placeholder" data-placeholder-for="u556300-21_content"><!-- placeholder node --></span>
       <p class="Body temp_no_id" data-orig-id="u556300-27"><span class="placeholder" data-placeholder-for="u556300-27_0_content"><!-- placeholder node --></span><span class="placeholder" data-placeholder-for="u556300-23_content"><!-- placeholder node --></span><span class="Character-Style placeholder" data-placeholder-for="u556300-24_content"><!-- placeholder node --></span><span class="Character-Style placeholder" data-placeholder-for="u556300-25_content"><!-- placeholder node --></span><span class="placeholder" data-placeholder-for="u556300-27_4_content"><!-- placeholder node --></span></p>
@@ -653,14 +661,14 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
     <div class="clearfix grpelem temp_no_id shared_content" data-orig-id="pu556297" data-content-guid="pu556297_content1"><!-- column -->
      <span class="clearfix colelem placeholder" data-placeholder-for="u556297_content"><!-- placeholder node --></span>
      <div class="browser_width colelem temp_no_id" data-orig-id="u151611-bw">
-      <div class="rgba-background temp_no_id" data-orig-id="u151611"><!-- column -->
+      <div class="temp_no_id" data-orig-id="u151611"><!-- column -->
        <div class="clearfix temp_no_id" data-orig-id="u151611_align_to_page">
         <div class="clearfix colelem shared_content" id="pu154605" data-content-guid="pu154605_content"><!-- group -->
-         <a class="nonblock nontext transition museBGSize grpelem temp_no_id" href="mailto:olga.bolshchikova@gmail.com" target="_blank" data-sizePolicy="fixed" data-pintopage="page_fixedCenter" data-orig-id="u154605"><!-- simple frame --></a>
-         <a class="nonblock nontext transition museBGSize grpelem temp_no_id" href="https://www.linkedin.com/in/olgabolshchikova" target="_blank" data-sizePolicy="fixed" data-pintopage="page_fixedCenter" data-orig-id="u154604"><!-- simple frame --></a>
-         <a class="nonblock nontext transition museBGSize grpelem temp_no_id" href="https://www.facebook.com/olga.bolshchikova" target="_blank" data-sizePolicy="fixed" data-pintopage="page_fixedCenter" data-orig-id="u154603"><!-- simple frame --></a>
-         <a class="nonblock nontext transition museBGSize grpelem temp_no_id" href="https://twitter.com/olgabolshchikov" target="_blank" data-sizePolicy="fixed" data-pintopage="page_fixedCenter" data-orig-id="u659814"><!-- simple frame --></a>
-         <a class="nonblock nontext transition museBGSize grpelem temp_no_id" href="https://dribbble.com/OlgaBolshchikova" target="_blank" data-sizePolicy="fixed" data-pintopage="page_fixedCenter" data-orig-id="u687920"><!-- simple frame --></a>
+         <a class="nonblock nontext transition grpelem temp_no_id" href="mailto:olga.bolshchikova@gmail.com" target="_blank" data-sizePolicy="fixed" data-pintopage="page_fixedCenter" data-orig-id="u154605"><!-- simple frame --></a>
+         <a class="nonblock nontext transition grpelem temp_no_id" href="https://www.linkedin.com/in/olgabolshchikova" target="_blank" data-sizePolicy="fixed" data-pintopage="page_fixedCenter" data-orig-id="u154604"><!-- simple frame --></a>
+         <a class="nonblock nontext transition grpelem temp_no_id" href="https://www.facebook.com/olga.bolshchikova" target="_blank" data-sizePolicy="fixed" data-pintopage="page_fixedCenter" data-orig-id="u154603"><!-- simple frame --></a>
+         <a class="nonblock nontext transition grpelem temp_no_id" href="https://twitter.com/olgabolshchikov" target="_blank" data-sizePolicy="fixed" data-pintopage="page_fixedCenter" data-orig-id="u659814"><!-- simple frame --></a>
+         <a class="nonblock nontext transition grpelem temp_no_id" href="https://dribbble.com/OlgaBolshchikova" target="_blank" data-sizePolicy="fixed" data-pintopage="page_fixedCenter" data-orig-id="u687920"><!-- simple frame --></a>
         </div>
         <div class="clearfix colelem temp_no_id" data-sizePolicy="fixed" data-pintopage="page_fixedCenter" data-orig-id="u154602-4"><!-- content -->
          <span class="placeholder" data-placeholder-for="u154602-2_content"><!-- placeholder node --></span>
@@ -676,7 +684,7 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
     <div class="clearfix grpelem temp_no_id" data-orig-id="pu152176"><!-- group -->
      <span class="browser_width placeholder" data-placeholder-for="u152176-bw_content"><!-- placeholder node --></span>
      <div class="browser_width temp_no_id" data-orig-id="accordionu152177-bw">
-      <ul class="AccordionWidget shadow clearfix temp_no_id" data-orig-id="accordionu152177"><!-- vertical box -->
+      <ul class="AccordionWidget clearfix temp_no_id" data-orig-id="accordionu152177"><!-- vertical box -->
        <li class="AccordionPanel clearfix colelem100 temp_no_id" data-orig-id="u152178"><!-- vertical box --><div class="AccordionPanelTab transition clearfix colelem100 temp_no_id" data-muse-temp-textContainer-sizePolicy="true" data-muse-temp-textContainer-pinning="true" data-orig-id="u152202-3"><!-- content --><span class="placeholder" data-placeholder-for="u152202-3_0_content"><!-- placeholder node --></span></div><div class="AccordionPanelContent disn clearfix colelem100 temp_no_id" data-orig-id="u152179"><!-- group --><nav class="MenuBar clearfix grpelem temp_no_id" data-sizePolicy="fixed" data-pintopage="page_fixedCenter" data-orig-id="menuu152180"><!-- vertical box --><div class="MenuItemContainer clearfix colelem temp_no_id" data-orig-id="u152188"><!-- horizontal box --><a class="nonblock nontext MenuItem MenuItemWithSubMenu transition clearfix grpelem temp_no_id" href="index.html#portfolio" data-orig-id="u152189"><!-- horizontal box --><div class="MenuItemLabel clearfix grpelem temp_no_id" data-sizePolicy="fixed" data-pintopage="page_fixedLeft" data-orig-id="u152191-4"><!-- content --><span class="placeholder" data-placeholder-for="u152191-2_content"><!-- placeholder node --></span></div></a></div><div class="MenuItemContainer clearfix colelem temp_no_id" data-orig-id="u152181"><!-- horizontal box --><a class="nonblock nontext MenuItem MenuItemWithSubMenu transition clearfix grpelem temp_no_id" href="about.html" data-orig-id="u152182"><!-- horizontal box --><div class="MenuItemLabel clearfix grpelem temp_no_id" data-sizePolicy="fixed" data-pintopage="page_fixedLeft" data-orig-id="u152185-4"><!-- content --><span class="placeholder" data-placeholder-for="u152185-2_content"><!-- placeholder node --></span></div></a></div><div class="MenuItemContainer clearfix colelem temp_no_id" data-orig-id="u341836"><!-- horizontal box --><a class="nonblock nontext MenuItem MenuItemWithSubMenu transition clearfix grpelem temp_no_id" href="assets/olga-bolshchikova-product-ux-2018-mar.pdf" target="_blank" data-orig-id="u341837"><!-- horizontal box --><div class="MenuItemLabel clearfix grpelem temp_no_id" data-sizePolicy="fixed" data-pintopage="page_fixedLeft" data-orig-id="u341840-4"><!-- content --><span class="placeholder" data-placeholder-for="u341840-2_content"><!-- placeholder node --></span></div></a></div><div class="MenuItemContainer clearfix colelem temp_no_id" data-orig-id="u152195"><!-- horizontal box --><a class="nonblock nontext MenuItem MenuItemWithSubMenu transition clearfix grpelem temp_no_id" href="index.html#contact" data-orig-id="u152198"><!-- horizontal box --><div class="MenuItemLabel clearfix grpelem temp_no_id" data-sizePolicy="fixed" data-pintopage="page_fixedLeft" data-orig-id="u152201-4"><!-- content --><span class="placeholder" data-placeholder-for="u152201-2_content"><!-- placeholder node --></span></div></a></div></nav></div></li>
       </ul>
      </div>
@@ -699,7 +707,7 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
       <span class="anchor_item grpelem placeholder" data-placeholder-for="research-citi_content"><!-- placeholder node --></span>
       <div class="clearfix grpelem temp_no_id" data-muse-temp-textContainer-sizePolicy="true" data-muse-temp-textContainer-pinning="true" data-orig-id="u556247-59"><!-- content -->
        <span class="Title-1-620 placeholder" data-placeholder-for="u556247-2_content"><!-- placeholder node --></span>
-       <p class="Body temp_no_id" data-orig-id="u556247-8">Citibank has approximately 200 million customer accounts and does business in more than 140 countries. The latest studies show an ongoing <span class="temp_no_id" data-orig-id="u556247-4">increase in mobile usage</span> for banking compared to a desktop one. Therefore, Citibank wants to focus on <span class="Character-Style temp_no_id" data-orig-id="u556247-6">improving their mobile app</span><span> by designing new features and with using the latest technology.</span></p>
+       <p class="Body temp_no_id" data-orig-id="u556247-8">Citibank has approximately 200 million customer accounts and does business in more than 140 countries. The latest studies show an ongoing <span class="temp_no_id" data-orig-id="u556247-4">increase in mobile usage</span> for banking compared to a desktop one. Therefore, Citibank wants to focus on <span class="Character-Style temp_no_id" data-orig-id="u556247-6">improving their mobile app</span> by designing new features and with using the latest technology.</p>
        <span class="Body placeholder" data-placeholder-for="u556247-9_content"><!-- placeholder node --></span>
        <span class="Body placeholder" data-placeholder-for="u556247-10_content"><!-- placeholder node --></span>
        <span class="Title-1-620 placeholder" data-placeholder-for="u556247-12_content"><!-- placeholder node --></span>
@@ -782,17 +790,7 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
      <div class="clip_frame colelem temp_no_id" data-orig-id="u566445"><!-- image -->
       <img class="block temp_no_id temp_no_img_src" data-orig-src="images/citi-visual-design%402x540x641.png?crc=4103843784" data-hidpi-src="images/citi-visual-design%402x540x641_2x.png?crc=471771876" alt="" data-heightwidthratio="1.1870370370370371" data-image-width="540" data-image-height="641" data-orig-id="u566445_img" src="images/blank.gif?crc=4208392903"/>
      </div>
-     <div class="clearfix colelem temp_no_id" data-muse-temp-textContainer-sizePolicy="true" data-muse-temp-textContainer-pinning="true" data-orig-id="u556300-32"><!-- content -->
-      <span class="Subtitle placeholder" data-placeholder-for="u556300-2_content"><!-- placeholder node --></span>
-      <span class="Body placeholder" data-placeholder-for="u556300-8_content"><!-- placeholder node --></span>
-      <span class="Body placeholder" data-placeholder-for="u556300-9_content"><!-- placeholder node --></span>
-      <span class="Body placeholder" data-placeholder-for="u556300-13_content"><!-- placeholder node --></span>
-      <span class="list0 nls-None placeholder" data-placeholder-for="u556300-20_content"><!-- placeholder node --></span>
-      <span class="Body placeholder" data-placeholder-for="u556300-21_content"><!-- placeholder node --></span>
-      <p class="Body temp_no_id" data-orig-id="u556300-27"><span class="placeholder" data-placeholder-for="u556300-27_0_content"><!-- placeholder node --></span><span class="placeholder" data-placeholder-for="u556300-23_content"><!-- placeholder node --></span><span class="Character-Style placeholder" data-placeholder-for="u556300-24_content"><!-- placeholder node --></span><span class="Character-Style placeholder" data-placeholder-for="u556300-25_content"><!-- placeholder node --></span><span class="placeholder" data-placeholder-for="u556300-27_4_content"><!-- placeholder node --></span></p>
-      <span class="Body placeholder" data-placeholder-for="u556300-28_content"><!-- placeholder node --></span>
-      <span class="Body placeholder" data-placeholder-for="u556300-30_content"><!-- placeholder node --></span>
-     </div>
+     <span class="clearfix colelem placeholder" data-placeholder-for="u556300-32_content"><!-- placeholder node --></span>
      <div class="clearfix colelem temp_no_id" data-orig-id="u556249"><!-- column -->
       <img class="colelem temp_no_id temp_no_img_src" alt="" data-orig-src="images/u556269-44.png?crc=110128136" data-hidpi-src="images/u556269-4_2x4.png?crc=78651148" data-image-width="13" data-orig-id="u556269-4" src="images/blank.gif?crc=4208392903"/><!-- rasterized frame -->
       <span class="Body clearfix colelem placeholder" data-placeholder-for="u556316-4_content"><!-- placeholder node --></span>
@@ -823,7 +821,7 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
      <div class="browser_width" id="u152562-bw">
       <div id="u152562"><!-- simple frame --></div>
      </div>
-     <ul class="AccordionWidget shadow clearfix" id="accordionu152563" data-visibility="changed" style="visibility:hidden"><!-- vertical box -->
+     <ul class="AccordionWidget clearfix" id="accordionu152563" data-visibility="changed" style="visibility:hidden"><!-- vertical box -->
       <li class="AccordionPanel clearfix colelem" id="u152564"><!-- vertical box --><div class="AccordionPanelTab borderbox transition clearfix colelem" id="u152589-3" data-muse-temp-textContainer-sizePolicy="true" data-muse-temp-textContainer-pinning="true"><!-- content --><p>&nbsp;</p></div><div class="AccordionPanelContent disn borderbox clearfix colelem" id="u152565"><!-- group --><nav class="MenuBar clearfix grpelem" id="menuu152566"><!-- vertical box --><div class="MenuItemContainer borderbox clearfix colelem" id="u152581"><!-- horizontal box --><a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox transition clearfix grpelem" id="u152582" href="index.html#portfolio"><!-- horizontal box --><div class="MenuItemLabel borderbox clearfix grpelem" id="u152585-4" data-muse-temp-textContainer-sizePolicy="true" data-muse-temp-textContainer-pinning="true"><!-- content --><p id="u152585-2">Portfolio</p></div></a></div><div class="MenuItemContainer borderbox clearfix colelem" id="u152574"><!-- horizontal box --><a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox transition clearfix grpelem" id="u152575" href="about.html"><!-- horizontal box --><div class="MenuItemLabel borderbox clearfix grpelem" id="u152576-4" data-muse-temp-textContainer-sizePolicy="true" data-muse-temp-textContainer-pinning="true"><!-- content --><p id="u152576-2">about</p></div></a></div><div class="MenuItemContainer borderbox clearfix colelem" id="u341936"><!-- horizontal box --><a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox transition clearfix grpelem" id="u341937" href="assets/olga-bolshchikova-product-ux-2018-mar.pdf" target="_blank"><!-- horizontal box --><div class="MenuItemLabel borderbox clearfix grpelem" id="u341940-4" data-muse-temp-textContainer-sizePolicy="true" data-muse-temp-textContainer-pinning="true"><!-- content --><p id="u341940-2">REsume</p></div></a></div><div class="MenuItemContainer borderbox clearfix colelem" id="u152567"><!-- horizontal box --><a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox transition clearfix grpelem" id="u152570" href="index.html#contact"><!-- horizontal box --><div class="MenuItemLabel borderbox clearfix grpelem" id="u152572-4" data-muse-temp-textContainer-sizePolicy="true" data-muse-temp-textContainer-pinning="true"><!-- content --><p id="u152572-2">contact</p></div></a></div></nav></div></li>
      </ul>
      <a class="nonblock nontext clip_frame temp_no_id" href="index.html#home" data-orig-id="u154205"><!-- svg --><img class="svg temp_no_id temp_no_img_src" data-orig-src="images/log-olga.svg?crc=4064784824" width="46" height="43" alt="" data-mu-svgfallback="images/log-olga_poster_.png?crc=367087102" data-orig-id="u154206" src="images/blank.gif?crc=4208392903"/></a>
@@ -1003,7 +1001,7 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
     <div class="clearfix grpelem temp_no_id" data-orig-id="pu556297"><!-- column -->
      <span class="clearfix colelem placeholder" data-placeholder-for="u556297_content"><!-- placeholder node --></span>
      <div class="browser_width colelem temp_no_id" data-orig-id="u151611-bw">
-      <div class="rgba-background temp_no_id" data-orig-id="u151611"><!-- column -->
+      <div class="temp_no_id" data-orig-id="u151611"><!-- column -->
        <div class="clearfix temp_no_id" data-orig-id="u151611_align_to_page">
         <span class="clearfix colelem placeholder" data-placeholder-for="pu154605_content"><!-- placeholder node --></span>
         <div class="clearfix colelem temp_no_id" data-sizePolicy="fluidWidth" data-pintopage="page_fixedCenter" data-orig-id="u154602-4"><!-- content -->
@@ -1026,7 +1024,7 @@ var suppressMissingFileError = false
 l[1]:null,l=l&&l[2]?l[2]:null;switch(l.toLowerCase()){case "css":k=k.replace(/\W/gi,"_").replace(/^([^a-z])/gi,"_$1");f.className+=" "+k;k=a(c(f,"color"));l=a(c(f,"backgroundColor"));k!=0||l!=0?(Muse.assets.required.splice(h,1),"undefined"!=typeof b[i]&&(k!=b[i]>>>24||l!=(b[i]&16777215))&&Muse.assets.outOfDate.push(i)):h++;f.className="version";break;case "js":h++;break;default:throw Error("Unsupported file type: "+l);}}d?d().jquery!="1.8.3"&&Muse.assets.outOfDate.push("jquery-1.8.3.min.js"):Muse.assets.required.push("jquery-1.8.3.min.js");
 f.parentNode.removeChild(f);if(Muse.assets.outOfDate.length||Muse.assets.required.length)f="Some files on the server may be missing or incorrect. Clear browser cache and try again. If the problem persists please contact website author.",g&&Muse.assets.outOfDate.length&&(f+="\nOut of date: "+Muse.assets.outOfDate.join(",")),g&&Muse.assets.required.length&&(f+="\nMissing: "+Muse.assets.required.join(",")),suppressMissingFileError?(f+="\nUse SuppressMissingFileError key in AppPrefs.xml to show missing file error pop up.",console.log(f)):alert(f)};location&&location.search&&location.search.match&&location.search.match(/muse_debug/gi)?
 setTimeout(function(){g(!0)},5E3):g()}};
-var muse_init=function(){require.config({baseUrl:""});require(["jquery","museutils","whatinput","jquery.watch","jquery.musemenu","jquery.musepolyfill.bgsize","webpro","musewpdisclosure","jquery.museresponsive"],function(d){var $ = d;$(document).ready(function(){try{
+var muse_init=function(){require.config({baseUrl:""});require(["jquery","museutils","whatinput","jquery.watch","jquery.musemenu","webpro","musewpdisclosure","jquery.museresponsive"],function(d){var $ = d;$(document).ready(function(){try{
 window.Muse.assets.check($);/* body */
 Muse.Utils.transformMarkupToFixBrowserProblemsPreInit();/* body */
 Muse.Utils.detectScreenResolution();/* HiDPI screens */
