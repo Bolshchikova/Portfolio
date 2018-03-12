@@ -1,9 +1,9 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="bolshchikova.com" resolutions="1x,2x" timestamp="1520831358866">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="bolshchikova.com" resolutions="1x,2x" timestamp="1520839300490">
   <folder name="css">
     <file name="site_global.css" crc="3995742382"/>
-    <file name="master_b-master.css" crc="464548843" ref="about:getpet:index:zeit:windowear:citi-mobile"/>
-    <file name="nomq_preview_master_b-master.css" crc="352652149" ref="about:getpet:index:zeit:windowear:citi-mobile"/>
-    <file name="about.css" crc="4134121330" ref="about"/>
+    <file name="master_b-master.css" crc="4021694212" ref="about:getpet:index:zeit:windowear:citi-mobile"/>
+    <file name="nomq_preview_master_b-master.css" crc="4104842285" ref="about:getpet:index:zeit:windowear:citi-mobile"/>
+    <file name="about.css" crc="428042702" ref="about"/>
     <file name="nomq_about.css" crc="4219051482" ref="about"/>
     <file name="iefonts_about.css" crc="457707385" ref="about"/>
     <file name="getpet.css" crc="200736248" ref="getpet"/>
@@ -1593,7 +1593,7 @@
     <file name="citibank-task-flow@2x-crop-u558541_2x5.jpg" crc="4200794338" seo="true" ref="citi-mobile">
       <caption webpage="citi-mobile" alt=""/>
     </file>
-    <file name="citibank-affinity-map@2x-crop-u5585845.jpg" crc="4281022947" seo="true" ref="citi-mobile">
+    <file name="citibank-affinity-map@2x-crop-u5585845.jpg" crc="3841594323" seo="true" ref="citi-mobile">
       <caption webpage="citi-mobile" alt=""/>
     </file>
     <file name="citibank-affinity-map@2x-crop-u558584_2x5.jpg" crc="200036491" seo="true" ref="citi-mobile">
@@ -2327,9 +2327,9 @@
     </file>
   </folder>
   <file name="index.html" crc="379018220" seo="true" mt="1520724696060" redirect="true"/>
-  <file name="about.html" crc="40170629" seo="true" mt="1520831238243" redirect="true"/>
+  <file name="about.html" crc="4250756269" seo="true" mt="1520831499425" redirect="true"/>
   <file name="zeit.html" crc="3771582206" seo="true" mt="1520724696060" redirect="true"/>
   <file name="getpet.html" crc="3972709347" seo="true" mt="1520724696060" redirect="true"/>
-  <file name="citi-mobile.html" crc="3921111056" seo="true" mt="1520724696060" redirect="true"/>
+  <file name="citi-mobile.html" crc="49821669" seo="true" mt="1520839250838" redirect="true"/>
   <file name="windowear.html" crc="3777259754" seo="true" mt="1520724696060" redirect="true"/>
 </manifest>
