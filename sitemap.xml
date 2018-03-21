@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://bolshchikova.com/index.html</loc>
-    <lastmod>2018-03-19</lastmod>
+    <lastmod>2018-03-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -93,12 +93,6 @@
       <image:loc>http://bolshchikova.com/images/citi-homepage@2x-crop-u804238_2x2.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://bolshchikova.com/images/getpet-homepage@2x608x331.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://bolshchikova.com/images/getpet-homepage@2x608x331_2x.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://bolshchikova.com/images/citi-homepage@2x-crop-u8042383.png</image:loc>
     </image:image>
     <image:image>
@@ -127,6 +121,12 @@
     </image:image>
     <image:image>
       <image:loc>http://bolshchikova.com/images/citi-homepage@2x-crop-u804238_2x5.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bolshchikova.com/images/getpet-homepage@2x652x355.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bolshchikova.com/images/getpet-homepage@2x652x355_2x.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -1019,7 +1019,7 @@
   </url>
   <url>
     <loc>http://bolshchikova.com/getpet.html</loc>
-    <lastmod>2018-03-19</lastmod>
+    <lastmod>2018-03-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1625,7 +1625,7 @@
   </url>
   <url>
     <loc>http://bolshchikova.com/windowear.html</loc>
-    <lastmod>2018-03-19</lastmod>
+    <lastmod>2018-03-20</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
