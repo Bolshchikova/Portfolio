@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="bolshchikova.com" resolutions="1x,2x" timestamp="1522221965881">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="bolshchikova.com" resolutions="1x,2x" timestamp="1522222338724">
   <folder name="css">
     <file name="site_global.css" crc="159693077"/>
     <file name="master_b-master.css" crc="3988456248" ref="about:getpet:index:zeit:windowear:citi-mobile"/>
@@ -9,8 +9,8 @@
     <file name="getpet.css" crc="438271026" ref="getpet"/>
     <file name="nomq_getpet.css" crc="3915515029" ref="getpet"/>
     <file name="iefonts_getpet.css" crc="507036893" ref="getpet"/>
-    <file name="index.css" crc="468897768" ref="index"/>
-    <file name="nomq_index.css" crc="378566364" ref="index"/>
+    <file name="index.css" crc="4093496217" ref="index"/>
+    <file name="nomq_index.css" crc="3890325809" ref="index"/>
     <file name="iefonts_index.css" crc="507036893" ref="index"/>
     <file name="zeit.css" crc="368191684" ref="zeit"/>
     <file name="nomq_zeit.css" crc="4289084761" ref="zeit"/>
@@ -48,26 +48,26 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="zeit" alt=""/>
-      <caption webpage="zeit" alt=""/>
-      <caption webpage="zeit" alt=""/>
-      <caption webpage="zeit" alt=""/>
-      <caption webpage="zeit" alt=""/>
       <caption webpage="getpet" alt=""/>
       <caption webpage="getpet" alt=""/>
       <caption webpage="getpet" alt=""/>
       <caption webpage="getpet" alt=""/>
       <caption webpage="getpet" alt=""/>
+      <caption webpage="zeit" alt=""/>
+      <caption webpage="zeit" alt=""/>
+      <caption webpage="zeit" alt=""/>
+      <caption webpage="zeit" alt=""/>
+      <caption webpage="zeit" alt=""/>
       <caption webpage="windowear" alt=""/>
       <caption webpage="windowear" alt=""/>
       <caption webpage="windowear" alt=""/>
       <caption webpage="windowear" alt=""/>
       <caption webpage="windowear" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
       <caption webpage="citi-mobile" alt=""/>
       <caption webpage="citi-mobile" alt=""/>
       <caption webpage="citi-mobile" alt=""/>
@@ -88,23 +88,23 @@
     <file name="mobile-menu.jpg" crc="3954470239" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="zeit" alt=""/>
-      <caption webpage="zeit" alt=""/>
       <caption webpage="getpet" alt=""/>
       <caption webpage="getpet" alt=""/>
+      <caption webpage="zeit" alt=""/>
+      <caption webpage="zeit" alt=""/>
       <caption webpage="windowear" alt=""/>
       <caption webpage="windowear" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
       <caption webpage="citi-mobile" alt=""/>
       <caption webpage="citi-mobile" alt=""/>
     </file>
     <file name="mobile-menu-550.jpg" crc="3782482782" ref="index">
       <caption webpage="index" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="zeit" alt=""/>
       <caption webpage="getpet" alt=""/>
+      <caption webpage="zeit" alt=""/>
       <caption webpage="windowear" alt=""/>
+      <caption webpage="about" alt=""/>
       <caption webpage="citi-mobile" alt=""/>
     </file>
     <file name="logo-zeit-05.svg" crc="324827151" seo="true" ref="zeit">
@@ -2091,34 +2091,34 @@
     <file name="bg-getpet.jpg" crc="4015676176" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="getpet-homepage@2x-u545825.png" crc="24283554" ref="index"/>
-    <file name="getpet-homepage@2x-u545825_2x.png" crc="3826996173" ref="index"/>
+    <file name="getpet-homepage@2x-u545825.png" crc="4196558200" ref="index"/>
+    <file name="getpet-homepage@2x-u545825_2x.png" crc="4081285770" ref="index"/>
     <file name="bg-citi.jpg" crc="303177400" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="citi-homepage@2x-u804238.png" crc="377560153" ref="index"/>
-    <file name="citi-homepage@2x-u804238_2x.png" crc="4265262827" ref="index"/>
+    <file name="citi-homepage@2x-u804238.png" crc="369448421" ref="index"/>
+    <file name="citi-homepage@2x-u804238_2x.png" crc="4240584820" ref="index"/>
     <file name="bg-zeit.jpg" crc="3826943323" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="zeit-homepage@2x-u829138.png" crc="4000350156" ref="index"/>
-    <file name="zeit-homepage@2x-u829138_2x.png" crc="4201945114" ref="index"/>
+    <file name="zeit-homepage@2x-u829138.png" crc="205630481" ref="index"/>
+    <file name="zeit-homepage@2x-u829138_2x.png" crc="4179672806" ref="index"/>
     <file name="ww-homepage@2x-u7148972.png" crc="119790184" ref="index"/>
     <file name="ww-homepage@2x-u714897_2x2.png" crc="3887021357" ref="index"/>
-    <file name="getpet-homepage@2x-u5458252.png" crc="3790580430" ref="index"/>
-    <file name="getpet-homepage@2x-u545825_2x2.png" crc="3773912627" ref="index"/>
-    <file name="citi-homepage@2x-u8042382.png" crc="134550622" ref="index"/>
-    <file name="citi-homepage@2x-u804238_2x2.png" crc="110143146" ref="index"/>
-    <file name="zeit-homepage@2x-u8291382.png" crc="140819964" ref="index"/>
-    <file name="zeit-homepage@2x-u829138_2x2.png" crc="3858954700" ref="index"/>
+    <file name="getpet-homepage@2x-u5458252.png" crc="3935546123" ref="index"/>
+    <file name="getpet-homepage@2x-u545825_2x2.png" crc="289278666" ref="index"/>
+    <file name="citi-homepage@2x-u8042382.png" crc="4024208448" ref="index"/>
+    <file name="citi-homepage@2x-u804238_2x2.png" crc="137056713" ref="index"/>
+    <file name="zeit-homepage@2x-u8291382.png" crc="137723114" ref="index"/>
+    <file name="zeit-homepage@2x-u829138_2x2.png" crc="128197730" ref="index"/>
     <file name="ww-homepage@2x-u7148973.png" crc="3880037091" ref="index"/>
     <file name="ww-homepage@2x-u714897_2x3.png" crc="3845566358" ref="index"/>
-    <file name="getpet-homepage@2x-u5458253.png" crc="319254948" ref="index"/>
-    <file name="getpet-homepage@2x-u545825_2x3.png" crc="3962456772" ref="index"/>
-    <file name="citi-homepage@2x-u8042383.png" crc="3765083199" ref="index"/>
-    <file name="citi-homepage@2x-u804238_2x3.png" crc="3970826593" ref="index"/>
-    <file name="zeit-homepage@2x-u8291383.png" crc="65189675" ref="index"/>
-    <file name="zeit-homepage@2x-u829138_2x3.png" crc="99117302" ref="index"/>
+    <file name="getpet-homepage@2x-u5458253.png" crc="436228143" ref="index"/>
+    <file name="getpet-homepage@2x-u545825_2x3.png" crc="115693744" ref="index"/>
+    <file name="citi-homepage@2x-u8042383.png" crc="280814513" ref="index"/>
+    <file name="citi-homepage@2x-u804238_2x3.png" crc="4281659694" ref="index"/>
+    <file name="zeit-homepage@2x-u8291383.png" crc="4249302344" ref="index"/>
+    <file name="zeit-homepage@2x-u829138_2x3.png" crc="4090691541" ref="index"/>
     <file name="bg-ww2.jpg" crc="99525770" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -2127,12 +2127,12 @@
     </file>
     <file name="ww-homepage@2x-u7148974.png" crc="309211979" ref="index"/>
     <file name="ww-homepage@2x-u714897_2x4.png" crc="4037148324" ref="index"/>
-    <file name="getpet-homepage@2x-u5458254.png" crc="3066851" ref="index"/>
-    <file name="getpet-homepage@2x-u545825_2x4.png" crc="4059443682" ref="index"/>
-    <file name="citi-homepage@2x-u8042384.png" crc="41063818" ref="index"/>
-    <file name="citi-homepage@2x-u804238_2x4.png" crc="396440458" ref="index"/>
-    <file name="zeit-homepage@2x-u8291384.png" crc="82473911" ref="index"/>
-    <file name="zeit-homepage@2x-u829138_2x4.png" crc="468470291" ref="index"/>
+    <file name="getpet-homepage@2x-u5458254.png" crc="410200773" ref="index"/>
+    <file name="getpet-homepage@2x-u545825_2x4.png" crc="3934937522" ref="index"/>
+    <file name="citi-homepage@2x-u8042384.png" crc="4287729940" ref="index"/>
+    <file name="citi-homepage@2x-u804238_2x4.png" crc="4138230838" ref="index"/>
+    <file name="zeit-homepage@2x-u8291384.png" crc="4108185356" ref="index"/>
+    <file name="zeit-homepage@2x-u829138_2x4.png" crc="476842007" ref="index"/>
     <file name="bg-ww-u812038-fr.jpg" crc="32145140" ref="index"/>
     <file name="bg-ww-u812038-fr_2x.jpg" crc="4024868977" ref="index"/>
     <file name="ww-homepage@2x-u7148975.png" crc="51689649" ref="index"/>
@@ -2143,24 +2143,24 @@
     <file name="bg-getpet_2x.jpg" crc="4015676176" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="getpet-homepage@2x-u5458255.png" crc="166129444" ref="index"/>
-    <file name="getpet-homepage@2x-u545825_2x5.png" crc="95437430" ref="index"/>
+    <file name="getpet-homepage@2x-u5458255.png" crc="122057490" ref="index"/>
+    <file name="getpet-homepage@2x-u545825_2x5.png" crc="327953269" ref="index"/>
     <file name="bg-citi2.jpg" crc="310453746" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="bg-citi_2x.jpg" crc="303177400" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="citi-homepage@2x-u8042385.png" crc="504942870" ref="index"/>
-    <file name="citi-homepage@2x-u804238_2x5.png" crc="4109735284" ref="index"/>
+    <file name="citi-homepage@2x-u8042385.png" crc="3995537539" ref="index"/>
+    <file name="citi-homepage@2x-u804238_2x5.png" crc="170674255" ref="index"/>
     <file name="bg-zeit2.jpg" crc="4142456064" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="bg-zeit_2x.jpg" crc="3826943323" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="zeit-homepage@2x-u8291385.png" crc="6843890" ref="index"/>
-    <file name="zeit-homepage@2x-u829138_2x5.png" crc="3834452340" ref="index"/>
+    <file name="zeit-homepage@2x-u8291385.png" crc="3867432999" ref="index"/>
+    <file name="zeit-homepage@2x-u829138_2x5.png" crc="3819059905" ref="index"/>
     <file name="zeit-bg.jpg" crc="238321834" ref="zeit">
       <caption webpage="zeit" alt=""/>
     </file>
@@ -2309,7 +2309,7 @@
       <caption webpage="zeit" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4030494557" seo="true" mt="1522221938390" redirect="true"/>
+  <file name="index.html" crc="4216267613" seo="true" mt="1522222312862" redirect="true"/>
   <file name="about.html" crc="82985951" seo="true" mt="1522220005198" redirect="true"/>
   <file name="zeit.html" crc="3842806716" seo="true" mt="1522220913587" redirect="true"/>
   <file name="getpet.html" crc="3922861120" seo="true" mt="1522220885847" redirect="true"/>
