@@ -2,136 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://bolshchikova.com/index.html</loc>
-    <lastmod>2018-03-20</lastmod>
+    <lastmod>2018-03-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
       <image:loc>http://bolshchikova.com/images/log-olga.svg</image:loc>
     </image:image>
-    <image:image>
-      <image:loc>http://bolshchikova.com/images/zeit-homepage@2x-crop-u509894.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://bolshchikova.com/images/zeit-homepage@2x-crop-u509894_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://bolshchikova.com/images/zeit-homepage@2x-crop-u5098942.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://bolshchikova.com/images/zeit-homepage@2x-crop-u509894_2x2.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://bolshchikova.com/images/zeit-homepage@2x-crop-u5098943.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://bolshchikova.com/images/zeit-homepage@2x-crop-u509894_2x3.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://bolshchikova.com/images/zeit-homepage@2x-crop-u5098944.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://bolshchikova.com/images/zeit-homepage@2x-crop-u509894_2x4.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://bolshchikova.com/images/zeit-homepage@2x-crop-u5098945.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://bolshchikova.com/images/zeit-homepage@2x-crop-u509894_2x5.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://bolshchikova.com/images/ww-homepage@2x-crop-u714897.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://bolshchikova.com/images/ww-homepage@2x-crop-u714897_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://bolshchikova.com/images/ww-homepage@2x-crop-u7148972.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://bolshchikova.com/images/ww-homepage@2x-crop-u714897_2x2.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://bolshchikova.com/images/ww-homepage@2x-crop-u7148973.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://bolshchikova.com/images/ww-homepage@2x-crop-u714897_2x3.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://bolshchikova.com/images/ww-homepage@2x-crop-u7148974.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://bolshchikova.com/images/ww-homepage@2x-crop-u714897_2x4.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://bolshchikova.com/images/ww-homepage@2x-crop-u7148975.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://bolshchikova.com/images/ww-homepage@2x-crop-u714897_2x5.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://bolshchikova.com/images/getpet-homepage@2x629x342.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://bolshchikova.com/images/getpet-homepage@2x629x342_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://bolshchikova.com/images/citi-homepage@2x-crop-u804238.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://bolshchikova.com/images/citi-homepage@2x-crop-u804238_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://bolshchikova.com/images/getpet-homepage@2x552x301.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://bolshchikova.com/images/getpet-homepage@2x552x301_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://bolshchikova.com/images/citi-homepage@2x-crop-u8042382.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://bolshchikova.com/images/citi-homepage@2x-crop-u804238_2x2.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://bolshchikova.com/images/citi-homepage@2x-crop-u8042383.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://bolshchikova.com/images/citi-homepage@2x-crop-u804238_2x3.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://bolshchikova.com/images/getpet-homepage@2x535x292.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://bolshchikova.com/images/getpet-homepage@2x535x292_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://bolshchikova.com/images/citi-homepage@2x-crop-u8042384.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://bolshchikova.com/images/citi-homepage@2x-crop-u804238_2x4.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://bolshchikova.com/images/getpet-homepage@2x396x216.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://bolshchikova.com/images/getpet-homepage@2x396x216_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://bolshchikova.com/images/citi-homepage@2x-crop-u8042385.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://bolshchikova.com/images/citi-homepage@2x-crop-u804238_2x5.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://bolshchikova.com/images/getpet-homepage@2x652x355.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://bolshchikova.com/images/getpet-homepage@2x652x355_2x.png</image:loc>
-    </image:image>
   </url>
   <url>
     <loc>http://bolshchikova.com/zeit.html</loc>
-    <lastmod>2018-03-22</lastmod>
+    <lastmod>2018-03-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -139,12 +19,6 @@
     </image:image>
     <image:image>
       <image:loc>http://bolshchikova.com/images/logo-zeit-05.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://bolshchikova.com/images/zeit-homepage@2x-crop-u519603.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://bolshchikova.com/images/zeit-homepage@2x-crop-u519603_2x.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://bolshchikova.com/images/zeit-empathy-map@2x-crop-u523673.jpg</image:loc>
@@ -231,12 +105,6 @@
       <image:loc>http://bolshchikova.com/images/zeit-pp3@2x-crop-u547515_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://bolshchikova.com/images/zeit-homepage@2x-crop-u5196032.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://bolshchikova.com/images/zeit-homepage@2x-crop-u519603_2x2.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://bolshchikova.com/images/zeit-empathy-map@2x-crop-u5236732.jpg</image:loc>
     </image:image>
     <image:image>
@@ -307,12 +175,6 @@
     </image:image>
     <image:image>
       <image:loc>http://bolshchikova.com/images/zeit-pp3@2x-crop-u547515_2x2.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://bolshchikova.com/images/zeit-homepage@2x-crop-u5196033.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://bolshchikova.com/images/zeit-homepage@2x-crop-u519603_2x3.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://bolshchikova.com/images/zeit-empathy-map@2x-crop-u5236733.jpg</image:loc>
@@ -399,12 +261,6 @@
       <image:loc>http://bolshchikova.com/images/zeit-pp3@2x-crop-u547515_2x3.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://bolshchikova.com/images/zeit-homepage@2x-crop-u5196034.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://bolshchikova.com/images/zeit-homepage@2x-crop-u519603_2x4.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://bolshchikova.com/images/zeit-empathy-map@2x-crop-u5236734.jpg</image:loc>
     </image:image>
     <image:image>
@@ -487,12 +343,6 @@
     </image:image>
     <image:image>
       <image:loc>http://bolshchikova.com/images/zeit-pp3@2x-crop-u547515_2x4.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://bolshchikova.com/images/zeit-homepage@2x-crop-u5196035.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://bolshchikova.com/images/zeit-homepage@2x-crop-u519603_2x5.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://bolshchikova.com/images/zeit-empathy-map@2x-crop-u5236735.jpg</image:loc>
@@ -578,10 +428,40 @@
     <image:image>
       <image:loc>http://bolshchikova.com/images/zeit-pp3@2x-crop-u547515_2x5.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://bolshchikova.com/images/zeit-home@2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bolshchikova.com/images/zeit-home@2x_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bolshchikova.com/images/zeit-home@2x417x352.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bolshchikova.com/images/zeit-home@2x417x352_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bolshchikova.com/images/zeit-home@2x353x297.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bolshchikova.com/images/zeit-home@2x353x297_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bolshchikova.com/images/zeit-home@2x326x274.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bolshchikova.com/images/zeit-home@2x326x274_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bolshchikova.com/images/zeit-home@2x241x204.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bolshchikova.com/images/zeit-home@2x241x204_2x.png</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://bolshchikova.com/about.html</loc>
-    <lastmod>2018-03-19</lastmod>
+    <lastmod>2018-03-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -692,7 +572,7 @@
   </url>
   <url>
     <loc>http://bolshchikova.com/citi-mobile.html</loc>
-    <lastmod>2018-03-19</lastmod>
+    <lastmod>2018-03-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -793,12 +673,6 @@
     </image:image>
     <image:image>
       <image:loc>http://bolshchikova.com/images/citi-ui-kit@2x-crop-u558602_2x2.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://bolshchikova.com/images/citibank-logo134x45.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://bolshchikova.com/images/citibank-logo134x45_2x.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://bolshchikova.com/images/citibank-empathy-map@2x-crop-u5584623.jpg</image:loc>
@@ -957,36 +831,6 @@
       <image:loc>http://bolshchikova.com/images/citibank-logo113x38_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://bolshchikova.com/images/citi-homepage1@2x-crop-u558318.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://bolshchikova.com/images/citi-homepage1@2x-crop-u558318_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://bolshchikova.com/images/citi-homepage1@2x-crop-u5583182.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://bolshchikova.com/images/citi-homepage1@2x-crop-u558318_2x2.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://bolshchikova.com/images/citi-homepage1@2x-crop-u5583183.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://bolshchikova.com/images/citi-homepage1@2x-crop-u558318_2x3.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://bolshchikova.com/images/citi-homepage1@2x-crop-u5583184.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://bolshchikova.com/images/citi-homepage1@2x-crop-u558318_2x4.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://bolshchikova.com/images/citi-homepage1@2x-crop-u5583185.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://bolshchikova.com/images/citi-homepage1@2x-crop-u558318_2x5.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://bolshchikova.com/images/citi-sketches@2x.jpg</image:loc>
     </image:image>
     <image:image>
@@ -1016,10 +860,46 @@
     <image:image>
       <image:loc>http://bolshchikova.com/images/citi-sketches@2x385x159_2x.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://bolshchikova.com/images/citi@2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bolshchikova.com/images/citi@2x_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bolshchikova.com/images/citi@2x628x415.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bolshchikova.com/images/citi@2x628x415_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bolshchikova.com/images/citibank-logo147x49.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bolshchikova.com/images/citibank-logo147x49_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bolshchikova.com/images/citi@2x545x360.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bolshchikova.com/images/citi@2x545x360_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bolshchikova.com/images/citi@2x475x314.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bolshchikova.com/images/citi@2x475x314_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bolshchikova.com/images/citi@2x372x246.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bolshchikova.com/images/citi@2x372x246_2x.png</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://bolshchikova.com/getpet.html</loc>
-    <lastmod>2018-03-22</lastmod>
+    <lastmod>2018-03-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1027,12 +907,6 @@
     </image:image>
     <image:image>
       <image:loc>http://bolshchikova.com/images/getpet-logo-03.svg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://bolshchikova.com/images/getpet-homepage@2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://bolshchikova.com/images/getpet-homepage@2x_2x.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://bolshchikova.com/images/getpet-competitive-analysis@2x899x738.jpg</image:loc>
@@ -1598,34 +1472,10 @@
     <image:image>
       <image:loc>http://bolshchikova.com/images/getpet-affinity-map@2x-crop-u546552_2x5.jpg</image:loc>
     </image:image>
-    <image:image>
-      <image:loc>http://bolshchikova.com/images/getpet-homepage@2x671x365.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://bolshchikova.com/images/getpet-homepage@2x671x365_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://bolshchikova.com/images/getpet-homepage@2x560x305.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://bolshchikova.com/images/getpet-homepage@2x560x305_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://bolshchikova.com/images/getpet-homepage@2x530x289.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://bolshchikova.com/images/getpet-homepage@2x530x289_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://bolshchikova.com/images/getpet-homepage@2x397x216.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://bolshchikova.com/images/getpet-homepage@2x397x216_2x.png</image:loc>
-    </image:image>
   </url>
   <url>
     <loc>http://bolshchikova.com/windowear.html</loc>
-    <lastmod>2018-03-22</lastmod>
+    <lastmod>2018-03-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1995,34 +1845,34 @@
       <image:loc>http://bolshchikova.com/images/ww-18-choice@2x-crop-u622945_2x5.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://bolshchikova.com/images/ww-homepage-1@2x-crop-u621936.jpg</image:loc>
+      <image:loc>http://bolshchikova.com/images/ww@2x-crop-u814169.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://bolshchikova.com/images/ww-homepage-1@2x-crop-u621936_2x.jpg</image:loc>
+      <image:loc>http://bolshchikova.com/images/ww@2x-crop-u814169_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://bolshchikova.com/images/ww-homepage-1@2x-crop-u6219362.jpg</image:loc>
+      <image:loc>http://bolshchikova.com/images/ww@2x-crop-u8141692.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://bolshchikova.com/images/ww-homepage-1@2x-crop-u621936_2x2.jpg</image:loc>
+      <image:loc>http://bolshchikova.com/images/ww@2x-crop-u814169_2x2.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://bolshchikova.com/images/ww-homepage-1@2x-crop-u6219363.jpg</image:loc>
+      <image:loc>http://bolshchikova.com/images/ww@2x-crop-u8141693.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://bolshchikova.com/images/ww-homepage-1@2x-crop-u621936_2x3.jpg</image:loc>
+      <image:loc>http://bolshchikova.com/images/ww@2x-crop-u814169_2x3.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://bolshchikova.com/images/ww-homepage-1@2x-crop-u6219364.jpg</image:loc>
+      <image:loc>http://bolshchikova.com/images/ww@2x-crop-u8141694.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://bolshchikova.com/images/ww-homepage-1@2x-crop-u621936_2x4.jpg</image:loc>
+      <image:loc>http://bolshchikova.com/images/ww@2x-crop-u814169_2x4.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://bolshchikova.com/images/ww-homepage-1@2x-crop-u6219365.jpg</image:loc>
+      <image:loc>http://bolshchikova.com/images/ww@2x-crop-u8141695.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://bolshchikova.com/images/ww-homepage-1@2x-crop-u621936_2x5.jpg</image:loc>
+      <image:loc>http://bolshchikova.com/images/ww@2x-crop-u814169_2x5.png</image:loc>
     </image:image>
   </url>
   <url>
