@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="bolshchikova.com" resolutions="1x,2x" timestamp="1522224379417">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="bolshchikova.com" resolutions="1x,2x" timestamp="1522248329573">
   <folder name="css">
     <file name="site_global.css" crc="3912081417"/>
     <file name="master_b-master.css" crc="34428851" ref="about:getpet:index:zeit:windowear:citi-mobile"/>
@@ -6,16 +6,16 @@
     <file name="about.css" crc="4146124307" ref="about"/>
     <file name="nomq_about.css" crc="4045984583" ref="about"/>
     <file name="iefonts_about.css" crc="507036893" ref="about"/>
-    <file name="getpet.css" crc="3849732234" ref="getpet"/>
-    <file name="nomq_getpet.css" crc="4012743506" ref="getpet"/>
+    <file name="getpet.css" crc="4059592834" ref="getpet"/>
+    <file name="nomq_getpet.css" crc="3791700171" ref="getpet"/>
     <file name="iefonts_getpet.css" crc="507036893" ref="getpet"/>
-    <file name="index.css" crc="207765389" ref="index"/>
-    <file name="nomq_index.css" crc="4154903294" ref="index"/>
+    <file name="index.css" crc="3987226824" ref="index"/>
+    <file name="nomq_index.css" crc="4196215026" ref="index"/>
     <file name="iefonts_index.css" crc="507036893" ref="index"/>
-    <file name="zeit.css" crc="378755533" ref="zeit"/>
-    <file name="nomq_zeit.css" crc="4289084761" ref="zeit"/>
+    <file name="zeit.css" crc="4281962364" ref="zeit"/>
+    <file name="nomq_zeit.css" crc="230757760" ref="zeit"/>
     <file name="iefonts_zeit.css" crc="507036893" ref="zeit"/>
-    <file name="windowear.css" crc="4092870654" ref="windowear"/>
+    <file name="windowear.css" crc="4053386015" ref="windowear"/>
     <file name="nomq_windowear.css" crc="4019166014" ref="windowear"/>
     <file name="iefonts_windowear.css" crc="507036893" ref="windowear"/>
     <file name="citi-mobile.css" crc="406014018" ref="citi-mobile"/>
@@ -48,16 +48,6 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="windowear" alt=""/>
-      <caption webpage="windowear" alt=""/>
-      <caption webpage="windowear" alt=""/>
-      <caption webpage="windowear" alt=""/>
-      <caption webpage="windowear" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
       <caption webpage="getpet" alt=""/>
       <caption webpage="getpet" alt=""/>
       <caption webpage="getpet" alt=""/>
@@ -68,6 +58,16 @@
       <caption webpage="zeit" alt=""/>
       <caption webpage="zeit" alt=""/>
       <caption webpage="zeit" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="windowear" alt=""/>
+      <caption webpage="windowear" alt=""/>
+      <caption webpage="windowear" alt=""/>
+      <caption webpage="windowear" alt=""/>
+      <caption webpage="windowear" alt=""/>
       <caption webpage="citi-mobile" alt=""/>
       <caption webpage="citi-mobile" alt=""/>
       <caption webpage="citi-mobile" alt=""/>
@@ -88,23 +88,23 @@
     <file name="mobile-menu.jpg" crc="3954470239" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="windowear" alt=""/>
-      <caption webpage="windowear" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="about" alt=""/>
       <caption webpage="getpet" alt=""/>
       <caption webpage="getpet" alt=""/>
       <caption webpage="zeit" alt=""/>
       <caption webpage="zeit" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="windowear" alt=""/>
+      <caption webpage="windowear" alt=""/>
       <caption webpage="citi-mobile" alt=""/>
       <caption webpage="citi-mobile" alt=""/>
     </file>
     <file name="mobile-menu-550.jpg" crc="3782482782" ref="index">
       <caption webpage="index" alt=""/>
-      <caption webpage="windowear" alt=""/>
-      <caption webpage="about" alt=""/>
       <caption webpage="getpet" alt=""/>
       <caption webpage="zeit" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="windowear" alt=""/>
       <caption webpage="citi-mobile" alt=""/>
     </file>
     <file name="logo-zeit-05.svg" crc="324827151" seo="true" ref="zeit">
@@ -448,7 +448,7 @@
     <file name="zeit-hp2@2x-crop-u5471704.jpg" crc="4240919799" seo="true" ref="zeit">
       <caption webpage="zeit" alt=""/>
     </file>
-    <file name="zeit-hp2@2x-crop-u547170_2x4.jpg" crc="4020774316" seo="true" ref="zeit">
+    <file name="zeit-hp2@2x-crop-u547170_2x4.jpg" crc="4139013562" seo="true" ref="zeit">
       <caption webpage="zeit" alt=""/>
     </file>
     <file name="zeit-hp3@2x-crop-u5472604.jpg" crc="3839099888" seo="true" ref="zeit">
@@ -862,7 +862,7 @@
     <file name="getpet-product@2x-crop-u6580883.jpg" crc="4276364397" seo="true" ref="getpet">
       <caption webpage="getpet" alt=""/>
     </file>
-    <file name="getpet-product@2x-crop-u658088_2x3.jpg" crc="286722405" seo="true" ref="getpet">
+    <file name="getpet-product@2x-crop-u658088_2x3.jpg" crc="4122075128" seo="true" ref="getpet">
       <caption webpage="getpet" alt=""/>
     </file>
     <file name="u543038-43.png" crc="157318091" ref="getpet"/>
@@ -959,7 +959,7 @@
     <file name="getpet-user-flow@2x-crop-u546315_2x4.jpg" crc="4058860446" seo="true" ref="getpet">
       <caption webpage="getpet" alt=""/>
     </file>
-    <file name="getpet-home-desktop@2x-crop-u6580814.jpg" crc="429137915" seo="true" ref="getpet">
+    <file name="getpet-home-desktop@2x-crop-u6580814.jpg" crc="4221103990" seo="true" ref="getpet">
       <caption webpage="getpet" alt=""/>
     </file>
     <file name="getpet-home-desktop@2x-crop-u658081_2x4.jpg" crc="3968646845" seo="true" ref="getpet">
@@ -1065,7 +1065,7 @@
     <file name="getpet-persona@2x-crop-u546041_2x5.jpg" crc="4012731500" seo="true" ref="getpet">
       <caption webpage="getpet" alt=""/>
     </file>
-    <file name="getpet-site-map@2x-crop-u5460595.jpg" crc="4187790798" seo="true" ref="getpet">
+    <file name="getpet-site-map@2x-crop-u5460595.jpg" crc="4238632458" seo="true" ref="getpet">
       <caption webpage="getpet" alt=""/>
     </file>
     <file name="getpet-site-map@2x-crop-u546059_2x5.jpg" crc="385251775" seo="true" ref="getpet">
@@ -1851,7 +1851,7 @@
     <file name="ww-user-flow-fructions@2x-crop-u622599_2x5.jpg" crc="359031294" seo="true" ref="windowear">
       <caption webpage="windowear" alt=""/>
     </file>
-    <file name="ww-ui-kit@2x-crop-u6226895.jpg" crc="4247655520" seo="true" ref="windowear">
+    <file name="ww-ui-kit@2x-crop-u6226895.jpg" crc="153000615" seo="true" ref="windowear">
       <caption webpage="windowear" alt=""/>
     </file>
     <file name="ww-ui-kit@2x-crop-u622689_2x5.jpg" crc="3941365335" seo="true" ref="windowear">
@@ -2096,7 +2096,7 @@
     <file name="bg-citi.jpg" crc="303177400" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="bg-zeit.jpg" crc="3826943323" ref="index">
+    <file name="bg-zeit.jpg" crc="4132787117" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="zeit-homepage@2x-u829138.png" crc="205630481" ref="index"/>
@@ -2143,10 +2143,10 @@
     <file name="bg-citi_2x.jpg" crc="303177400" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="bg-zeit2.jpg" crc="4142456064" ref="index">
+    <file name="bg-zeit2.jpg" crc="4202428836" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="bg-zeit_2x.jpg" crc="3826943323" ref="index">
+    <file name="bg-zeit_2x.jpg" crc="4132787117" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="zeit-homepage@2x-u8291385.png" crc="3867432999" ref="index"/>
@@ -2186,21 +2186,21 @@
     </file>
     <file name="zeit-bg-u830124-fr.jpg" crc="3875695127" ref="zeit"/>
     <file name="zeit-bg-u830124-fr_2x.jpg" crc="30842639" ref="zeit"/>
-    <file name="getpet-bg.jpg" crc="4129742540" ref="getpet">
+    <file name="getpet-bg.jpg" crc="443377164" ref="getpet">
       <caption webpage="getpet" alt=""/>
     </file>
     <file name="getpet-mac@2x-u819761.png" crc="414341969" ref="getpet"/>
     <file name="getpet-mac@2x-u8197612.png" crc="4031004219" ref="getpet"/>
     <file name="getpet-mac@2x-u8197613.png" crc="4148844889" ref="getpet"/>
-    <file name="getpet-bg2.jpg" crc="318941869" ref="getpet">
+    <file name="getpet-bg2.jpg" crc="3808132546" ref="getpet">
       <caption webpage="getpet" alt=""/>
     </file>
-    <file name="getpet-bg_2x.jpg" crc="4129742540" ref="getpet">
+    <file name="getpet-bg_2x.jpg" crc="443377164" ref="getpet">
       <caption webpage="getpet" alt=""/>
     </file>
     <file name="getpet-mac@2x-u8197614.png" crc="3870580008" ref="getpet"/>
-    <file name="getpet-bg-u819738-fr.jpg" crc="3881912822" ref="getpet"/>
-    <file name="getpet-bg-u819738-fr_2x.jpg" crc="87372610" ref="getpet"/>
+    <file name="getpet-bg-u819738-fr.jpg" crc="414621477" ref="getpet"/>
+    <file name="getpet-bg-u819738-fr_2x.jpg" crc="3911675867" ref="getpet"/>
     <file name="getpet-mac@2x-u8197615.png" crc="60056905" ref="getpet"/>
     <file name="citi-bg.jpg" crc="4203622691" ref="citi-mobile">
       <caption webpage="citi-mobile" alt=""/>
@@ -2314,10 +2314,10 @@
     <file name="getpet-mac@2x-u819761_2x4.png" crc="506046298" ref="getpet"/>
     <file name="getpet-mac@2x-u819761_2x5.png" crc="4044662399" ref="getpet"/>
   </folder>
-  <file name="index.html" crc="392866474" seo="true" mt="1522224157117" redirect="true"/>
+  <file name="index.html" crc="3762833973" seo="true" mt="1522245424075" redirect="true"/>
   <file name="about.html" crc="4189574678" seo="true" mt="1522224157117" redirect="true"/>
-  <file name="zeit.html" crc="255824255" seo="true" mt="1522224157117" redirect="true"/>
-  <file name="getpet.html" crc="3809590871" seo="true" mt="1522224178890" redirect="true"/>
+  <file name="zeit.html" crc="4014328619" seo="true" mt="1522245579653" redirect="true"/>
+  <file name="getpet.html" crc="4106731199" seo="true" mt="1522248157020" redirect="true"/>
   <file name="citi-mobile.html" crc="337238093" seo="true" mt="1522224157117" redirect="true"/>
-  <file name="windowear.html" crc="40160536" seo="true" mt="1522224157117" redirect="true"/>
+  <file name="windowear.html" crc="37958943" seo="true" mt="1522245617253" redirect="true"/>
 </manifest>
