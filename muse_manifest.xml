@@ -1,15 +1,15 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="bolshchikova.com" resolutions="1x,2x" timestamp="1522221103249">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="bolshchikova.com" resolutions="1x,2x" timestamp="1522221395644">
   <folder name="css">
     <file name="site_global.css" crc="159693077"/>
-    <file name="master_b-master.css" crc="435665478" ref="about:getpet:index:zeit:windowear:citi-mobile"/>
-    <file name="nomq_preview_master_b-master.css" crc="4259634550" ref="about:getpet:index:zeit:windowear:citi-mobile"/>
+    <file name="master_b-master.css" crc="3988456248" ref="about:getpet:index:zeit:windowear:citi-mobile"/>
+    <file name="nomq_preview_master_b-master.css" crc="338613514" ref="about:getpet:index:zeit:windowear:citi-mobile"/>
     <file name="about.css" crc="232866181" ref="about"/>
     <file name="nomq_about.css" crc="4045984583" ref="about"/>
     <file name="iefonts_about.css" crc="507036893" ref="about"/>
     <file name="getpet.css" crc="438271026" ref="getpet"/>
     <file name="nomq_getpet.css" crc="3915515029" ref="getpet"/>
     <file name="iefonts_getpet.css" crc="507036893" ref="getpet"/>
-    <file name="index.css" crc="3783002911" ref="index"/>
+    <file name="index.css" crc="156283840" ref="index"/>
     <file name="nomq_index.css" crc="529094793" ref="index"/>
     <file name="iefonts_index.css" crc="507036893" ref="index"/>
     <file name="zeit.css" crc="368191684" ref="zeit"/>
@@ -48,21 +48,6 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="windowear" alt=""/>
-      <caption webpage="windowear" alt=""/>
-      <caption webpage="windowear" alt=""/>
-      <caption webpage="windowear" alt=""/>
-      <caption webpage="windowear" alt=""/>
-      <caption webpage="zeit" alt=""/>
-      <caption webpage="zeit" alt=""/>
-      <caption webpage="zeit" alt=""/>
-      <caption webpage="zeit" alt=""/>
-      <caption webpage="zeit" alt=""/>
-      <caption webpage="citi-mobile" alt=""/>
-      <caption webpage="citi-mobile" alt=""/>
-      <caption webpage="citi-mobile" alt=""/>
-      <caption webpage="citi-mobile" alt=""/>
-      <caption webpage="citi-mobile" alt=""/>
       <caption webpage="getpet" alt=""/>
       <caption webpage="getpet" alt=""/>
       <caption webpage="getpet" alt=""/>
@@ -73,6 +58,21 @@
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
+      <caption webpage="windowear" alt=""/>
+      <caption webpage="windowear" alt=""/>
+      <caption webpage="windowear" alt=""/>
+      <caption webpage="windowear" alt=""/>
+      <caption webpage="windowear" alt=""/>
+      <caption webpage="citi-mobile" alt=""/>
+      <caption webpage="citi-mobile" alt=""/>
+      <caption webpage="citi-mobile" alt=""/>
+      <caption webpage="citi-mobile" alt=""/>
+      <caption webpage="citi-mobile" alt=""/>
+      <caption webpage="zeit" alt=""/>
+      <caption webpage="zeit" alt=""/>
+      <caption webpage="zeit" alt=""/>
+      <caption webpage="zeit" alt=""/>
+      <caption webpage="zeit" alt=""/>
     </file>
     <file name="log-olga_poster_.png" crc="367087102" ref="index"/>
     <file name="email-1.svg" crc="4100113511" ref="index"/>
@@ -88,24 +88,24 @@
     <file name="mobile-menu.jpg" crc="3954470239" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="windowear" alt=""/>
-      <caption webpage="windowear" alt=""/>
-      <caption webpage="zeit" alt=""/>
-      <caption webpage="zeit" alt=""/>
-      <caption webpage="citi-mobile" alt=""/>
-      <caption webpage="citi-mobile" alt=""/>
       <caption webpage="getpet" alt=""/>
       <caption webpage="getpet" alt=""/>
       <caption webpage="about" alt=""/>
       <caption webpage="about" alt=""/>
+      <caption webpage="windowear" alt=""/>
+      <caption webpage="windowear" alt=""/>
+      <caption webpage="citi-mobile" alt=""/>
+      <caption webpage="citi-mobile" alt=""/>
+      <caption webpage="zeit" alt=""/>
+      <caption webpage="zeit" alt=""/>
     </file>
     <file name="mobile-menu-550.jpg" crc="3782482782" ref="index">
       <caption webpage="index" alt=""/>
-      <caption webpage="windowear" alt=""/>
-      <caption webpage="zeit" alt=""/>
-      <caption webpage="citi-mobile" alt=""/>
       <caption webpage="getpet" alt=""/>
       <caption webpage="about" alt=""/>
+      <caption webpage="windowear" alt=""/>
+      <caption webpage="citi-mobile" alt=""/>
+      <caption webpage="zeit" alt=""/>
     </file>
     <file name="logo-zeit-05.svg" crc="324827151" seo="true" ref="zeit">
       <caption webpage="zeit" alt=""/>
@@ -2151,8 +2151,8 @@
     <file name="bg-citi_2x.jpg" crc="303177400" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="citi-homepage@2x-u8042385.png" crc="4083771380" ref="index"/>
-    <file name="citi-homepage@2x-u804238_2x5.png" crc="398516464" ref="index"/>
+    <file name="citi-homepage@2x-u8042385.png" crc="3760150464" ref="index"/>
+    <file name="citi-homepage@2x-u804238_2x5.png" crc="229324651" ref="index"/>
     <file name="bg-zeit2.jpg" crc="4142456064" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -2309,7 +2309,7 @@
       <caption webpage="zeit" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="3843116498" seo="true" mt="1522220986319" redirect="true"/>
+  <file name="index.html" crc="510385396" seo="true" mt="1522221364508" redirect="true"/>
   <file name="about.html" crc="82985951" seo="true" mt="1522220005198" redirect="true"/>
   <file name="zeit.html" crc="3842806716" seo="true" mt="1522220913587" redirect="true"/>
   <file name="getpet.html" crc="3922861120" seo="true" mt="1522220885847" redirect="true"/>
