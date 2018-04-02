@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://bolshchikova.com/index.html</loc>
-    <lastmod>2018-03-31</lastmod>
+    <lastmod>2018-04-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -524,7 +524,7 @@
   </url>
   <url>
     <loc>http://bolshchikova.com/citi-mobile.html</loc>
-    <lastmod>2018-03-31</lastmod>
+    <lastmod>2018-04-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -609,40 +609,10 @@
       <image:loc>http://bolshchikova.com/images/citibank-logo113x38_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://bolshchikova.com/images/citi@2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://bolshchikova.com/images/citi@2x_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://bolshchikova.com/images/citi@2x628x415.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://bolshchikova.com/images/citi@2x628x415_2x.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://bolshchikova.com/images/citibank-logo147x49.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://bolshchikova.com/images/citibank-logo147x49_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://bolshchikova.com/images/citi@2x545x360.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://bolshchikova.com/images/citi@2x545x360_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://bolshchikova.com/images/citi@2x475x314.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://bolshchikova.com/images/citi@2x475x314_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://bolshchikova.com/images/citi@2x372x246.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://bolshchikova.com/images/citi@2x372x246_2x.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://bolshchikova.com/images/icon-1-03.svg</image:loc>
@@ -853,6 +823,36 @@
     </image:image>
     <image:image>
       <image:loc>http://bolshchikova.com/images/citi-visual@2x385x259_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bolshchikova.com/images/citi@2x-crop-u825427.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bolshchikova.com/images/citi@2x-crop-u825427_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bolshchikova.com/images/citi@2x-crop-u8254272.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bolshchikova.com/images/citi@2x-crop-u825427_2x2.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bolshchikova.com/images/citi@2x-crop-u8254273.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bolshchikova.com/images/citi@2x-crop-u825427_2x3.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bolshchikova.com/images/citi@2x-crop-u8254274.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bolshchikova.com/images/citi@2x-crop-u825427_2x4.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bolshchikova.com/images/citi@2x-crop-u8254275.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bolshchikova.com/images/citi@2x-crop-u825427_2x5.png</image:loc>
     </image:image>
   </url>
   <url>
@@ -1493,7 +1493,7 @@
   </url>
   <url>
     <loc>http://bolshchikova.com/windowear.html</loc>
-    <lastmod>2018-03-31</lastmod>
+    <lastmod>2018-04-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
