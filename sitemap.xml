@@ -11,7 +11,7 @@
   </url>
   <url>
     <loc>http://bolshchikova.com/zeit.html</loc>
-    <lastmod>2018-03-31</lastmod>
+    <lastmod>2018-04-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -413,7 +413,7 @@
   </url>
   <url>
     <loc>http://bolshchikova.com/about.html</loc>
-    <lastmod>2018-03-31</lastmod>
+    <lastmod>2018-04-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -857,7 +857,7 @@
   </url>
   <url>
     <loc>http://bolshchikova.com/getpet.html</loc>
-    <lastmod>2018-03-31</lastmod>
+    <lastmod>2018-04-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1515,30 +1515,6 @@
       <image:loc>http://bolshchikova.com/images/ww-user-flow-fructions@2x-crop-u622599_2x.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://bolshchikova.com/images/ww-sketches@2x-crop-u6226532.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://bolshchikova.com/images/ww-sketches@2x-crop-u622653_2x2.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://bolshchikova.com/images/ww-sketches@2x-crop-u6226533.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://bolshchikova.com/images/ww-sketches@2x-crop-u622653_2x3.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://bolshchikova.com/images/ww-sketches@2x-crop-u6226534.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://bolshchikova.com/images/ww-sketches@2x-crop-u622653_2x4.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://bolshchikova.com/images/ww-sketches@2x-crop-u6226535.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://bolshchikova.com/images/ww-sketches@2x-crop-u622653_2x5.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://bolshchikova.com/images/ww@2x-crop-u814169.png</image:loc>
     </image:image>
     <image:image>
@@ -1855,6 +1831,24 @@
     </image:image>
     <image:image>
       <image:loc>http://bolshchikova.com/images/ww-18-choice@2x301x433_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bolshchikova.com/images/ww-sketches@2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bolshchikova.com/images/ww-sketches@2x_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bolshchikova.com/images/ww-sketches@2x540x227.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bolshchikova.com/images/ww-sketches@2x540x227_2x.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bolshchikova.com/images/ww-sketches@2x384x161.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://bolshchikova.com/images/ww-sketches@2x384x161_2x.jpg</image:loc>
     </image:image>
   </url>
   <url>
