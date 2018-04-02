@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="bolshchikova.com" resolutions="1x,2x" timestamp="1522709569645">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="bolshchikova.com" resolutions="1x,2x" timestamp="1522709728096">
   <folder name="fonts">
     <file name="worksansthin.woff" crc="311341505"/>
     <file name="worksansthin.eot" crc="275178483"/>
@@ -32,7 +32,7 @@
     <file name="iefonts_index.css" crc="4049903181" ref="index"/>
     <file name="zeit.css" crc="4280895580" ref="zeit"/>
     <file name="nomq_zeit.css" crc="4266521578" ref="zeit"/>
-    <file name="windowear.css" crc="171947678" ref="windowear"/>
+    <file name="windowear.css" crc="4199749570" ref="windowear"/>
     <file name="nomq_windowear.css" crc="490034880" ref="windowear"/>
     <file name="iefonts_windowear.css" crc="4049903181" ref="windowear"/>
     <file name="citi-mobile.css" crc="41288808" ref="citi-mobile"/>
@@ -2484,5 +2484,5 @@
   <file name="zeit.html" crc="4258097434" seo="true" mt="1522538613910" redirect="true"/>
   <file name="getpet.html" crc="3920001610" seo="true" mt="1522538562244" redirect="true"/>
   <file name="citi-mobile.html" crc="491221072" seo="true" mt="1522704955154" redirect="true"/>
-  <file name="windowear.html" crc="3868227601" seo="true" mt="1522709535820" redirect="true"/>
+  <file name="windowear.html" crc="3963488656" seo="true" mt="1522709684806" redirect="true"/>
 </manifest>
