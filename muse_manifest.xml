@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="bolshchikova.com" resolutions="1x,2x" timestamp="1522910435618">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="bolshchikova.com" resolutions="1x,2x" timestamp="1522954913139">
   <folder name="fonts">
     <file name="worksansthin.woff" crc="311341505"/>
     <file name="worksansthin.eot" crc="275178483"/>
@@ -35,8 +35,8 @@
     <file name="windowear.css" crc="3972026247" ref="windowear"/>
     <file name="nomq_windowear.css" crc="62848890" ref="windowear"/>
     <file name="iefonts_windowear.css" crc="4049903181" ref="windowear"/>
-    <file name="citi-mobile.css" crc="4224469307" ref="citi-mobile"/>
-    <file name="nomq_citi-mobile.css" crc="415112939" ref="citi-mobile"/>
+    <file name="citi-mobile.css" crc="314701278" ref="citi-mobile"/>
+    <file name="nomq_citi-mobile.css" crc="4274386545" ref="citi-mobile"/>
     <file name="iefonts_citi-mobile.css" crc="4049903181" ref="citi-mobile"/>
   </folder>
   <folder name="assets">
@@ -2479,6 +2479,6 @@
   <file name="about.html" crc="212194032" seo="true" mt="1522712705594" redirect="true"/>
   <file name="zeit.html" crc="4052622717" seo="true" mt="1522712738919" redirect="true"/>
   <file name="getpet.html" crc="3860782067" seo="true" mt="1522712648582" redirect="true"/>
-  <file name="citi-mobile.html" crc="4039605159" seo="true" mt="1522910381249" redirect="true"/>
+  <file name="citi-mobile.html" crc="4235427374" seo="true" mt="1522954876922" redirect="true"/>
   <file name="windowear.html" crc="115764814" seo="true" mt="1522885962269" redirect="true"/>
 </manifest>
